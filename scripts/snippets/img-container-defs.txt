@@ -17,6 +17,15 @@
 			type.textContent = card_stats.type;
 			text.appendChild(type);
 
+			if(card_stats.rarity && card_stats.rarity != "")
+			{
+				const rarity = document.createElement("div");
+				rarity.className = "rarity";
+				rarity.classList.add("rarity-" + card_stats.rarity.replace(" ", "-"));
+				rarity.textContent = card_stats.rarity.charAt(0).toUpperCase() + card_stats.rarity.slice(1);
+				text.appendChild(rarity);
+			}
+
 			const effect = document.createElement("div");
 			effect.className = "effect";
 			let card_effects = "";

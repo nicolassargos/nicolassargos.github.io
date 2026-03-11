@@ -15,6 +15,28 @@
 	font-size: 16px;
 	padding-bottom: 3px;
 }
+.card-text .rarity {
+	font-size: 13px;
+	font-weight: 600;
+	font-style: italic;
+	padding-bottom: 5px;
+}
+.card-text .rarity-common {
+	color: #1a1a1a;
+}
+.card-text .rarity-uncommon {
+	color: #707883;
+}
+.card-text .rarity-rare {
+	color: #a58e4a;
+}
+.card-text .rarity-mythic,
+.card-text .rarity-mythic-rare {
+	color: #bf4427;
+}
+.card-text .rarity-special {
+	color: #b83ee0;
+}
 .card-text .pt {
 	font-weight: bold;
 }
