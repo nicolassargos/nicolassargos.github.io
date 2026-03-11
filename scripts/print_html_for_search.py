@@ -213,6 +213,94 @@ def generateHTML(codes):
 		font-size: 18px;
 		margin-top: 10px;
 	}
+	/* Quick Filters Panel */
+	.quick-filters {
+		width: 70%;
+		max-width: 1200px;
+		margin: 20px auto 10px auto;
+		padding: 15px;
+		background: white;
+		border: 1px solid #d5d9d9;
+		border-radius: 8px;
+		box-shadow: rgba(213, 217, 217, .3) 0 2px 5px 0;
+	}
+	.filter-section {
+		margin-bottom: 12px;
+	}
+	.filter-section:last-child {
+		margin-bottom: 0;
+	}
+	.filter-label {
+		font-size: 12px;
+		font-weight: 600;
+		color: #666;
+		margin-bottom: 6px;
+		text-transform: uppercase;
+		letter-spacing: 0.5px;
+	}
+	.filter-buttons {
+		display: flex;
+		gap: 6px;
+		flex-wrap: wrap;
+	}
+	.filter-btn {
+		padding: 6px 12px;
+		font-size: 13px;
+		min-width: auto;
+		height: auto;
+		border-radius: 16px;
+		background-color: #fafafa;
+		border: 1px solid #d5d9d9;
+		cursor: pointer;
+		transition: all 0.2s;
+	}
+	.filter-btn:hover {
+		background-color: #f0f0f0;
+		border-color: #999;
+	}
+	.filter-btn.active {
+		background-color: #4a90e2;
+		color: white;
+		border-color: #4a90e2;
+	}
+	.filter-btn.color-w { border-left: 3px solid #f0f0c8; }
+	.filter-btn.color-u { border-left: 3px solid #0e68ab; }
+	.filter-btn.color-b { border-left: 3px solid #150b00; }
+	.filter-btn.color-r { border-left: 3px solid #d3202a; }
+	.filter-btn.color-g { border-left: 3px solid #00733e; }
+	.filter-btn.color-c { border-left: 3px solid #ccc; }
+	.filter-btn.color-m { border-left: 3px solid linear-gradient(90deg, #f0f0c8, #0e68ab, #150b00); }
+	/* Filter Chips */
+	.filter-chips {
+		width: 70%;
+		max-width: 1200px;
+		margin: 0 auto 10px auto;
+		display: flex;
+		gap: 6px;
+		flex-wrap: wrap;
+		min-height: 24px;
+	}
+	.filter-chip {
+		display: inline-flex;
+		align-items: center;
+		gap: 6px;
+		padding: 4px 10px;
+		background-color: #e3f2fd;
+		border: 1px solid #90caf9;
+		border-radius: 16px;
+		font-size: 12px;
+		color: #1565c0;
+		font-weight: 500;
+	}
+	.filter-chip .remove {
+		cursor: pointer;
+		font-weight: bold;
+		opacity: 0.7;
+		padding: 0 3px;
+	}
+	.filter-chip .remove:hover {
+		opacity: 1;
+	}
 </style>
 <body>
 	'''
@@ -222,6 +310,48 @@ def generateHTML(codes):
 		html_content += snippet
 
 	html_content += '''
+	
+	<!-- Quick Filters Panel -->
+	<div class="quick-filters">
+		<div class="filter-section">
+			<div class="filter-label">Colors</div>
+			<div class="filter-buttons">
+				<button class="filter-btn color-w" data-filter="c:w" title="White">W</button>
+				<button class="filter-btn color-u" data-filter="c:u" title="Blue">U</button>
+				<button class="filter-btn color-b" data-filter="c:b" title="Black">B</button>
+				<button class="filter-btn color-r" data-filter="c:r" title="Red">R</button>
+				<button class="filter-btn color-g" data-filter="c:g" title="Green">G</button>
+				<button class="filter-btn color-c" data-filter="c:c" title="Colorless">C</button>
+				<button class="filter-btn color-m" data-filter="c:m" title="Multicolor">M</button>
+			</div>
+		</div>
+		<div class="filter-section">
+			<div class="filter-label">Card Types</div>
+			<div class="filter-buttons">
+				<button class="filter-btn" data-filter="t:creature">Creature</button>
+				<button class="filter-btn" data-filter="t:instant">Instant</button>
+				<button class="filter-btn" data-filter="t:sorcery">Sorcery</button>
+				<button class="filter-btn" data-filter="t:enchantment">Enchantment</button>
+				<button class="filter-btn" data-filter="t:artifact">Artifact</button>
+				<button class="filter-btn" data-filter="t:planeswalker">Planeswalker</button>
+				<button class="filter-btn" data-filter="t:land">Land</button>
+			</div>
+		</div>
+		<div class="filter-section">
+			<div class="filter-label">Rarity</div>
+			<div class="filter-buttons">
+				<button class="filter-btn" data-filter="r:common">Common</button>
+				<button class="filter-btn" data-filter="r:uncommon">Uncommon</button>
+				<button class="filter-btn" data-filter="r:rare">Rare</button>
+				<button class="filter-btn" data-filter="r:mythic">Mythic</button>
+			</div>
+		</div>
+	</div>
+
+	<!-- Filter Chips Display -->
+	<div class="filter-chips" id="filter-chips">
+	</div>
+
 	<div class="button-grid">
 		<div class="select-text"><div class="results-text" id="results-text">Loading ...</div>Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="name">Name</option><option value="set-code">Set / Number</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option><option value="cube">Cube</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>		
 		<div class="prev-next-btns">
@@ -320,6 +450,72 @@ def generateHTML(codes):
 		document.getElementById("sort-by").onchange = displayChangeListener;
 		document.getElementById("display").onchange = displayChangeListener;
 		document.getElementById("sort-order").onchange = displayChangeListener;
+
+		// Quick Filter Buttons Handler
+		document.querySelectorAll('.filter-btn').forEach(btn => {
+			btn.addEventListener('click', function(e) {
+				e.preventDefault();
+				const filter = this.getAttribute('data-filter');
+				const searchBox = document.getElementById('search');
+				let currentSearch = searchBox.value.trim();
+				
+				// Toggle active state
+				if (this.classList.contains('active')) {
+					// Remove filter
+					this.classList.remove('active');
+					currentSearch = currentSearch.split(' ').filter(term => term !== filter).join(' ');
+				} else {
+					// Add filter
+					this.classList.add('active');
+					currentSearch = currentSearch ? currentSearch + ' ' + filter : filter;
+				}
+				
+				searchBox.value = currentSearch.trim();
+				updateFilterChips();
+				preSearch(true);
+			});
+		});
+
+		// Update Filter Chips based on search query
+		function updateFilterChips() {
+			const searchBox = document.getElementById('search');
+			const searchTerms = searchBox.value.trim().split(/\s+/);
+			const chipsContainer = document.getElementById('filter-chips');
+			chipsContainer.innerHTML = '';
+			
+			// Update button states and create chips
+			document.querySelectorAll('.filter-btn').forEach(btn => {
+				const filter = btn.getAttribute('data-filter');
+				if (searchTerms.includes(filter)) {
+					btn.classList.add('active');
+					
+					// Create chip
+					const chip = document.createElement('div');
+					chip.className = 'filter-chip';
+					chip.innerHTML = `<span>${filter}</span><span class="remove" title="Remove filter">×</span>`;
+					chip.querySelector('.remove').addEventListener('click', () => removeFilter(filter));
+					chipsContainer.appendChild(chip);
+				} else {
+					btn.classList.remove('active');
+				}
+			});
+		}
+
+		// Remove a filter
+		function removeFilter(filter) {
+			const searchBox = document.getElementById('search');
+			let currentSearch = searchBox.value.trim();
+			currentSearch = currentSearch.split(' ').filter(term => term !== filter).join(' ');
+			searchBox.value = currentSearch.trim();
+			updateFilterChips();
+			preSearch(true);
+		}
+
+		// Update chips on search input
+		document.getElementById('search').addEventListener('input', updateFilterChips);
+		
+		// Initial chip update
+		updateFilterChips();
 
 		window.addEventListener('popstate', function(event) {
 			let params = decodeURIComponent(window.location.href.indexOf("?search") == -1 ? "" : window.location.href.substring(window.location.href.indexOf("?search") + 8), (window.location.href.indexOf("page=") == -1 ? window.location.href.length : window.location.href.indexOf("page=")));
