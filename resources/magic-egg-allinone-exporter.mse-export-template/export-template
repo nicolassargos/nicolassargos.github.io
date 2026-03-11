@@ -320,10 +320,103 @@ script:
 		"1046" : invert_image("/magic-modules.mse-include/corners/750x1046 rounded and antialiased.png")
 	]
 
+	#### load rarity symbols once for all cards
+	rarity_symbols := [
+		"common"      : symbol_variation(symbol: set.symbol, variation: "common")(),
+		"uncommon"    : symbol_variation(symbol: set.symbol, variation: "uncommon")(),
+		"rare"        : symbol_variation(symbol: set.symbol, variation: "rare")(),
+		"mythic"      : symbol_variation(symbol: set.symbol, variation: "mythic rare")(),
+		"mythic rare" : symbol_variation(symbol: set.symbol, variation: "mythic rare")(),
+		"special"     : symbol_variation(symbol: set.symbol, variation: "rare")()
+	]
+
+	#### helper function to get rarity symbol position and size based on card dimensions
+	get_rarity_position := {
+		card_w := input.width
+		card_h := input.height
+		
+		#### MPC-Ready template (822x1116) and similar high-res templates
+		if card_w == 822 or card_w == 1116 then [
+			x: 685,
+			y: 650,
+			width: 40,
+			height: 40
+		]
+		#### Standard 375x523 template
+		else if card_w == 375 or card_w == 523 then [
+			x: 312,
+			y: 296,
+			width: 18,
+			height: 18
+		]
+		#### 646x902 template
+		else if card_w == 646 or card_w == 902 then [
+			x: 538,
+			y: 509,
+			width: 31,
+			height: 31
+		]
+		#### 744x1039 template
+		else if card_w == 744 or card_w == 1039 then [
+			x: 621,
+			y: 584,
+			width: 36,
+			height: 36
+		]
+		#### 750x1046 template
+		else if card_w == 750 or card_w == 1046 then [
+			x: 626,
+			y: 591,
+			width: 36,
+			height: 36
+		]
+		#### default fallback (proportional to card size)
+		else [
+			x: to_int(card_w * 0.833),
+			y: to_int(card_h * 0.582),
+			width: to_int(card_w * 0.049),
+			height: to_int(card_w * 0.049)
+		]
+	}
+
+	#### helper function to overlay rarity symbol on card image
+	add_rarity_symbol := {
+		base_image := input.image
+		rarity := input.rarity
+		card_w := input.width
+		card_h := input.height
+		
+		#### get the appropriate rarity symbol
+		rarity_img := rarity_symbols[rarity] or else rarity_symbols["common"]
+		
+		#### get position for this card size
+		pos := get_rarity_position(width: card_w, height: card_h)
+		
+		#### resize the rarity symbol to appropriate size
+		resized_symbol := recolor_image(rarity_img, color: rgba(255,255,255,0))
+		resized_symbol := set_alpha(rarity_img, alpha: linear_blend(
+			image1: rarity_img,
+			image2: resized_symbol,
+			x1: 0, y1: 0, x2: 1, y2: 0
+		))
+		
+		#### blend the rarity symbol onto the card
+		combine_blend(
+			image1: base_image,
+			image2: rarity_img,
+			combine: "normal",
+			x: pos.x,
+			y: pos.y,
+			width: pos.width,
+			height: pos.height
+		)
+	}
+
 	write_all_images := {
 		for each card in cards do (
 			card_position := position(of:card, in:set)
 			card_image := to_card_image(card)
+			card_rar := card_rarity()
 			#### double faced templates
 			if contains(card.shape, match:"double") then (
 				#### check if we need to rotate the front face (if it's a battle)
@@ -333,6 +426,9 @@ script:
 				front_image := crop(card_image, width: front_width, height: front_height, offset_x: 0, offset_y: 0)
 				back_image := crop(card_image, width: 375, height: 523, offset_x: front_width + 2, offset_y: 0)
 				if rotated then front_image := rotate_image(front_image, angle: 90)
+				#### add rarity symbols to both faces
+				front_image := add_rarity_symbol(image: front_image, rarity: card_rar, width: 375, height: 523)
+				back_image := add_rarity_symbol(image: back_image, rarity: card_rar, width: 375, height: 523)
 				#### add transparent corners (all double faced templates are 375x523)
 				front_image := set_mask(image: front_image, mask: corner_masks["523"])
 				back_image := set_mask(image: back_image, mask: corner_masks["523"])
@@ -344,8 +440,16 @@ script:
 			else (
 				#### check if we need to rotate the card image (if it's a battle)
 				card_width := width_of(card_image)
+				card_height := height_of(card_image)
 				rotated := card_width == 523 or card_width == 902 or card_width == 1039 or card_width == 1046
 				if rotated then card_image := rotate_image(card_image, angle: 90)
+				#### add rarity symbol before masking corners
+				card_image := add_rarity_symbol(
+					image: card_image,
+					rarity: card_rar,
+					width: if rotated then card_height else card_width,
+					height: if rotated then card_width else card_height
+				)
 				#### add transparent corners
 				mask_height := to_string(if rotated then card_width else height_of(card_image))
 				corner_mask := corner_masks[mask_height] or else corner_masks["1046"]
