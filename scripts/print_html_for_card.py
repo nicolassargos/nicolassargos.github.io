@@ -157,6 +157,31 @@ def generateHTML():
 	.hidden {
 		display: none;
 	}
+	/* Comments Section */
+	.comments-container {
+		width: 70%;
+		max-width: 1000px;
+		margin: 40px auto 60px auto;
+		padding: 20px;
+		background: #fcfcfc;
+		border: 1px solid #d5d9d9;
+		border-top: 3px solid #171717;
+		border-radius: 6px;
+	}
+	.comments-header {
+		font-family: Beleren;
+		font-size: 24px;
+		color: #171717;
+		margin-bottom: 15px;
+		padding-bottom: 10px;
+		border-bottom: 2px solid #e0e0e0;
+	}
+	.comments-info {
+		font-size: 13px;
+		color: #666;
+		margin-bottom: 20px;
+		line-height: 1.6;
+	}
 </style>
 <body>
 	'''
@@ -176,6 +201,21 @@ def generateHTML():
 	</div>
 
 	<div class="grid-container" id="grid">
+	</div>
+
+	<!-- Comments Section -->
+	<div class="comments-container">
+		<div class="comments-header">💬 Discussion</div>
+		<div class="comments-info">
+			Share your thoughts about this card! Comments are powered by GitHub and require a GitHub account to post.
+		</div>
+		<script src="https://utteranc.es/client.js"
+			repo="nicolassargos/nicolassargos.github.io"
+			issue-term="pathname"
+			theme="github-light"
+			crossorigin="anonymous"
+			async>
+		</script>
 	</div>
 
 	<script>
