@@ -623,11 +623,7 @@ def generateHTML(codes):
 		}
 
 		function getCardUrl(card) {
-			const url = new URL(rootPath + '/card', window.location.origin);
-			url.searchParams.append('set', card.set);
-			url.searchParams.append('num', card.number);
-			url.searchParams.append('name', card.card_name);
-			return url.href;
+			return rootPath + '/card-' + card.set + '-' + card.number + '.html';
 		}
 
 		function gridifyCard(card_stats, card_text = false, small = false, designer_notes = false) {

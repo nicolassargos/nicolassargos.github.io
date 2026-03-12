@@ -840,17 +840,7 @@ def generateHTML(code):
 			let i = Math.floor(Math.random() * (set_card_list.length + 1));
 			let random_card = set_card_list[i];
 
-			const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
-			const params = {
-				set: random_card.set,
-				num: random_card.number,
-				name: random_card.card_name
-			}
-			for (const key in params) {
-				url.searchParams.append(key, params[key]);
-			}
-
-			window.location.href = url.pathname + url.search;
+			window.location.href = rootPath + '/card-' + random_card.set + '-' + random_card.number + '.html';
 		}
 
 		'''

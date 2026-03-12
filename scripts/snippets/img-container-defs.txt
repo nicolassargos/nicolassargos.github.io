@@ -135,16 +135,8 @@
 			
 			const link = document.createElement("a");
 			
-			const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
-			const params = {
-				set: card_stats.set,
-				num: card_stats.number,
-				name: card_stats.card_name
-			}
-			for (const key in params) {
-				url.searchParams.append(key, params[key]);
-			}
-			link.href = url.pathname + url.search;
+			// Use individual card page URL for proper social media previews
+			link.href = rootPath + '/card-' + card_stats.set + '-' + card_stats.number + '.html';
 
 			link.appendChild(img);
 

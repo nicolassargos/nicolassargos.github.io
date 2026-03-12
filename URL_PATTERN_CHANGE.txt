@@ -1,0 +1,40 @@
+✅ Individual Card Pages Generated!
+
+WHAT CHANGED:
+=============
+1. Generated 235 individual HTML files (one per card)
+   - Format: card-SET-NUM.html
+   - Example: card-DAD-162.html
+
+2. Each file contains proper Open Graph meta tags for social media
+   - Card name, image, description
+   - Works with WhatsApp, Facebook, Twitter, Discord, etc.
+
+3. Files automatically redirect to the main card.html page
+   - User experience unchanged
+   - Social media crawlers see the meta tags before redirect
+
+NEW URL PATTERN:
+================
+Old: https://nicolassargos.github.io/card?set=DAD&num=162&name=Lost+the+Battalion
+New: https://nicolassargos.github.io/card-DAD-162.html
+
+UPDATED LINK GENERATION:
+========================
+✅ Card grid links (search, sets, deckbuilder)
+✅ Random card buttons
+✅ Index page card of the day
+
+HOW IT WORKS:
+=============
+1. When you share: card-DAD-162.html
+2. WhatsApp reads meta tags → Shows card preview with image
+3. User clicks link → Redirects to card.html with full functionality
+4. Both URLs work, but use the new format for social sharing!
+
+FILES TO COMMIT:
+================
+- All card-*.html files (235 files)
+- Updated scripts/
+- card.html (backward compatibility)
+

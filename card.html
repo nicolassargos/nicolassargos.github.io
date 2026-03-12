@@ -1,6 +1,14 @@
 ﻿<html>
 <head>
 	<title>Card</title>
+	<meta property="og:title" content="Card" id="og-title">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://nicolassargos.github.io/card" id="og-url">
+	<meta property="og:image" content="" id="og-image">
+	<meta property="og:description" content="View custom Magic: The Gathering card" id="og-description">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Card" id="twitter-title">
+	<meta name="twitter:image" content="" id="twitter-image">
 	<link rel="icon" type="image/x-icon" href="./img/favicon.png">
 	<link rel="stylesheet" href="./resources/mana.css">
 	<link rel="stylesheet" href="./resources/header.css">
@@ -364,6 +372,18 @@
 
 			document.title = name;
 
+			// Update Open Graph meta tags for social media previews
+			const cardImageUrl = 'https://nicolassargos.github.io/sets/' + set + '-files/img/' + card.img_index + '.png';
+			const pageUrl = window.location.href;
+			const cardDescription = card.type + (card.mana_cost ? ' - ' + card.mana_cost : '');
+			
+			document.getElementById('og-title').setAttribute('content', name);
+			document.getElementById('og-url').setAttribute('content', pageUrl);
+			document.getElementById('og-image').setAttribute('content', cardImageUrl);
+			document.getElementById('og-description').setAttribute('content', cardDescription);
+			document.getElementById('twitter-title').setAttribute('content', name);
+			document.getElementById('twitter-image').setAttribute('content', cardImageUrl);
+
 			const banner = document.getElementById("set-banner");
 			const banner_logo = document.getElementById("set-banner-logo");
 			const banner_title = document.getElementById("set-banner-title");
@@ -627,16 +647,8 @@
 			
 			const link = document.createElement("a");
 			
-			const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
-			const params = {
-				set: card_stats.set,
-				num: card_stats.number,
-				name: card_stats.card_name
-			}
-			for (const key in params) {
-				url.searchParams.append(key, params[key]);
-			}
-			link.href = url.pathname + url.search;
+			// Use individual card page URL for proper social media previews
+			link.href = rootPath + '/card-' + card_stats.set + '-' + card_stats.number + '.html';
 
 			link.appendChild(img);
 
@@ -781,17 +793,8 @@
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
-				const params = {
-					set: random_card.set,
-					num: random_card.number,
-					name: random_card.card_name
-				}
-				for (const key in params) {
-					url.searchParams.append(key, params[key]);
-				}
-
-				window.location.href = url.pathname + url.search;
+				// Use individual card page URL
+				window.location.href = rootPath + '/card-' + random_card.set + '-' + random_card.number + '.html';
 			}
 	</script>
 </body>

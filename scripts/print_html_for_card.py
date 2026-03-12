@@ -11,6 +11,14 @@ def generateHTML():
 	html_content = '''<html>
 <head>
 	<title>Card</title>
+	<meta property="og:title" content="Card" id="og-title">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://nicolassargos.github.io/card" id="og-url">
+	<meta property="og:image" content="" id="og-image">
+	<meta property="og:description" content="View custom Magic: The Gathering card" id="og-description">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Card" id="twitter-title">
+	<meta name="twitter:image" content="" id="twitter-image">
 	<link rel="icon" type="image/x-icon" href="./img/favicon.png">
 	<link rel="stylesheet" href="./resources/mana.css">
 	<link rel="stylesheet" href="./resources/header.css">
@@ -256,6 +264,18 @@ def generateHTML():
 
 			document.title = name;
 
+			// Update Open Graph meta tags for social media previews
+			const cardImageUrl = 'https://nicolassargos.github.io/sets/' + set + '-files/img/' + card.img_index + '.png';
+			const pageUrl = window.location.href;
+			const cardDescription = card.type + (card.mana_cost ? ' - ' + card.mana_cost : '');
+			
+			document.getElementById('og-title').setAttribute('content', name);
+			document.getElementById('og-url').setAttribute('content', pageUrl);
+			document.getElementById('og-image').setAttribute('content', cardImageUrl);
+			document.getElementById('og-description').setAttribute('content', cardDescription);
+			document.getElementById('twitter-title').setAttribute('content', name);
+			document.getElementById('twitter-image').setAttribute('content', cardImageUrl);
+
 			const banner = document.getElementById("set-banner");
 			const banner_logo = document.getElementById("set-banner-logo");
 			const banner_title = document.getElementById("set-banner-title");
@@ -367,4 +387,63 @@ def generateHTML():
 
 	# Write the HTML content to the output HTML file
 	with open(output_html_file, 'w', encoding='utf-8-sig') as file:
+		file.write(html_content)
+
+def generateIndividualCard(card):
+	"""Generate individual HTML file for a specific card with proper meta tags"""
+	set_code = card['set']
+	card_num = card['number']
+	card_name = card['card_name']
+	
+	# Create filename: card-SET-NUM.html
+	filename = f"card-{set_code}-{card_num}.html"
+	
+	# Determine image URL
+	if 'position' in card:
+		img_suffix = f"{card['position']}"
+	else:
+		img_suffix = f"{card_num}_{card_name}"
+	
+	if card['shape'].lower().find('double') != -1:
+		img_suffix += "_front"
+	
+	img_type = card.get('image_type', 'png')
+	card_image_url = f"https://nicolassargos.github.io/sets/{set_code}-files/img/{img_suffix}.{img_type}"
+	page_url = f"https://nicolassargos.github.io/{filename}"
+	
+	# Create description
+	card_desc = card['type']
+	if card.get('mana_cost'):
+		card_desc += f" - {card['mana_cost']}"
+	
+	html_content = f'''<html>
+<head>
+	<title>{card_name}</title>
+	<meta property="og:title" content="{card_name}">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="{page_url}">
+	<meta property="og:image" content="{card_image_url}">
+	<meta property="og:description" content="{card_desc}">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="{card_name}">
+	<meta name="twitter:image" content="{card_image_url}">
+	<link rel="icon" type="image/x-icon" href="./img/favicon.png">
+	<link rel="stylesheet" href="./resources/mana.css">
+	<link rel="stylesheet" href="./resources/header.css">
+	<link rel="stylesheet" href="./resources/card-text.css">
+</head>
+<script title="root">
+	const rootPath = ".";
+</script>
+<script>
+	// Redirect to the query parameter version to maintain existing functionality
+	window.location.href = `./card?set={set_code}&num={card_num}&name={card_name.replace("'", "\\'")}`;
+</script>
+<body>
+	<p>Loading card: {card_name}...</p>
+	<p>If you are not redirected, <a href="./card?set={set_code}&num={card_num}&name={card_name}">click here</a>.</p>
+</body>
+</html>'''
+	
+	with open(filename, 'w', encoding='utf-8-sig') as file:
 		file.write(html_content)

@@ -251,6 +251,14 @@ for code in set_codes:
 print_html_for_card.generateHTML()
 print(f"HTML file for card display saved as card.html")
 
+# Generate individual card HTML files for social media previews
+print("Generating individual card pages...")
+with open(os.path.join('lists', 'all-cards.json'), encoding='utf-8-sig') as f:
+	all_cards = json.load(f)
+	for card in all_cards['cards']:
+		print_html_for_card.generateIndividualCard(card)
+print(f"Generated {len(all_cards['cards'])} individual card pages")
+
 #CE: only create set_order file if no custom one is provided
 custom_order = os.path.join('lists', 'set-order.json')
 if not os.path.exists(custom_order):

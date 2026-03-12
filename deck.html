@@ -735,11 +735,7 @@ await fetch(rootPath + '/lists/all-cards.json')
 		}
 
 		function getCardUrl(card) {
-			const url = new URL(rootPath + '/card', window.location.origin);
-			url.searchParams.append('set', card.set);
-			url.searchParams.append('num', card.number);
-			url.searchParams.append('name', card.card_name);
-			return url.href;
+			return rootPath + '/card-' + card.set + '-' + card.number + '.html';
 		}
 
 		function gridifyCard(card_stats, card_text = false, small = false, designer_notes = false) {
@@ -886,16 +882,8 @@ await fetch(rootPath + '/lists/all-cards.json')
 			
 			const link = document.createElement("a");
 			
-			const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
-			const params = {
-				set: card_stats.set,
-				num: card_stats.number,
-				name: card_stats.card_name
-			}
-			for (const key in params) {
-				url.searchParams.append(key, params[key]);
-			}
-			link.href = url.pathname + url.search;
+			// Use individual card page URL for proper social media previews
+			link.href = rootPath + '/card-' + card_stats.set + '-' + card_stats.number + '.html';
 
 			link.appendChild(img);
 
@@ -1091,17 +1079,8 @@ function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
-				const params = {
-					set: random_card.set,
-					num: random_card.number,
-					name: random_card.card_name
-				}
-				for (const key in params) {
-					url.searchParams.append(key, params[key]);
-				}
-
-				window.location.href = url.pathname + url.search;
+				// Use individual card page URL
+				window.location.href = rootPath + '/card-' + random_card.set + '-' + random_card.number + '.html';
 			}
 	</script>
 </body>
