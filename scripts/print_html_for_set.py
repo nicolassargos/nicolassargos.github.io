@@ -301,25 +301,32 @@ def generateHTML(code):
 	}
 	.canvas-container {
 		height: 89%;
-		align-content: center;
-		padding-bottom: 1%;
-		position: relative;
+		display: grid;
+		grid-template-columns: 2fr 1fr;
+		gap: 20px;
+		padding: 1%;
 	}
-	.card-preview {
-		position: fixed;
-		display: none;
-		pointer-events: none;
-		z-index: 10001;
-		border: 2px solid #333;
-		border-radius: 8px;
-		box-shadow: 0 8px 16px rgba(0,0,0,0.4);
-		width: 375px;
+	.canvas-wrapper {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		overflow: hidden;
 	}
-	.card-preview img {
-		width: 375px;
+	.card-preview-panel {
+		border-left: 2px solid #333;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		overflow: hidden;
+		padding: 20px;
+	}
+	.card-preview-panel img {
+		max-width: 100%;
+		max-height: 100%;
+		width: auto;
 		height: auto;
-		border-radius: 6px;
-		display: block;
+		border-radius: 3.733% / 2.677%;
+		box-shadow: 0 4px 8px rgba(0,0,0,0.3);
 	}
 	.extras-container {
 		padding-left: 4px;
@@ -430,9 +437,11 @@ def generateHTML(code):
 			<button class="close-btn" onclick="closeP1P1()"></button>
 		</div>
 		<div class="canvas-container">
-			<canvas id="canvas" class="canvas"></canvas>
-			<div class="card-preview" id="card-preview">
-				<img id="preview-img" src="" alt="Card preview">
+			<div class="canvas-wrapper">
+				<canvas id="canvas" class="canvas"></canvas>
+			</div>
+			<div class="card-preview-panel" id="card-preview-panel">
+				<img id="preview-img" src="" alt="Hover over a card">
 			</div>
 		</div>
 	</div>
@@ -706,8 +715,13 @@ def generateHTML(code):
 			}
 
 			// Add hover preview functionality
-			const preview = document.getElementById("card-preview");
+			const previewPanel = document.getElementById("card-preview-panel");
 			const previewImg = document.getElementById("preview-img");
+			
+			// Show first card by default
+			if (img_list.length > 0) {
+				previewImg.src = img_list[0].src;
+			}
 			
 			canvas.addEventListener("mousemove", function(e) {
 				const rect = canvas.getBoundingClientRect();
@@ -729,28 +743,8 @@ def generateHTML(code):
 					// Check if we're actually over the card (not the gap)
 					if (x >= cardX && x < cardX + 375 && y >= cardY && y < cardY + 523) {
 						previewImg.src = img_list[index].src;
-						preview.style.display = "block";
-						
-						// Position preview to the right of cursor, or left if near right edge
-						const previewX = e.clientX + 20;
-						const previewY = e.clientY - 100;
-						
-						if (previewX + 450 > window.innerWidth) {
-							preview.style.left = (e.clientX - 470) + "px";
-						} else {
-							preview.style.left = previewX + "px";
-						}
-						preview.style.top = Math.max(10, previewY) + "px";
-					} else {
-						preview.style.display = "none";
 					}
-				} else {
-					preview.style.display = "none";
 				}
-			});
-			
-			canvas.addEventListener("mouseleave", function() {
-				preview.style.display = "none";
 			});
 
 			document.getElementById("p1p1").style.display = "block";
