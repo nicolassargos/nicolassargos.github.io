@@ -253,7 +253,7 @@ def generateHTML(code):
 	    transform: translate(-50%, -50%);
 	    height: 90%;
 	    width: 90%;
-		max-width: 1000px;
+		max-width: 1280px;
 		background-color: #e3e3e3;
 		border: 2px solid #171717;
 		border-radius: 20px;
