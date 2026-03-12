@@ -282,6 +282,23 @@
 		height: 89%;
 		align-content: center;
 		padding-bottom: 1%;
+		position: relative;
+	}
+	.card-preview {
+		position: fixed;
+		display: none;
+		pointer-events: none;
+		z-index: 10001;
+		border: 2px solid #333;
+		border-radius: 8px;
+		box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+		max-width: 450px;
+		max-height: 628px;
+	}
+	.card-preview img {
+		width: 100%;
+		height: auto;
+		border-radius: 6px;
 	}
 	.extras-container {
 		padding-left: 4px;
@@ -371,6 +388,9 @@
 		</div>
 		<div class="canvas-container">
 			<canvas id="canvas" class="canvas"></canvas>
+			<div class="card-preview" id="card-preview">
+				<img id="preview-img" src="" alt="Card preview">
+			</div>
 		</div>
 	</div>
 
@@ -732,6 +752,54 @@
 					ctx.drawImage(img_list[i], x_offset, y_offset, 375, 523);
 				};
 			}
+
+			// Add hover preview functionality
+			const preview = document.getElementById("card-preview");
+			const previewImg = document.getElementById("preview-img");
+			
+			canvas.addEventListener("mousemove", function(e) {
+				const rect = canvas.getBoundingClientRect();
+				const scaleX = canvas.width / rect.width;
+				const scaleY = canvas.height / rect.height;
+				const x = (e.clientX - rect.left) * scaleX;
+				const y = (e.clientY - rect.top) * scaleY;
+				
+				// Calculate which card is being hovered (5 columns, each card is 375x523)
+				const col = Math.floor(x / 377);
+				const row = Math.floor(y / 525);
+				const index = row * 5 + col;
+				
+				// Check if we're within a valid card position
+				if (index >= 0 && index < img_list.length && col < 5 && row < 3) {
+					const cardX = col * 377;
+					const cardY = row * 525;
+					
+					// Check if we're actually over the card (not the gap)
+					if (x >= cardX && x < cardX + 375 && y >= cardY && y < cardY + 523) {
+						previewImg.src = img_list[index].src;
+						preview.style.display = "block";
+						
+						// Position preview to the right of cursor, or left if near right edge
+						const previewX = e.clientX + 20;
+						const previewY = e.clientY - 100;
+						
+						if (previewX + 450 > window.innerWidth) {
+							preview.style.left = (e.clientX - 470) + "px";
+						} else {
+							preview.style.left = previewX + "px";
+						}
+						preview.style.top = Math.max(10, previewY) + "px";
+					} else {
+						preview.style.display = "none";
+					}
+				} else {
+					preview.style.display = "none";
+				}
+			});
+			
+			canvas.addEventListener("mouseleave", function() {
+				preview.style.display = "none";
+			});
 
 			document.getElementById("p1p1").style.display = "block";
 		}
