@@ -422,7 +422,7 @@ def generateHTML(code):
 		let set_list_arrayified = [];
 		let specialchars = "";
 		let displayStyle = "";
-		let p1p1cards = [];
+		let p1p1_cards = [];
 
 		document.addEventListener("DOMContentLoaded", async function () {
 			'''
@@ -433,13 +433,15 @@ def generateHTML(code):
 
 	html_content += '''
 
+			let draft_file = "";
 			await fetch(rootPath + '/sets/''' + code + '''-files/''' + code + '''-draft.txt')
 				.then(response => response.text())
 				.then(text => {
 					draft_file = text.replace(/},\\n\\t]/g, '}\\n\\t]');
-			}).catch(error => console.error('Error:', error));
-
-			draftmancerToP1P1(draft_file);
+					draftmancerToP1P1(draft_file);
+			}).catch(error => {
+				console.error('Error loading draft file:', error);
+			});
       
 			for (let i = 0; i < card_list_arrayified.length; i++)
 			{
