@@ -211,7 +211,7 @@ def generateHTML():
 		</div>
 		<script src="https://utteranc.es/client.js"
 			repo="nicolassargos/nicolassargos.github.io"
-			issue-term="pathname"
+			issue-term="url"
 			theme="github-light"
 			crossorigin="anonymous"
 			async>
