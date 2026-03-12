@@ -592,7 +592,7 @@ def generateHTML(code):
 					{
 						card_images.push({
 							name: card.name,
-							url: card.image_uris.en
+							url: card.image_uris.en.replace('https://mse-hub', rootPath)
 						});
 					}
 
