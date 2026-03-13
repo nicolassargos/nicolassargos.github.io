@@ -38,11 +38,16 @@ def generateFile(code):
 	[
 	'''
 
+	# clean hybrids
+	h_pattern = r'\{([A-Z0-9])([A-Z])\}'
+	h_replace = r'{\1/\2}'
+
+	# Only include non-token, non-basic cards in the CustomCards section so that
+	# draft tools using classic booster mode don't pick tokens/lands as rares/mythics
+	draftable_cards = [c for c in set_data['cards'] if 'token' not in c['shape'].lower() and 'Basic' not in c['type']]
+
 	for x in range(len(set_data['cards'])):
 		card = set_data['cards'][x]
-		# clean hybrids
-		h_pattern = r'\{([A-Z0-9])([A-Z])\}'
-		h_replace = r'{\1/\2}'
 
 		for slot in structure:
 			slot_name = slot['name']
@@ -54,6 +59,9 @@ def generateFile(code):
 			else:
 				if ('!' + slot_name) in card['notes']:
 					booster[slot_name].append(card)
+
+	for x in range(len(draftable_cards)):
+		card = draftable_cards[x]
 
 		draft_string += '''	{
 			"name": "''' + card['card_name'] + '''",
@@ -89,7 +97,7 @@ def generateFile(code):
 			draft_string += '''		"image_uris": {
 				"en": "''' + utils.get_picurl(set_data, card) + '''"
 			}
-		}''' + (''',''' if x != len(set_data['cards']) - 1 else '''''') + '''
+		}''' + (''',''' if x != len(draftable_cards) - 1 else '''''') + '''
 	'''
 
 	draft_string += ''']
