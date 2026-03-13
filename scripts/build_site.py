@@ -252,10 +252,13 @@ print_html_for_card.generateHTML()
 print(f"HTML file for card display saved as card.html")
 
 # Generate individual card HTML files for social media previews
+# Tokens are processed first so that non-token cards overwrite them when they share the same number
 print("Generating individual card pages...")
 with open(os.path.join('lists', 'all-cards.json'), encoding='utf-8-sig') as f:
 	all_cards = json.load(f)
-	for card in all_cards['cards']:
+	tokens = [c for c in all_cards['cards'] if c['shape'].lower().find('token') != -1]
+	non_tokens = [c for c in all_cards['cards'] if c['shape'].lower().find('token') == -1]
+	for card in tokens + non_tokens:
 		print_html_for_card.generateIndividualCard(card)
 print(f"Generated {len(all_cards['cards'])} individual card pages")
 
