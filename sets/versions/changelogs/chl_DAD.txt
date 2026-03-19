@@ -1,4 +1,501 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Sorcerer's Apprentice added.
+Apprentice Illusionist added.
+Armada Officer added.
+One for the Team added.
+Permanent Equilibrium added.
+Guided Purification added.
+Radiant Resolve added.
+Zephyr Net added.
+Neuralgia added.
+Charge and Claim added.
+Psychic Touch added.
+True Betrayal added.
+Steep Hill added.
+Untouched Mangrove added.
+Secret Grasslands added.
+Hidden Pool added.
+Muddy Trail added.
+Altar of Renewed Knowledge added.
+Orderbound Cleric added.
+Herald of the Armada added.
+Feedback Elemental added.
+Armada Scout added.
+Chronicle Relic added.
+Carrion Climber added.
+Whispering Shadow added.
+Skulktooth Orc added.
+Frenzy Piker added.
+Loamkeeper Sapling added.
+Wildgrove Channeler added.
+Grovebirth Elemental added.
+
+Apprentice Sorcerer removed.
+Safe Passage removed.
+Apprentice Illusioner removed.
+Armada's Officer removed.
+One for All removed.
+Balance of Nature removed.
+Goblin removed.
+Beast removed.
+Ooze removed.
+Construct Brother removed.
+Soldier removed.
+Bird removed.
+Butterfly removed.
+Merfolk removed.
+Dog removed.
+Fungus removed.
+
+Obnoxious Zombie
+rules_text: When Obnoxious Zombie is the target of a spell an opponent controls, sacrifice it. => When Obnoxious Zombie becomes the target of a spell an opponent controls, sacrifice it.
+
+Administration of Velatha
+rules_text: Whenever you sacrifice a land, add one mana of any color.
+At the beginning of you upkeep, scry 1. => Whenever you sacrifice a land, create a treasure token.
+At the beginning of you upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Enchantment of Repulsion
+
+Refusal
+
+Ignored the Risk
+
+Lost the Battalion
+rules_text: Prevent all combat damage that would be dealt by creatures this turn. For each attacking creature, its controller mills one card. => Prevent all combat damage that would be dealt by target creature this turn. Its controller mills two cards.
+
+Sudden Inspiration
+type: Sorcery => Instant
+rules_text: Draw two cards, then discard a card. => Draw a card.
+Buyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]
+
+Erosion Shield
+
+Unstable Chimera
+rules_text: Lifelink, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i] => Flying, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]
+pt: 1/5 => 1/4
+
+Defender of Valdor
+rules_text: Sacrifice Defender of Valdor: Prevent all combat damage that would be dealt this turn. => Defender
+Sacrifice Defender of Valdor: Prevent all combat damage that would be dealt this turn.
+
+Recruitment in Taverns
+
+Serra's Fury
+rules_text: Starting with you, each player separates permanents they control in two face up piles. Then this player chooses a pile an opponent controls. That player sacrifices all permanents in this pile. => Starting with you, each player separates permanents they control in two face up piles. Then each player chooses a pile from the opponent on his right. That player sacrifices all permanents in this pile.
+
+Will of the Master
+
+Elusive Corpse
+
+Sword of Ganaka
+
+Punch in Your Face!
+
+Purity's Follower
+
+Discord's Spirit
+
+Expropriate the Farmers
+
+Order at Stake
+
+Lynx of Penaloda
+
+Shadow of Phissi
+
+No Pain, No Gain
+
+Greed Lost Adept
+
+Occult Ritual
+
+Ganaka, The First Brother
+
+Geneke, The Second Brother
+
+Gonoko, The Fourth Brother
+
+Gunuku, The Fifth Brother
+
+Giniki, The Third Brother
+
+Enslaved Reveler
+
+Sneaky Zombie
+rules_text: At the beginning of your upkeep, exile a creature card from your graveyard or tap Sneaky Zombie. If you exiled a card this way, Sneaky Zombie can't be blocked this turn. => Defender
+At the beginning of your upkeep, you may exile a creature card from your graveyard. If you exiled a card this way, Sneaky Zombie looses Defender and can't be blocked until end of turn.
+pt: 4/4 => 3/3
+
+Playing for Death
+
+Remember From the Stones
+
+Fact or Fiction
+
+Sleep
+
+Magus of the Grindstone
+
+Wall of Addum
+
+Prayers to Serra
+
+Unexpected Reinforcements
+
+Introspection
+
+Ihsan, Corrupted Knight
+rules_text: Menace, Protection from white
+Whenever Ihsan, [i]Corrupted[/i] Knight enters the battlefield, destroy target Angel, Knight or Paladin. => Menace, Protection from white
+Whenever Ihsan, [i]Corrupted[/i] Knight enters the battlefield, you may destroy target Angel, Knight or Paladin.
+
+Submarine Guardian
+
+Mechanical Brother
+
+Gates of Velatha
+
+Hiring War Refugees
+
+Unstoppable Charge
+cost: {RW}{RW} => {R}{W}
+rules_text: As an additional cost to play this spell, sacrifice a land.
+Creatures you control gain +1/+0 and can't be blocked this turn. => As an additional cost to play this spell, sacrifice a land.
+Up to X creatures you control gain +1/+0 and can't be blocked this turn, where X is the number of lands in your graveyard.
+
+Embrace the Bribe
+
+Gonoko's Fury
+
+Growing at All Cost
+
+What's the Point?
+type: Sorcery => Instant
+
+Enraged Baloth
+
+Gangurg, Adept Caster
+
+Batallion Warleader
+
+Emissary of Fear
+
+Amazons of Rholt
+
+Elvish Adventurer
+
+Haven of Rogues
+
+Frontal Charge
+
+Sealing the Fate
+
+Finding the Path to Peace
+
+Unleashing the Rage
+
+Mourning for The Lost
+
+Earning Nature's Friendship
+
+Gain Height
+
+Succumb to Promises
+
+Will of Thyrroene
+type: Sorcery => Instant
+cost: {1}{G} => {2}{G}
+
+Spirit of Rholt
+
+Phissi, Vessel of Discord
+
+Royal Assassin
+
+Wildfire
+
+Thyrroene, Mother of All
+rules_text: Vigilance, Flying, Lifelink, Haste, Trample.
+{T}, Sacrifice Thyrroene, Mother of All: Search your library for up to four Brother creatures and put them onto the battlefield. => Vigilance, Flying, Lifelink, First strike, Trample.
+{T}, Sacrifice Thyrroene, Mother of All: Search your library for up to four Brother creatures and put them onto the battlefield.
+
+Recruited Militia
+
+Great Orator
+
+Recuiter of the Homeless
+
+Ronom Unicorn
+
+Valorous Knight
+
+Serra Child
+
+Serra Worshipper
+
+Sky Armada
+
+Library's Administrators
+
+Velatha's Arena Hero
+
+Propulsed Whale
+
+Ghost Parasite
+
+Corrupted Missionary
+
+Enraged Macaque
+
+Invasion Planificator
+
+Angel of Phissi
+
+Battalion Cannon Fodder
+
+Veteran of Velatha's War
+rules_text: Veteran of Velatha's War get +1/+1 as long as you control a creature with power 4 or greater. => Veteran of Velatha's War get +1/+1 as long as you control another creature with power 4 or greater.
+
+Healer of Broken Lands
+
+Mad War Fugitive
+
+Guardian of Velioth
+
+Good-Natured Merchant
+
+Keeper of Order
+
+Geirdyn Herald
+
+Adept of Growth
+
+Goblin Landlord
+
+Geirdyn Mercenary
+
+Wurm of Arid Steppes
+
+Shaman of Rholt
+
+Apprentice Herbalist
+
+Monstruosity of the Deep Forest
+
+Passage Protector
+
+Wurm of Penaloda
+
+Mushrooms Harvester
+
+Bumbeldop Family
+
+Oversized Baboons
+
+Spear of Geneke
+
+Knife of Giniki
+
+Mace of Gonoko
+
+Staff of Gunuku
+
+Hisseyia, Avatar of Purity
+
+Nogafris, Avatar of Order
+
+Viphiozes, Avatar of Discord
+
+Menetre, Avatar of Greed
+
+Velioth, Avatar of Growth
+
+Living the Nightmare
+
+Village Rites
+
+Growth Over Life
+cost: {3}{G} => {2}{G}
+rules_text: As an additional cost to cast Growth Over Life, return any number of creatures you control to their owner's hands.
+Search your library for two basic land cards and put them into your hand, then shuffle. You may put X lands from your hand onto the battlefield tapped, where X is one plus the number of creatures you returned to your hand this turn. => Kicker— Return any number of creatures you control to their owner's hands.
+Search your library for two basic land cards and put them into your hand, then shuffle. 
+If you paid the Kicker cost, you may put X lands from your hand onto the battlefield tapped, where X is the number of creatures you returned to your hand this turn.
+
+Scorched-earth Strategy
+
+Disband the Weaks
+
+Homage to Menetre
+
+Taken by Surprise
+
+Peaceful Retreat
+
+Herald of Growth
+
+Take a Revenge
+
+Desperate Call
+
+Terramorphic Expanse
+
+Cathedral of Valdor
+
+Fortress of Geirdyn
+
+Grotto of Penaloda
+
+Palace of Rholt
+
+Mausoleum of Udach
+
+Peace Offering
+
+Eleiia, Leader of Fugitives
+
+Priest of Purity
+
+Priest of Discord
+
+Priest of Growth
+
+Priest of Greed
+
+Priest of Order
+
+Geirdyn Overlords
+rules_text: Flying, Double strike
+As an additional cost to cast this spell, you may sacrifice any number of lands. This spell costs {2} less to cast for each land sacrificed this way. => Flying, Double strike
+You may sacrifice any number of lands when you cast this spell. This spell costs {2} less to cast for each land sacrificed this way.
+
+Ascension to Enlightment
+
+Assashain, Homeless Outsider
+
+Musical Interlude
+
+Young Widow
+pt: 2/1 => 2/2
+
+Praying the Dawn
+
+Reconstructing Landscape
+
+Velioth Experimentation
+
+Meet Your Creator
+
+Bring to Justice
+
+Champion of Geirdyn
+
+Moment of Inspiration
+
+Escape Reality
+
+Hilena, Voice of the Legions
+
+Oath of the Saints
+rules_text: Kicker {1}{U} [i](You may pay an additional {1}{U} as you cast this spell.)[/i]
+Prevent all combat damage target creature would deal this turn. If you paid the kicker cost, target player mills as many cards as the toughness of that creature.
+Buyback {1}{G}{G} [i](You may pay an additional {1}{G}{G} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Kicker {1}{U}, Buyback {1}{G}{G}
+Prevent all combat damage target creature would deal this turn. If you paid the kicker cost, target player mills as many cards as the toughness of that creature.
+
+Oath of the Whisperers
+rules_text: Kicker {1}{B} [i](You may pay an additional {1}{B} as you cast this spell.)[/i]
+Return target nonland permanent to its owner's hand. If you paid the kicker cost, target opponent discards a card.
+Buyback {1}{G}{G} [i](You may pay an additional {1}{G}{G} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Kicker {1}{B}, Buyback {1}{G}{G}
+Return target nonland permanent to its owner's hand. If you paid the kicker cost, target opponent discards a card.
+
+Oath of the Damned
+rules_text: Kicker {1}{U} [i](You may pay an additional {1}{U} as you cast this spell.)[/i]
+Target player sacrifices a creature. If you paid the kicker cost, whenever a creature you control deals combat damage to a player this turn, draw a card.
+Buyback {1}{R}{R} [i](You may pay an additional {1}{R}{R} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Kicker {1}{U}, Buyback {1}{R}{R}
+Target player sacrifices a creature. If you paid the kicker cost, whenever a creature you control deals combat damage to a player this turn, draw a card.
+
+Oath of the Beloved
+rules_text: Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]
+Target creature get +3/+3 until end of turn. If you paid the kicker cost, Oath of the Beloved deals 2 damage to any target.
+Buyback {1}{B}{B} [i](You may pay an additional {1}{B}{B} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Kicker {1}{R}, Buyback {1}{U}{U}
+Target creature get +3/+3 until end of turn. If you paid the kicker cost, Oath of the Beloved deals 2 damage to any target.
+
+Oath of the Veterans
+rules_text: Kicker {1}{W} [i](You may pay an additional {1}{W} as you cast this spell.)[/i]
+Create a 1/1 red Goblin creature token with haste. If you paid the kicker cost, creatures you control get +1/+1 until end of turn.
+Buyback {1}{U}{U} [i](You may pay an additional {1}{U}{U} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Kicker {1}{W}, Buyback {1}{B}{B}
+Create a 1/1 red Goblin creature token with haste. If you paid the kicker cost, creatures you control get +1/+1 until end of turn.
+
+Oath of the Conquerors
+rules_text: Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]
+Put a +1/+1 counter on up to two target creatures. If you paid the kicker cost, destroy target artifact.
+Buyback {1}{B}{B} [i](You may pay an additional {1}{B}{B} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Kicker {1}{R}, Buyback {1}{U}{U}
+Put a +1/+1 counter on up to two target creatures. If you paid the kicker cost, destroy target artifact.
+
+Oath of the Believers
+rules_text: Kicker {1}{W} [i](You may pay an additional {1}{W} as you cast this spell.)[/i]
+Scry 2, then draw a card. If you paid the kicker cost, destroy target enchantment.
+Buyback {1}{R}{R} [i](You may pay an additional {1}{R}{R} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Kicker {1}{W}, Buyback {1}{B}{B}
+Scry 2, then draw a card. If you paid the kicker cost, destroy target enchantment.
+
+Oath of the Forsakens
+rules_text: Kicker {1}{G} [i](You may pay an additional {1}{G} as you cast this spell.)[/i]
+Sacrifice a creature. If you sacrifice a creature this way, draw two cards. If you paid the kicker cost, return target creature from your graveyard to your hand and gain 2 life.
+Buyback {1}{W}{W} [i](You may pay an additional {1}{W}{W} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Kicker {1}{G}, Buyback {1}{R}{R}
+Sacrifice a creature. If you sacrifice a creature this way, draw two cards. If you paid the kicker cost, return target creature from your graveyard to your hand and gain 2 life.
+
+Oath of the Lonely
+rules_text: Kicker {1}{B} [i](You may pay an additional {1}{B} as you cast this spell.)[/i]
+Put two +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with trample that is still a land. If you paid the kicker cost, double the number of counters on target permanent.
+Buyback {1}{U}{U} [i](You may pay an additional {1}{U}{U} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Kicker {1}{B}, Buyback {1}{W}{W}
+Put two +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with trample that is still a land. If you paid the kicker cost, double the number of counters on target permanent.
+
+Oath of the Vengeful
+rules_text: Kicker {1}{G} [i](You may pay an additional {1}{G} as you cast this spell.)[/i]
+Damage can't be prevented this turn. Whenever a creature blocks this turn, it deals one damage to its controller. If you paid the kicker cost, Oath of the Vengeful deals 2 damages to all creatures.
+Buyback {1}{W}{W} [i](You may pay an additional {1}{W}{W} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Kicker {1}{G}, Buyback {1}{W}{W}
+Damage can't be prevented this turn. Whenever a creature blocks this turn, it deals one damage to its controller. If you paid the kicker cost, Oath of the Vengeful deals 2 damages to all creatures.
+
+Gedric, Champion of Order
+
+Srod, Offspring of Growth
+
+Menelas, Voice of Greed
+
+Thessene, Symbol of Purity
+
+Relic of Past Glory
+
+Oblivion Ring
+
+Obedient Vanguard
+
+Rumbling Monster
+
+Uxizas, Lightning Oracle
+
+Tradewind Expert
+
+Wildbane Elemental
+
+Wicked Aberration
+
+Pause in Time
+
+Harvest the Moon's Promesses
+
+Wild Experimentation
+
+Jace, Unfortunate Traveler
+
+Igdiul, Phyrexian Scourge
+
+Smint
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
