@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Ascension to Enlightment",
-        "number": 2,
+        "number": 3,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Enchantment of Repulsion",
-        "number": 39,
+        "number": 45,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Igdiul, Phyrexian Scourge",
-        "number": 80,
+        "number": 92,
         "shape": "planeswalker",
         "set": "DAD",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Geirdyn Overlords",
-        "number": 112,
+        "number": 124,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Gunuku, The Fifth Brother",
-        "number": 141,
+        "number": 157,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -41,7 +41,7 @@
     },
     {
         "card_name": "Bring to Justice",
-        "number": 4,
+        "number": 5,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Escape Reality",
-        "number": 40,
+        "number": 46,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Giniki, The Third Brother",
-        "number": 77,
+        "number": 89,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Gonoko, The Fourth Brother",
-        "number": 114,
+        "number": 126,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Moment of Inspiration",
-        "number": 146,
+        "number": 163,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -81,7 +81,7 @@
     },
     {
         "card_name": "Champion of Geirdyn",
-        "number": 5,
+        "number": 6,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -89,7 +89,7 @@
     },
     {
         "card_name": "Fact or Fiction",
-        "number": 41,
+        "number": 47,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "Ihsan, Corrupted Knight",
-        "number": 81,
+        "number": 93,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Harvest the Moon's Promesses",
-        "number": 118,
+        "number": 130,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Permanent Equilibrium",
-        "number": 154,
+        "number": 171,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -121,7 +121,7 @@
     },
     {
         "card_name": "Ganaka, The First Brother",
-        "number": 8,
+        "number": 11,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Geneke, The Second Brother",
-        "number": 44,
+        "number": 51,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -137,7 +137,7 @@
     },
     {
         "card_name": "Occult Ritual",
-        "number": 90,
+        "number": 102,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -145,7 +145,7 @@
     },
     {
         "card_name": "Keeper of Order",
-        "number": 120,
+        "number": 133,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -153,7 +153,7 @@
     },
     {
         "card_name": "Reconstructing Landscape",
-        "number": 156,
+        "number": 173,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -161,7 +161,7 @@
     },
     {
         "card_name": "Hilena, Voice of the Legions",
-        "number": 12,
+        "number": 15,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Pause in Time",
-        "number": 53,
+        "number": 60,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -177,7 +177,7 @@
     },
     {
         "card_name": "Playing for Death",
-        "number": 91,
+        "number": 103,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -185,7 +185,7 @@
     },
     {
         "card_name": "Take a Revenge",
-        "number": 127,
+        "number": 140,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Rumbling Monster",
-        "number": 157,
+        "number": 174,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -201,7 +201,7 @@
     },
     {
         "card_name": "Musical Interlude",
-        "number": 13,
+        "number": 16,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -209,7 +209,7 @@
     },
     {
         "card_name": "Peace Offering",
-        "number": 54,
+        "number": 61,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "Praying the Dawn",
-        "number": 92,
+        "number": 104,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "Wild Experimentation",
-        "number": 130,
+        "number": 144,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -233,7 +233,7 @@
     },
     {
         "card_name": "Velioth Experimentation",
-        "number": 160,
+        "number": 177,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -241,7 +241,7 @@
     },
     {
         "card_name": "Scorched-earth Strategy",
-        "number": 26,
+        "number": 29,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -249,7 +249,7 @@
     },
     {
         "card_name": "Tradewind Expert",
-        "number": 63,
+        "number": 71,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -257,7 +257,7 @@
     },
     {
         "card_name": "Royal Assassin",
-        "number": 93,
+        "number": 105,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Wildbane Elemental",
-        "number": 131,
+        "number": 145,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "Wicked Aberration",
-        "number": 161,
+        "number": 178,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -281,7 +281,7 @@
     },
     {
         "card_name": "Serra's Fury",
-        "number": 29,
+        "number": 32,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -289,7 +289,7 @@
     },
     {
         "card_name": "Uxizas, Lightning Oracle",
-        "number": 64,
+        "number": 72,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -297,7 +297,7 @@
     },
     {
         "card_name": "Spirit of Rholt",
-        "number": 96,
+        "number": 108,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "Wildfire",
-        "number": 132,
+        "number": 146,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Young Widow",
-        "number": 166,
+        "number": 184,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -321,7 +321,7 @@
     },
     {
         "card_name": "Finding the Path to Peace",
-        "number": 7,
+        "number": 10,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -329,7 +329,7 @@
     },
     {
         "card_name": "Gain Height",
-        "number": 43,
+        "number": 49,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -337,7 +337,7 @@
     },
     {
         "card_name": "Adept of Discord",
-        "number": 67,
+        "number": 76,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -345,7 +345,7 @@
     },
     {
         "card_name": "Adept of Growth",
-        "number": 100,
+        "number": 112,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -353,7 +353,7 @@
     },
     {
         "card_name": "Bumbeldop Family",
-        "number": 135,
+        "number": 150,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -361,7 +361,7 @@
     },
     {
         "card_name": "Great Orator",
-        "number": 9,
+        "number": 12,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -369,7 +369,7 @@
     },
     {
         "card_name": "Introspection",
-        "number": 46,
+        "number": 53,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -377,7 +377,7 @@
     },
     {
         "card_name": "Angel of Phissi",
-        "number": 69,
+        "number": 78,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "Batallion Warleader",
-        "number": 101,
+        "number": 113,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -393,7 +393,7 @@
     },
     {
         "card_name": "Earning Nature's Friendship",
-        "number": 136,
+        "number": 152,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -401,7 +401,7 @@
     },
     {
         "card_name": "Herald of the Armada",
-        "number": 11,
+        "number": 14,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Magus of the Grindstone",
-        "number": 48,
+        "number": 55,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -417,7 +417,7 @@
     },
     {
         "card_name": "Disband the Weaks",
-        "number": 73,
+        "number": 84,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -425,7 +425,7 @@
     },
     {
         "card_name": "Expropriate the Farmers",
-        "number": 107,
+        "number": 119,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -433,7 +433,7 @@
     },
     {
         "card_name": "Elvish Adventurer",
-        "number": 137,
+        "number": 153,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -441,7 +441,7 @@
     },
     {
         "card_name": "Oath of the Conquerors",
-        "number": 14,
+        "number": 17,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -449,7 +449,7 @@
     },
     {
         "card_name": "Manticore of Udach",
-        "number": 49,
+        "number": 56,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -457,7 +457,7 @@
     },
     {
         "card_name": "Ghost Parasite",
-        "number": 76,
+        "number": 88,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -465,7 +465,7 @@
     },
     {
         "card_name": "Geirdyn Herald",
-        "number": 110,
+        "number": 122,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -473,7 +473,7 @@
     },
     {
         "card_name": "Enhanced Reflexes",
-        "number": 138,
+        "number": 154,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -481,7 +481,7 @@
     },
     {
         "card_name": "Oath of the Saints",
-        "number": 15,
+        "number": 18,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -489,7 +489,7 @@
     },
     {
         "card_name": "Oath of the Believers",
-        "number": 50,
+        "number": 57,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -497,7 +497,7 @@
     },
     {
         "card_name": "Greed Lost Adept",
-        "number": 78,
+        "number": 91,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -505,23 +505,23 @@
     },
     {
         "card_name": "Geirdyn Mercenary",
-        "number": 111,
+        "number": 123,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "117"
     },
     {
-        "card_name": "Healer of Broken Lands",
-        "number": 142,
+        "card_name": "Harrow",
+        "number": 158,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "109"
+        "position": "229"
     },
     {
         "card_name": "Obedient Vanguard",
-        "number": 16,
+        "number": 19,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -529,23 +529,23 @@
     },
     {
         "card_name": "Oath of the Whisperers",
-        "number": 51,
+        "number": 58,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "176"
     },
     {
-        "card_name": "Homage to Menetre",
-        "number": 79,
+        "card_name": "Invasion Planificator",
+        "number": 94,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "142"
+        "position": "105"
     },
     {
         "card_name": "Goblin Landlord",
-        "number": 113,
+        "number": 125,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -553,7 +553,7 @@
     },
     {
         "card_name": "Herald of Growth",
-        "number": 143,
+        "number": 160,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -561,7 +561,7 @@
     },
     {
         "card_name": "Oblivion Ring",
-        "number": 17,
+        "number": 20,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -569,23 +569,23 @@
     },
     {
         "card_name": "Propulsed Whale",
-        "number": 55,
+        "number": 62,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "101"
     },
     {
-        "card_name": "Invasion Planificator",
-        "number": 82,
+        "card_name": "Mind Devourer",
+        "number": 96,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "105"
+        "position": "17"
     },
     {
         "card_name": "Gonoko's Fury",
-        "number": 115,
+        "number": 127,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -593,7 +593,7 @@
     },
     {
         "card_name": "Monstruosity of the Deep Forest",
-        "number": 147,
+        "number": 164,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -601,7 +601,7 @@
     },
     {
         "card_name": "Prayers to Serra",
-        "number": 19,
+        "number": 22,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -609,23 +609,23 @@
     },
     {
         "card_name": "Remember From the Stones",
-        "number": 57,
+        "number": 64,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "51"
     },
     {
-        "card_name": "Mind Devourer",
-        "number": 84,
+        "card_name": "Mourning for The Lost",
+        "number": 97,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "17"
+        "position": "80"
     },
     {
         "card_name": "Good-Natured Merchant",
-        "number": 116,
+        "number": 128,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -633,7 +633,7 @@
     },
     {
         "card_name": "Oath of the Beloved",
-        "number": 149,
+        "number": 166,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -641,7 +641,7 @@
     },
     {
         "card_name": "Purity's Follower",
-        "number": 21,
+        "number": 24,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -649,23 +649,23 @@
     },
     {
         "card_name": "Sky Armada",
-        "number": 58,
+        "number": 65,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "98"
     },
     {
-        "card_name": "Mourning for The Lost",
-        "number": 85,
+        "card_name": "No Pain, No Gain",
+        "number": 99,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "80"
+        "position": "40"
     },
     {
         "card_name": "Hiring War Refugees",
-        "number": 119,
+        "number": 131,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -673,7 +673,7 @@
     },
     {
         "card_name": "Oath of the Lonely",
-        "number": 150,
+        "number": 167,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -681,7 +681,7 @@
     },
     {
         "card_name": "Recruitment in Taverns",
-        "number": 24,
+        "number": 27,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -689,23 +689,23 @@
     },
     {
         "card_name": "Sleep",
-        "number": 59,
+        "number": 66,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "53"
     },
     {
-        "card_name": "No Pain, No Gain",
-        "number": 87,
+        "card_name": "Oath of the Damned",
+        "number": 100,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "40"
+        "position": "177"
     },
     {
         "card_name": "Oath of the Vengeful",
-        "number": 122,
+        "number": 135,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -713,7 +713,7 @@
     },
     {
         "card_name": "One for the Team",
-        "number": 151,
+        "number": 168,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -721,7 +721,7 @@
     },
     {
         "card_name": "Serra Child",
-        "number": 27,
+        "number": 30,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -729,23 +729,23 @@
     },
     {
         "card_name": "Spirit of Wisdom",
-        "number": 60,
+        "number": 67,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "4"
     },
     {
-        "card_name": "Oath of the Damned",
-        "number": 88,
+        "card_name": "Oath of the Forsakens",
+        "number": 101,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "177"
+        "position": "182"
     },
     {
         "card_name": "Oath of the Veterans",
-        "number": 123,
+        "number": 136,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -753,7 +753,7 @@
     },
     {
         "card_name": "Peaceful Retreat",
-        "number": 153,
+        "number": 170,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -761,7 +761,7 @@
     },
     {
         "card_name": "Unstable Chimera",
-        "number": 30,
+        "number": 33,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -769,23 +769,23 @@
     },
     {
         "card_name": "Will of the Master",
-        "number": 65,
+        "number": 73,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "29"
     },
     {
-        "card_name": "Oath of the Forsakens",
-        "number": 89,
+        "card_name": "Amazons of Rholt",
+        "number": 77,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "182"
+        "position": "73"
     },
     {
         "card_name": "Unleashing the Rage",
-        "number": 128,
+        "number": 141,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -793,39 +793,39 @@
     },
     {
         "card_name": "Wurm of Penaloda",
-        "number": 165,
+        "number": 183,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "123"
     },
     {
-        "card_name": "Armada Officer",
+        "card_name": "Aerial Bulwark",
         "number": 1,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "97"
+        "position": "236"
     },
     {
-        "card_name": "Apprentice Illusionist",
-        "number": 34,
+        "card_name": "Aether Reversal",
+        "number": 38,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "31"
+        "position": "240"
     },
     {
-        "card_name": "Amazons of Rholt",
-        "number": 68,
+        "card_name": "Blessed by Disease",
+        "number": 79,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "73"
+        "position": "12"
     },
     {
         "card_name": "Battalion Cannon Fodder",
-        "number": 102,
+        "number": 114,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -833,39 +833,39 @@
     },
     {
         "card_name": "Apprentice Herbalist",
-        "number": 133,
+        "number": 148,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "120"
     },
     {
-        "card_name": "Blessed by Snow",
-        "number": 3,
+        "card_name": "Armada Officer",
+        "number": 2,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "10"
+        "position": "97"
     },
     {
-        "card_name": "Armada Scout",
-        "number": 35,
+        "card_name": "Apprentice Illusionist",
+        "number": 39,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "220"
+        "position": "31"
     },
     {
-        "card_name": "Blessed by Disease",
-        "number": 70,
+        "card_name": "Bloodtithe Apprentice",
+        "number": 80,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "12"
+        "position": "244"
     },
     {
         "card_name": "Blessed by Fire",
-        "number": 103,
+        "number": 115,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -873,31 +873,31 @@
     },
     {
         "card_name": "Blessed by Earth",
-        "number": 134,
+        "number": 149,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "9"
     },
     {
-        "card_name": "Defender of Valdor",
-        "number": 6,
+        "card_name": "Blessed by Snow",
+        "number": 4,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "26"
+        "position": "10"
     },
     {
-        "card_name": "Blessed by Air",
-        "number": 36,
+        "card_name": "Armada Scout",
+        "number": 40,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "8"
+        "position": "220"
     },
     {
         "card_name": "Carrion Climber",
-        "number": 71,
+        "number": 81,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -905,39 +905,39 @@
     },
     {
         "card_name": "Charge and Claim",
-        "number": 104,
+        "number": 116,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "208"
     },
     {
-        "card_name": "Grovebirth Elemental",
-        "number": 139,
+        "card_name": "Cycle of Renewal",
+        "number": 151,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "228"
+        "position": "232"
     },
     {
-        "card_name": "Guided Purification",
-        "number": 10,
+        "card_name": "Cleansing Rite",
+        "number": 7,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "204"
+        "position": "235"
     },
     {
-        "card_name": "Discord's Spirit",
-        "number": 37,
+        "card_name": "Augury Wisp",
+        "number": 41,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "35"
+        "position": "242"
     },
     {
         "card_name": "Corrupted Missionary",
-        "number": 72,
+        "number": 82,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -945,31 +945,111 @@
     },
     {
         "card_name": "Embrace the Bribe",
-        "number": 105,
+        "number": 117,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "65"
     },
     {
+        "card_name": "Grovebirth Elemental",
+        "number": 155,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "228"
+    },
+    {
+        "card_name": "Defender of Valdor",
+        "number": 8,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Blessed by Air",
+        "number": 42,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Culling the Weak",
+        "number": 83,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "Enraged Macaque",
+        "number": 118,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "104"
+    },
+    {
         "card_name": "Growth Over Life",
-        "number": 140,
+        "number": 156,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "139"
     },
     {
-        "card_name": "Orderbound Cleric",
-        "number": 18,
+        "card_name": "Divine Uplift",
+        "number": 9,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "217"
+        "position": "237"
+    },
+    {
+        "card_name": "Discord's Spirit",
+        "number": 43,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Disturbed Burial",
+        "number": 85,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "243"
+    },
+    {
+        "card_name": "Frenzy Piker",
+        "number": 120,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "225"
+    },
+    {
+        "card_name": "Healer of Broken Lands",
+        "number": 159,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Guided Purification",
+        "number": 13,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "204"
     },
     {
         "card_name": "Elusive Corpse",
-        "number": 38,
+        "number": 44,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -977,39 +1057,39 @@
     },
     {
         "card_name": "Emissary of Fear",
-        "number": 74,
+        "number": 86,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "72"
     },
     {
-        "card_name": "Enraged Macaque",
-        "number": 106,
+        "card_name": "Frontal Charge",
+        "number": 121,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "104"
+        "position": "76"
     },
     {
         "card_name": "Loamkeeper Sapling",
-        "number": 144,
+        "number": 161,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "226"
     },
     {
-        "card_name": "Punch in Your Face!",
-        "number": 20,
+        "card_name": "Orderbound Apprentice",
+        "number": 21,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "33"
+        "position": "217"
     },
     {
         "card_name": "Feedback Elemental",
-        "number": 42,
+        "number": 48,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1017,31 +1097,71 @@
     },
     {
         "card_name": "Enslaved Reveler",
-        "number": 75,
+        "number": 87,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "48"
     },
     {
-        "card_name": "Frenzy Piker",
-        "number": 108,
+        "card_name": "Guardian of Velioth",
+        "number": 129,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "225"
+        "position": "111"
     },
     {
         "card_name": "Lynx of Penaloda",
-        "number": 145,
+        "number": 162,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "38"
     },
     {
+        "card_name": "Punch in Your Face!",
+        "number": 23,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Gale Ambusher",
+        "number": 50,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "241"
+    },
+    {
+        "card_name": "Gravedigger Apprentice",
+        "number": 90,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "246"
+    },
+    {
+        "card_name": "Inferno Surge",
+        "number": 132,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "234"
+    },
+    {
+        "card_name": "Mushrooms Harvester",
+        "number": 165,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "124"
+    },
+    {
         "card_name": "Radiant Resolve",
-        "number": 22,
+        "number": 25,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1049,7 +1169,7 @@
     },
     {
         "card_name": "Ignored the Risk",
-        "number": 45,
+        "number": 52,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1057,31 +1177,31 @@
     },
     {
         "card_name": "Living the Nightmare",
-        "number": 83,
+        "number": 95,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "136"
     },
     {
-        "card_name": "Frontal Charge",
-        "number": 109,
+        "card_name": "Mad War Fugitive",
+        "number": 134,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "76"
+        "position": "110"
     },
     {
-        "card_name": "Mushrooms Harvester",
-        "number": 148,
+        "card_name": "Passage Protector",
+        "number": 169,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "124"
+        "position": "122"
     },
     {
         "card_name": "Recruited Militia",
-        "number": 23,
+        "number": 26,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1089,7 +1209,7 @@
     },
     {
         "card_name": "Library's Administrators",
-        "number": 47,
+        "number": 54,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1097,31 +1217,31 @@
     },
     {
         "card_name": "Neuralgia",
-        "number": 86,
+        "number": 98,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "207"
     },
     {
-        "card_name": "Guardian of Velioth",
-        "number": 117,
+        "card_name": "Order at Stake",
+        "number": 137,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "111"
+        "position": "37"
     },
     {
-        "card_name": "Passage Protector",
-        "number": 152,
+        "card_name": "Psychic Touch",
+        "number": 172,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "122"
+        "position": "209"
     },
     {
         "card_name": "Ronom Unicorn",
-        "number": 25,
+        "number": 28,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1129,7 +1249,7 @@
     },
     {
         "card_name": "Obnoxious Zombie",
-        "number": 52,
+        "number": 59,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1137,31 +1257,31 @@
     },
     {
         "card_name": "Shadow of Phissi",
-        "number": 94,
+        "number": 106,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "39"
     },
     {
-        "card_name": "Mad War Fugitive",
-        "number": 121,
+        "card_name": "Pathbreaker Elemental",
+        "number": 138,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "110"
+        "position": "224"
     },
     {
-        "card_name": "Psychic Touch",
-        "number": 155,
+        "card_name": "Shaman of Rholt",
+        "number": 175,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "209"
+        "position": "119"
     },
     {
         "card_name": "Serra Worshipper",
-        "number": 28,
+        "number": 31,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1169,7 +1289,7 @@
     },
     {
         "card_name": "Refusal",
-        "number": 56,
+        "number": 63,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1177,39 +1297,39 @@
     },
     {
         "card_name": "Sick Rats",
-        "number": 95,
+        "number": 107,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "16"
     },
     {
-        "card_name": "Order at Stake",
-        "number": 124,
+        "card_name": "Sorcerer's Apprentice",
+        "number": 139,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "37"
+        "position": "7"
     },
     {
-        "card_name": "Shaman of Rholt",
-        "number": 158,
+        "card_name": "Taken by Surprise",
+        "number": 176,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "119"
+        "position": "143"
     },
     {
-        "card_name": "Valorous Knight",
-        "number": 31,
+        "card_name": "Valiant Banneret",
+        "number": 34,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "94"
+        "position": "233"
     },
     {
         "card_name": "Submarine Guardian",
-        "number": 61,
+        "number": 68,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1217,39 +1337,39 @@
     },
     {
         "card_name": "Succumb to Promises",
-        "number": 97,
+        "number": 109,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "83"
     },
     {
-        "card_name": "Skulktooth Orc",
-        "number": 125,
+        "card_name": "Veteran of Velatha's War",
+        "number": 142,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "224"
+        "position": "108"
     },
     {
-        "card_name": "Taken by Surprise",
-        "number": 159,
+        "card_name": "Wildgrove Channeler",
+        "number": 179,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "143"
+        "position": "227"
     },
     {
-        "card_name": "Velatha's Arena Hero",
-        "number": 32,
+        "card_name": "Valorous Knight",
+        "number": 35,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "100"
+        "position": "94"
     },
     {
         "card_name": "Sudden Inspiration",
-        "number": 62,
+        "number": 69,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1257,31 +1377,66 @@
     },
     {
         "card_name": "Village Rites",
-        "number": 98,
+        "number": 110,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "137"
     },
     {
-        "card_name": "Sorcerer's Apprentice",
-        "number": 126,
+        "card_name": "Wasteland Plunder",
+        "number": 143,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "7"
+        "position": "247"
     },
     {
-        "card_name": "Wildgrove Channeler",
-        "number": 162,
+        "card_name": "Wildgrowth Den",
+        "number": 180,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "227"
+        "position": "231"
+    },
+    {
+        "card_name": "Velatha's Arena Hero",
+        "number": 36,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "Thought Reservoir",
+        "number": 70,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "239"
+    },
+    {
+        "card_name": "Whispering Shadow",
+        "number": 111,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "223"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Will of Thyrroene",
+        "number": 181,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "84"
     },
     {
         "card_name": "What's the Point?",
-        "number": 33,
+        "number": 37,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1289,41 +1444,11 @@
     },
     {
         "card_name": "Zephyr Net",
-        "number": 66,
+        "number": 74,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "206"
-    },
-    {
-        "card_name": "Whispering Shadow",
-        "number": 99,
-        "shape": "normal",
-        "set": "DAD",
-        "rotated": false,
-        "position": "223"
-    },
-    {
-        "card_name": "Veteran of Velatha's War",
-        "number": 129,
-        "shape": "normal",
-        "set": "DAD",
-        "rotated": false,
-        "position": "108"
-    },
-    {
-        "card_name": "Will of Thyrroene",
-        "number": 163,
-        "shape": "normal",
-        "set": "DAD",
-        "rotated": false,
-        "position": "84"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1333,7 +1458,7 @@
     },
     {
         "card_name": "Wurm of Arid Steppes",
-        "number": 164,
+        "number": 182,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1354,7 +1479,7 @@
     "a->gold",
     {
         "card_name": "Hisseyia, Avatar of Purity",
-        "number": 175,
+        "number": 193,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1362,7 +1487,7 @@
     },
     {
         "card_name": "Jace, Unfortunate Traveler",
-        "number": 177,
+        "number": 195,
         "shape": "planeswalker",
         "set": "DAD",
         "rotated": false,
@@ -1373,7 +1498,7 @@
     },
     {
         "card_name": "Velioth, Avatar of Growth",
-        "number": 192,
+        "number": 210,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1381,7 +1506,7 @@
     },
     {
         "card_name": "Assashain, Homeless Outsider",
-        "number": 169,
+        "number": 187,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1389,7 +1514,7 @@
     },
     {
         "card_name": "Thessene, Symbol of Purity",
-        "number": 207,
+        "number": 225,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1397,7 +1522,7 @@
     },
     {
         "card_name": "Viphiozes, Avatar of Discord",
-        "number": 193,
+        "number": 211,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1408,7 +1533,7 @@
     },
     {
         "card_name": "Gangurg, Adept Caster",
-        "number": 173,
+        "number": 191,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1419,7 +1544,7 @@
     },
     {
         "card_name": "Erosion Shield",
-        "number": 172,
+        "number": 190,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1427,7 +1552,7 @@
     },
     {
         "card_name": "Phissi, Vessel of Discord",
-        "number": 201,
+        "number": 219,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1438,7 +1563,7 @@
     },
     {
         "card_name": "Smint",
-        "number": 187,
+        "number": 205,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1449,7 +1574,7 @@
     },
     {
         "card_name": "Priest of Purity",
-        "number": 186,
+        "number": 204,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1457,7 +1582,7 @@
     },
     {
         "card_name": "Priest of Discord",
-        "number": 182,
+        "number": 200,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1468,7 +1593,7 @@
     },
     {
         "card_name": "Srod, Offspring of Growth",
-        "number": 206,
+        "number": 224,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1479,7 +1604,7 @@
     },
     {
         "card_name": "Wall of Addum",
-        "number": 209,
+        "number": 227,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1487,7 +1612,7 @@
     },
     {
         "card_name": "Zombie Apocalypse",
-        "number": 194,
+        "number": 212,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1498,7 +1623,7 @@
     },
     {
         "card_name": "Priest of Growth",
-        "number": 184,
+        "number": 202,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1509,7 +1634,7 @@
     },
     {
         "card_name": "Lost the Battalion",
-        "number": 178,
+        "number": 196,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1517,7 +1642,7 @@
     },
     {
         "card_name": "Sneaky Roomie",
-        "number": 204,
+        "number": 222,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1528,7 +1653,7 @@
     },
     {
         "card_name": "Troups of Mercenaries",
-        "number": 189,
+        "number": 207,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1539,7 +1664,7 @@
     },
     {
         "card_name": "Unexpected Reinforcements",
-        "number": 208,
+        "number": 226,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1547,7 +1672,7 @@
     },
     {
         "card_name": "True Betrayal",
-        "number": 190,
+        "number": 208,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1558,7 +1683,7 @@
     },
     {
         "card_name": "Growing at All Cost",
-        "number": 197,
+        "number": 215,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1572,7 +1697,7 @@
     },
     {
         "card_name": "Sneaky Zombie",
-        "number": 205,
+        "number": 223,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1583,7 +1708,7 @@
     },
     {
         "card_name": "Enraged Baloth",
-        "number": 171,
+        "number": 189,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1603,7 +1728,7 @@
     },
     {
         "card_name": "Oversized Baboons",
-        "number": 200,
+        "number": 218,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1635,7 +1760,7 @@
     },
     {
         "card_name": "Menetre, Avatar of Greed",
-        "number": 180,
+        "number": 198,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1643,7 +1768,7 @@
     },
     {
         "card_name": "Eleiia, Leader of Fugitives",
-        "number": 170,
+        "number": 188,
         "shape": "planeswalker",
         "set": "DAD",
         "rotated": false,
@@ -1660,7 +1785,7 @@
     },
     {
         "card_name": "Meet Your Creator",
-        "number": 179,
+        "number": 197,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1668,7 +1793,7 @@
     },
     {
         "card_name": "Nogafris, Avatar of Order",
-        "number": 181,
+        "number": 199,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1685,7 +1810,7 @@
     },
     {
         "card_name": "Menelas, Voice of Greed",
-        "number": 199,
+        "number": 217,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1693,7 +1818,7 @@
     },
     {
         "card_name": "Desperate Call",
-        "number": 195,
+        "number": 213,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1710,7 +1835,7 @@
     },
     {
         "card_name": "Imploring Menetre",
-        "number": 176,
+        "number": 194,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1718,7 +1843,7 @@
     },
     {
         "card_name": "Gedric, Champion of Order",
-        "number": 196,
+        "number": 214,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1735,7 +1860,7 @@
     },
     {
         "card_name": "Priest of Greed",
-        "number": 183,
+        "number": 201,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1743,7 +1868,7 @@
     },
     {
         "card_name": "Administration of Velatha",
-        "number": 167,
+        "number": 185,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1760,7 +1885,7 @@
     },
     {
         "card_name": "Haven of Rogues",
-        "number": 198,
+        "number": 216,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1768,7 +1893,7 @@
     },
     {
         "card_name": "Gates of Velatha",
-        "number": 174,
+        "number": 192,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1785,7 +1910,7 @@
     },
     {
         "card_name": "Affamed Grizzly",
-        "number": 168,
+        "number": 186,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1793,7 +1918,7 @@
     },
     {
         "card_name": "Priest of Order",
-        "number": 185,
+        "number": 203,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1810,7 +1935,7 @@
     },
     {
         "card_name": "Sealing the Fate",
-        "number": 203,
+        "number": 221,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1818,7 +1943,7 @@
     },
     {
         "card_name": "Unstoppable Charge",
-        "number": 191,
+        "number": 209,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1838,7 +1963,7 @@
     },
     {
         "card_name": "Recuiter of the Homeless",
-        "number": 202,
+        "number": 220,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1864,7 +1989,7 @@
     },
     {
         "card_name": "Thyrroene, Mother of All",
-        "number": 188,
+        "number": 206,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1897,7 +2022,7 @@
     "a->colorless",
     {
         "card_name": "Knife of Giniki",
-        "number": 212,
+        "number": 231,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1905,7 +2030,7 @@
     },
     {
         "card_name": "Mace of Gonoko",
-        "number": 213,
+        "number": 232,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1913,7 +2038,7 @@
     },
     {
         "card_name": "Spear of Geneke",
-        "number": 216,
+        "number": 235,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1921,7 +2046,7 @@
     },
     {
         "card_name": "Staff of Gunuku",
-        "number": 217,
+        "number": 236,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1929,15 +2054,23 @@
     },
     {
         "card_name": "Sword of Ganaka",
-        "number": 218,
+        "number": 237,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "32"
     },
     {
+        "card_name": "",
+        "number": 228,
+        "shape": "normal",
+        "set": "DAD",
+        "rotated": false,
+        "position": "238"
+    },
+    {
         "card_name": "Altar of Renewed Knowledge",
-        "number": 210,
+        "number": 229,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1945,7 +2078,7 @@
     },
     {
         "card_name": "Chronicle Relic",
-        "number": 211,
+        "number": 230,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1953,7 +2086,7 @@
     },
     {
         "card_name": "Mechanical Brother",
-        "number": 214,
+        "number": 233,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1961,14 +2094,11 @@
     },
     {
         "card_name": "Relic of Past Glory",
-        "number": 215,
+        "number": 234,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
         "position": "189"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1985,7 +2115,7 @@
     "a->land",
     {
         "card_name": "Secret Grasslands",
-        "number": 226,
+        "number": 245,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1993,7 +2123,7 @@
     },
     {
         "card_name": "Hidden Pool",
-        "number": 222,
+        "number": 241,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -2001,7 +2131,7 @@
     },
     {
         "card_name": "Muddy Trail",
-        "number": 224,
+        "number": 243,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -2009,7 +2139,7 @@
     },
     {
         "card_name": "Steep Hill",
-        "number": 227,
+        "number": 246,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -2017,7 +2147,7 @@
     },
     {
         "card_name": "Untouched Mangrove",
-        "number": 229,
+        "number": 248,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -2040,7 +2170,7 @@
     },
     {
         "card_name": "Cathedral of Valdor",
-        "number": 219,
+        "number": 238,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -2048,7 +2178,7 @@
     },
     {
         "card_name": "Mausoleum of Udach",
-        "number": 223,
+        "number": 242,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -2059,7 +2189,7 @@
     },
     {
         "card_name": "Grotto of Penaloda",
-        "number": 221,
+        "number": 240,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -2091,7 +2221,7 @@
     },
     {
         "card_name": "Palace of Rholt",
-        "number": 225,
+        "number": 244,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -2099,7 +2229,7 @@
     },
     {
         "card_name": "Fortress of Geirdyn",
-        "number": 220,
+        "number": 239,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -2125,7 +2255,7 @@
     },
     {
         "card_name": "Terramorphic Expanse",
-        "number": 228,
+        "number": 247,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,

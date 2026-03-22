@@ -1,4 +1,133 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Orderbound Apprentice added.
+Pathbreaker Elemental added.
+Harrow added.
+Wildgrowth Den added.
+Cycle of Renewal added.
+Valiant Banneret added.
+Inferno Surge added.
+Cleansing Rite added.
+Aerial Bulwark added.
+Divine Uplift added.
+Thought Reservoir added.
+Aether Reversal added.
+Gale Ambusher added.
+Augury Wisp added.
+Disturbed Burial added.
+Bloodtithe Apprentice added.
+Culling the Weak added.
+Gravedigger Apprentice added.
+Wasteland Plunder added.
+
+Homage to Menetre removed.
+Orderbound Cleric removed.
+Skulktooth Orc removed.
+
+Order at Stake
+rules_text: Order at Stake deals 2 damage to any target. If a creature dealt damage by Order at Stake would die this turn, create a 1/1 white Soldier creature token. => Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]
+Order at Stake deals 2 damage to any target. If you paid the kicker cost, create a 1/1 white Soldier creature token.
+
+Ronom Unicorn
+rules_text: Sacrifice Ronom Unicorn: Destroy target artifact or enchantment. => Sacrifice Ronom Unicorn: Destroy target enchantment.
+pt: 2/2 => 3/1
+
+Sky Armada
+rules_text: Flying
+Other flying creatures you control get +1/+1. => Flying
+Other creatures with flying you control get +1/+1.
+
+Healer of Broken Lands
+
+Adept of Growth
+pt: 4/3 => 4/2
+
+Growth Over Life
+cost: {2}{G} => {3}{G}
+rules_text: Kicker— Return any number of creatures you control to their owner's hands.
+Search your library for two basic land cards and put them into your hand, then shuffle. 
+If you paid the Kicker cost, you may put X lands from your hand onto the battlefield tapped, where X is the number of creatures you returned to your hand this turn. => Kicker— Return any number of creatures you control to their owner's hands.
+Search your library for two basic land cards and put them into your hand, then shuffle. 
+If you paid the Kicker cost, you may put X lands from your hand onto the battlefield tapped, where X is one plus the number of creatures you returned to your hand this turn.
+
+
+type: Creature — Demon => Artifact
+cost: {3}{B} => {2}{B}
+rules_text: Flying, Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i] => {2}, {T}, sacrifice a creature: Draw a card.
+pt: 4/3 => 
+
+Taken by Surprise
+cost: {1}{G} => {2}{G}
+rules_text: Up to two target creatures each gain +2/+0 and trample until end of turn. => Kicker {G} [i](You may pay an additional {G} as you cast this spell.)[/i]
+Up to two target creatures each gain +2/+0. If you paid the kicker cost, they also gain trample until end of turn.
+
+Guided Purification
+rules_text: Exile target permanent, then Scry 1. => Exile target non-land permanent, then Scry 1.
+
+Neuralgia
+rules_text: Choose one:
+- Destroy target creature with Defender.
+- Target player discards two cards and loose 2 life. => Choose one:
+- Destroy target creature with Defender.
+- Target player discards two cards and looses 2 life.
+
+Psychic Touch
+rules_text: Target creature gains Deathtouch until end of turn, then it fights another creature you don't control. => Target creature gains Deathtouch until end of turn It fights another creature you don't control.
+
+Steep Hill
+rules_text: Steep Hill enters tapped.
+{T}: Add {R}.
+{T}, sacrifice Steep Hill: Target creature gains +1/+0 and haste until end of turn. => Steep Hill enters tapped.
+{T}: Add {R}.
+{T}, Sacrifice Steep Hill: Target creature gains +1/+0 and haste until end of turn.
+
+Untouched Mangrove
+rules_text: Untouched Mangrove enters tapped.
+{T}: Add {G}.
+{T}, sacrifice Untouched Mangrove: Create a Treasure token. => Untouched Mangrove enters tapped.
+{T}: Add {G}.
+{T}, Sacrifice Untouched Mangrove: Create a Treasure token.
+
+Secret Grasslands
+rules_text: Secret Grasslands enters tapped.
+{T}: Add {W}.
+{T}, sacrifice Secret Grasslands: Create a 0/2 white Goat creature token. => Secret Grasslands enters tapped.
+{T}: Add {W}.
+{T}, Sacrifice Secret Grasslands: Create a 0/2 white Goat creature token.
+
+Hidden Pool
+rules_text: Hidden Pool enters tapped.
+{T}: Add {U}.
+{T}, sacrifice Hidden Pool: Surveil 2. => Hidden Pool enters tapped.
+{T}: Add {U}.
+{T}, Sacrifice Hidden Pool: Surveil 2.
+
+Muddy Trail
+rules_text: Muddy Trail enters tapped.
+{T}: Add {B}.
+{T}, sacrifice Muddy Trail: Target creature gains +1/+0 and menace until end of turn. => Muddy Trail enters tapped.
+{T}: Add {B}.
+{T}, Sacrifice Muddy Trail: Target creature gains +1/+0 and menace until end of turn.
+
+Grovebirth Elemental
+pt: 3/4 => 4/2
+
+
+type: Creature — Demon => Enchantment
+cost: {3}{B} => {1}{G}{G}
+rules_text: Flying, Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i] => At the beginning of your end step, if a non-token creature died this turn under your control, draw a card.
+pt: 4/3 => 
+
+
+type: Creature — Demon => Artifact Creature — Costruct
+cost: {3}{B} => {6}
+rules_text: Flying, Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i] => Defender
+{T}: Destroy target creature with defender. Put a stun counter on this creature. Play this ability as a sorcery.
+pt: 4/3 => 3/5
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Sorcerer's Apprentice added.
