@@ -1,4 +1,264 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Viphiozes' Last Gambit added.
+Bloodprice Engine added.
+Fecund Renewal added.
+Cycles of Renewal added.
+Siegebreaker Engine added.
+Ruinbound Minotaur added.
+Landscorch Ogre added.
+Landlord's Chest added.
+Father of Demise added.
+Angel of the Big Titties added.
+Kewok, Land-Eater Ketone added.
+Incremental Revelation added.
+Devotee of Viphiozes added.
+Archon of the Unbroken Charge added.
+Animate Dead added.
+Ragepack Inciter added.
+Sphinx of Endless Insight added.
+
+Zombie Apocalypse removed.
+Desperate Call removed.
+Cycle of Renewal removed.
+
+Administration of Velatha
+cost: {R}{W} => {RW}{RW}
+
+Sorcerer's Apprentice
+cost: {3}{R} => {2}{R}
+rules_text: Whenever Apprentice Sorcerer enters the battlefield, return target instant or sorcery with mana value 3 or less from your graveyard to your hand. => Whenever Apprentice Sorcerer enters the battlefield, return target instant or sorcery with mana value 2 or less from your graveyard to your hand.
+pt: 2/2 => 1/2
+
+Sleep
+
+Phissi, Vessel of Discord
+rules_text: Flying
+Whenever an attacking creature you control deals damage to any player, draw a card. => This creature can't be blocked.
+Whenever a creature you control deals combat damage to a player, draw a card.
+
+Geirdyn Herald
+pt: 3/3 => 3/2
+
+Viphiozes, Avatar of Discord
+rules_text: Viphiozes, Avatar of Discord can't be blocked.
+At the beginning of your end step, gain control of target creature with power equal or less than the number of life you lost this turn until you lose control of Viphiozes, Avatar of Discord. => Viphiozes, Avatar of Discord can't be blocked.
+At the beginning of your end step, you may put a +1/+1 counter on this creature if you lost life this turn.When you do, gain control of target creature with power equal or less than this creature until you lose control of Viphiozes, Avatar of Discord.
+
+One for the Team
+
+Take a Revenge
+rules_text: Take a Revenge deals 2 damage to each creature and each player. If one or more non-token creature would die this way under your control, create that many 1/1 red Goblin creature token. => Take a Revenge deals 3 damage to each creature and each player. If one or more non-token creature would die this way under your control, create that many 1/1 red Goblin creature token.
+
+Terramorphic Expanse
+
+Cathedral of Valdor
+
+Fortress of Geirdyn
+
+Grotto of Penaloda
+
+Palace of Rholt
+
+Mausoleum of Udach
+
+Peace Offering
+
+Eleiia, Leader of Fugitives
+
+Priest of Purity
+
+Priest of Discord
+
+Priest of Growth
+
+Priest of Greed
+
+Priest of Order
+
+Geirdyn Overlords
+
+Ascension to Enlightment
+
+Assashain, Homeless Outsider
+
+Musical Interlude
+
+Young Widow
+
+Praying the Dawn
+
+Reconstructing Landscape
+
+Velioth Experimentation
+
+Meet Your Creator
+
+Bring to Justice
+
+Champion of Geirdyn
+
+Moment of Inspiration
+
+Escape Reality
+
+Hilena, Voice of the Legions
+
+Oath of the Saints
+
+Oath of the Whisperers
+
+Oath of the Damned
+
+Oath of the Beloved
+
+Oath of the Veterans
+
+Oath of the Conquerors
+
+Oath of the Believers
+
+Oath of the Forsakens
+
+Oath of the Lonely
+
+Oath of the Vengeful
+
+Gedric, Champion of Order
+
+Srod, Offspring of Growth
+
+Menelas, Voice of Greed
+cost: {1}{BG}{BG}{BG} => {BG}{BG}{BG}{BG}
+rules_text: {T}, Sacrifice a non-token creature you control: Reveal the top cards of your library until you reveal a creature card. Put that creature onto the battlefield and all other cards revealed this way on the bottom of your library in a random order. Activate only as a sorcery. => Deathtouch
+{T}, Sacrifice a non-token creature you control: Reveal the top cards of your library until you reveal a creature card. Put that creature onto the battlefield and all other cards revealed this way on the bottom of your library in a random order. Activate only as a sorcery.
+
+Thessene, Symbol of Purity
+
+Relic of Past Glory
+
+Oblivion Ring
+
+Obedient Vanguard
+
+Rumbling Monster
+
+Uxizas, Lightning Oracle
+
+Tradewind Expert
+
+Wildbane Elemental
+
+Wicked Aberration
+
+Pause in Time
+
+Harvest the Moon's Promesses
+
+Permanent Equilibrium
+
+Wild Experimentation
+rules_text: When Wild Experimentation enters the battlefield, choose a creature type.
+Creatures you control of the chosen type get +1/+1, have haste and must attack each turn if able.
+At the beginning of your combat phase, create a 1/1 red creature token of the chosen type. => When Wild Experimentation enters the battlefield, sacrifice a creature.
+Creatures you control that share a type with the sacrificed creature get +2/+2, have haste and must attack each turn if able.
+At the beginning of your combat phase, create a 1/1 red Shapeshifter creature token with changeling.
+
+Jace, Unfortunate Traveler
+
+Igdiul, Phyrexian Scourge
+
+Smint
+
+Guided Purification
+
+Radiant Resolve
+
+Zephyr Net
+
+Neuralgia
+
+Charge and Claim
+
+Psychic Touch
+
+True Betrayal
+
+Steep Hill
+
+Untouched Mangrove
+
+Secret Grasslands
+
+Hidden Pool
+
+Muddy Trail
+
+Altar of Renewed Knowledge
+
+Orderbound Apprentice
+
+Herald of the Armada
+
+Feedback Elemental
+
+Armada Scout
+
+Chronicle Relic
+
+Carrion Climber
+type: Creature => Creature — Horror
+
+Whispering Shadow
+
+Pathbreaker Elemental
+
+Frenzy Piker
+
+Loamkeeper Sapling
+
+Wildgrove Channeler
+type: Creature — Beast => Creature — Human Beast Druid
+
+Grovebirth Elemental
+rules_text: When this creature enters, create a 2/2 beast green creature token. => When this creature enters, create a 2/2 green Beast creature token.
+
+Harrow
+
+Wildgrowth Den
+
+Valiant Banneret
+
+Inferno Surge
+
+Cleansing Rite
+
+Aerial Bulwark
+cost: {3}{W} => {2}{W}{W}
+
+Divine Uplift
+
+Thought Reservoir
+
+Aether Reversal
+
+Gale Ambusher
+
+Augury Wisp
+
+Disturbed Burial
+
+Bloodtithe Apprentice
+
+Culling the Weak
+
+Gravedigger Apprentice
+
+Wasteland Plunder
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Orderbound Apprentice added.
