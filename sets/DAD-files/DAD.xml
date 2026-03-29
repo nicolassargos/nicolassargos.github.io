@@ -5,7 +5,7 @@
 			<name>DAD</name>
 			<longname>Doebos: Age of Discord</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-28</releasedate>
+			<releasedate>2026-03-29</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2143,7 +2143,7 @@ When Wurm of Penaloda enters the battlefield, gain 8 life.</text>
 		</card>
 		<card>
 			<name>Mushrooms Harvester</name>
-			<text>At the beginning of each end step, gain 1 life.</text>
+			<text>At the beginning of your end step, gain 1 life.</text>
 			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/124.png" num="172">DAD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2715,7 +2715,7 @@ Create X white and red Angel 4/4 tokens with Flying, where X is the number of la
 		<card>
 			<name>Priest of Greed</name>
 			<text>{B}, {T}, Sacrifice two other creatures: Put target creature from your graveyard into your hand.
-{G}, {T}: Surveil 1, then gain one life for each creature card in your graveyard. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+{G}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
 			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/158.png" num="207">DAD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2750,7 +2750,7 @@ Create X white and red Angel 4/4 tokens with Flying, where X is the number of la
 		</card>
 		<card>
 			<name>Geirdyn Overlords</name>
-			<text>Flying, Double strike
+			<text>Flying, Double strike, Trample
 You may sacrifice any number of lands when you cast this spell. This spell costs {2} less to cast for each land sacrificed this way.</text>
 			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/160.png" num="128">DAD</set>
 			<prop>
@@ -3391,7 +3391,7 @@ Wildbane Elemental enters the battlefield with X +1/+1 counter on it, where X is
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Harvest the Moon&apos;s Promesses</name>
+			<name>Harvest the Moon&apos;s Promises</name>
 			<text>Each player discards their hand, then draws seven cards.</text>
 			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/197.png" num="134">DAD</set>
 			<prop>

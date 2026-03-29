@@ -1,4 +1,39 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Harvest the Moon's Promises added.
+
+Harvest the Moon's Promesses removed.
+
+Mushrooms Harvester
+rules_text: At the beginning of each end step, gain 1 life. => At the beginning of your end step, gain 1 life.
+
+Priest of Greed
+rules_text: {B}, {T}, Sacrifice two other creatures: Put target creature from your graveyard into your hand.
+{G}, {T}: Surveil 1, then gain one life for each creature card in your graveyard. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => {B}, {T}, Sacrifice two other creatures: Put target creature from your graveyard into your hand.
+{G}, {T}: Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Geirdyn Overlords
+rules_text: Flying, Double strike
+You may sacrifice any number of lands when you cast this spell. This spell costs {2} less to cast for each land sacrificed this way. => Flying, Double strike, Trample
+You may sacrifice any number of lands when you cast this spell. This spell costs {2} less to cast for each land sacrificed this way.
+
+Radiant Resolve
+
+Zephyr Net
+
+Psychic Touch
+
+Altar of Renewed Knowledge
+
+Orderbound Apprentice
+
+Valiant Banneret
+
+Sphinx of Endless Insight
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Viphiozes' Last Gambit added.

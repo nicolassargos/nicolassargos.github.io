@@ -1971,7 +1971,7 @@
 			}
 		},
 		{
-			"name": "Harvest the Moon's Promesses",
+			"name": "Harvest the Moon's Promises",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}",
 			"type": "Sorcery",
@@ -2649,7 +2649,7 @@
 	2 Wildbane Elemental
 	2 Wicked Aberration
 	2 Pause in Time
-	2 Harvest the Moon's Promesses
+	2 Harvest the Moon's Promises
 	2 Permanent Equilibrium
 	2 Wild Experimentation
 	1 Jace, Unfortunate Traveler
@@ -3154,7 +3154,7 @@
 	2 Wildbane Elemental
 	2 Wicked Aberration
 	2 Pause in Time
-	2 Harvest the Moon's Promesses
+	2 Harvest the Moon's Promises
 	2 Permanent Equilibrium
 	2 Wild Experimentation
 	1 Jace, Unfortunate Traveler
@@ -3409,7 +3409,7 @@
 	7 Wildbane Elemental
 	7 Wicked Aberration
 	7 Pause in Time
-	7 Harvest the Moon's Promesses
+	7 Harvest the Moon's Promises
 	7 Permanent Equilibrium
 	7 Wild Experimentation
 	4 Jace, Unfortunate Traveler
