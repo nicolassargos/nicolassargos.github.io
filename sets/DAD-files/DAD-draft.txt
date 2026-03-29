@@ -6,8 +6,11 @@
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Demon",
 			"collector_number": "77",
+			"oracle_text": "Flying, Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]",
+			"power": "4",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/0.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/0.png"
 			}
 		},
 		{
@@ -16,8 +19,11 @@
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Zombie Spirit",
 			"collector_number": "60",
+			"oracle_text": "When Obnoxious Zombie becomes the target of a spell an opponent controls, sacrifice it.",
+			"power": "5",
+			"toughness": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/1.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/1.png"
 			}
 		},
 		{
@@ -26,8 +32,11 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Beast",
 			"collector_number": "57",
+			"oracle_text": "Flying, Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]\nWhen Manticore of Udah dies, draw a card, then discard a card.",
+			"power": "3",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/2.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/2.png"
 			}
 		},
 		{
@@ -36,8 +45,11 @@
 			"mana_cost": "{1}{U/B}{U/B}",
 			"type": "Creature — Gremlin",
 			"collector_number": "228",
+			"oracle_text": "Flying\nWhen Sneaky Roomie attacks, draw a card, then discard a card.",
+			"power": "2",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/3.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/3.png"
 			}
 		},
 		{
@@ -46,8 +58,11 @@
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Spirit",
 			"collector_number": "69",
+			"oracle_text": "Defender\n{T}: Draw a card, then discard a card.",
+			"power": "1",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/4.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/4.png"
 			}
 		},
 		{
@@ -56,8 +71,9 @@
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment",
 			"collector_number": "218",
+			"oracle_text": "Zombie creatures you control get +1/+1.\nSacrifice Zombie Apocalypse: Creatures you control cannot be blocked until end of turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/5.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/5.png"
 			}
 		},
 		{
@@ -66,8 +82,9 @@
 			"mana_cost": "{R/W}{R/W}",
 			"type": "Enchantment",
 			"collector_number": "219",
+			"oracle_text": "Whenever you sacrifice a land, create a treasure token.\nAt the beginning of you upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/6.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/6.png"
 			}
 		},
 		{
@@ -76,8 +93,11 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "146",
+			"oracle_text": "Whenever Apprentice Sorcerer enters the battlefield, return target instant or sorcery with mana value 2 or less from your graveyard to your hand.",
+			"power": "1",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/7.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/7.png"
 			}
 		},
 		{
@@ -86,8 +106,9 @@
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "43",
+			"oracle_text": "Enchant creature\nWhenever you cast Blessed by Air, draw a card.\nEnchanted creature has flying.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/8.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/8.png"
 			}
 		},
 		{
@@ -96,8 +117,9 @@
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "155",
+			"oracle_text": "Enchant creature\nWhenever you cast Blessed by Earth, you may put a land from your hand onto the battlefield tapped. If you don't, search your library for a basic forest and put it into your hand.\nEnchanted creature has trample.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/9.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/9.png"
 			}
 		},
 		{
@@ -106,8 +128,9 @@
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "5",
+			"oracle_text": "Enchant creature\nWhenever you cast Blessed by Snow, tap up to two target creatures.\nEnchanted creature has vigilance.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/10.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/10.png"
 			}
 		},
 		{
@@ -116,8 +139,9 @@
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "119",
+			"oracle_text": "Enchant creature\nWhenever you cast Blessed by Fire, you may have it deal 2 damage to target creature.\nEnchanted creature has first strike.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/11.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/11.png"
 			}
 		},
 		{
@@ -126,8 +150,9 @@
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
 			"collector_number": "81",
+			"oracle_text": "Enchant creature\nWhenever you cast Blessed by Disease, target player discards a card and looses 1 life.\nEnchanted creature has lifelink.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/12.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/12.png"
 			}
 		},
 		{
@@ -136,8 +161,11 @@
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Goblin Warrior",
 			"collector_number": "213",
+			"oracle_text": "",
+			"power": "3",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/13.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/13.png"
 			}
 		},
 		{
@@ -146,8 +174,9 @@
 			"mana_cost": "{1}{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "200",
+			"oracle_text": "Put target creature with mana value 4 or more from your graveyard onto the battlefield.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/14.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/14.png"
 			}
 		},
 		{
@@ -156,8 +185,9 @@
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "160",
+			"oracle_text": "Target creature gains +1/+2 until end of turn.\nIf that creature dies this turn, it deals damage equal to its power to another target creature.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/15.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/15.png"
 			}
 		},
 		{
@@ -166,8 +196,11 @@
 			"mana_cost": "{B}",
 			"type": "Creature — Rat",
 			"collector_number": "111",
+			"oracle_text": "Deathtouch",
+			"power": "1",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/16.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/16.png"
 			}
 		},
 		{
@@ -176,8 +209,11 @@
 			"mana_cost": "{B}",
 			"type": "Creature — Zombie",
 			"collector_number": "100",
+			"oracle_text": "Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]\nMind Devourer comes into play tapped unless any player has 10 or less life.",
+			"power": "2",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/17.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/17.png"
 			}
 		},
 		{
@@ -186,8 +222,11 @@
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "192",
+			"oracle_text": "Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/18.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/18.png"
 			}
 		},
 		{
@@ -196,8 +235,9 @@
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment",
 			"collector_number": "46",
+			"oracle_text": "Creatures lose flying and can't gain flying.\nWhenever a creature attacks you or a planeswalker you control, return it into its owner's hand at end of combat.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/19.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/19.png"
 			}
 		},
 		{
@@ -206,8 +246,9 @@
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "64",
+			"oracle_text": "Counter target creature spell unless its controller pays {2}.\nScry 2.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/20.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/20.png"
 			}
 		},
 		{
@@ -216,8 +257,9 @@
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "53",
+			"oracle_text": "Counter target spell. Target player mills 3 cards.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/21.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/21.png"
 			}
 		},
 		{
@@ -226,8 +268,9 @@
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
 			"collector_number": "202",
+			"oracle_text": "Prevent all combat damage that would be dealt by target creature this turn. Its controller mills two cards.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/22.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/22.png"
 			}
 		},
 		{
@@ -236,8 +279,9 @@
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "71",
+			"oracle_text": "Draw a card.\nBuyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/23.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/23.png"
 			}
 		},
 		{
@@ -246,8 +290,9 @@
 			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment",
 			"collector_number": "196",
+			"oracle_text": "Whenever you draw a card, each opponent mills a card.\nSacrifice Erosion Shield: Gain 5 life.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/24.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/24.png"
 			}
 		},
 		{
@@ -256,8 +301,11 @@
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Beast",
 			"collector_number": "34",
+			"oracle_text": "Flying, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"power": "1",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/25.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/25.png"
 			}
 		},
 		{
@@ -266,8 +314,11 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Beast",
 			"collector_number": "9",
+			"oracle_text": "Defender\nSacrifice Defender of Valdor: Prevent all combat damage that would be dealt this turn.",
+			"power": "1",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/26.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/26.png"
 			}
 		},
 		{
@@ -276,8 +327,9 @@
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"collector_number": "28",
+			"oracle_text": "Create two 1/1 white soldier tokens.\nBuyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/27.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/27.png"
 			}
 		},
 		{
@@ -286,8 +338,9 @@
 			"mana_cost": "{1}{W}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "33",
+			"oracle_text": "Starting with you, each player separates permanents they control in two face up piles. Then each player chooses a pile from the opponent on his right. That player sacrifices all permanents in this pile.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/28.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/28.png"
 			}
 		},
 		{
@@ -296,8 +349,9 @@
 			"mana_cost": "{5}{U}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "75",
+			"oracle_text": "Enchant permanent\nGain control of enchanted permanent.\nHeritage [i](When this spell is countered or this permanent is put into a graveyard from the battlefield, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/29.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/29.png"
 			}
 		},
 		{
@@ -306,8 +360,11 @@
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Zombie",
 			"collector_number": "45",
+			"oracle_text": "Return another creature you control to its owner's hand: Elusive Corpse can't be blocked until end of turn. Activate this ability as a sorcery and only once each turn.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/30.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/30.png"
 			}
 		},
 		{
@@ -316,8 +373,11 @@
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "40",
+			"oracle_text": "When Apprentice Illusionist enters the battlefield, return target creature with mana value 3 or less an opponent controls to its owner's hand.",
+			"power": "1",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/31.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/31.png"
 			}
 		},
 		{
@@ -326,8 +386,9 @@
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
 			"collector_number": "243",
+			"oracle_text": "Equipped creature get +1/+1, has first strike and \u201cWhenever equipped creature deals damage to a player, that player mills that many cards\u201d.\nEquip {3}",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/32.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/32.png"
 			}
 		},
 		{
@@ -336,8 +397,9 @@
 			"mana_cost": "{W}",
 			"type": "Sorcery",
 			"collector_number": "24",
+			"oracle_text": "Destroy target tapped creature unless its controller pays {2}.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/33.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/33.png"
 			}
 		},
 		{
@@ -346,8 +408,11 @@
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Human Paladin",
 			"collector_number": "25",
+			"oracle_text": "Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]\nWhen this creature enters, exile target creature until it leaves the battlefield.",
+			"power": "1",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/34.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/34.png"
 			}
 		},
 		{
@@ -356,8 +421,11 @@
 			"mana_cost": "{U}",
 			"type": "Creature — Zombie Spirit",
 			"collector_number": "44",
+			"oracle_text": "Flying\nWhen Discord's Spirit dies, draw a card.",
+			"power": "1",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/35.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/35.png"
 			}
 		},
 		{
@@ -366,8 +434,9 @@
 			"mana_cost": "{R}",
 			"type": "Enchantment",
 			"collector_number": "123",
+			"oracle_text": "{1}{R}, Sacrifice a land: Create two 1/1 red Goblin tokens.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/36.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/36.png"
 			}
 		},
 		{
@@ -376,8 +445,9 @@
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "142",
+			"oracle_text": "Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]\nOrder at Stake deals 2 damage to any target. If you paid the kicker cost, create a 1/1 white Soldier creature token.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/37.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/37.png"
 			}
 		},
 		{
@@ -386,8 +456,11 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "169",
+			"oracle_text": "Trample",
+			"power": "3",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/38.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/38.png"
 			}
 		},
 		{
@@ -396,8 +469,11 @@
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Wraith",
 			"collector_number": "110",
+			"oracle_text": "Flying, Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]",
+			"power": "2",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/39.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/39.png"
 			}
 		},
 		{
@@ -406,8 +482,9 @@
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "103",
+			"oracle_text": "As an additional cost to cast this spell, pay X life.\nEach of X target creatures get +2/+2 until end of turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/40.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/40.png"
 			}
 		},
 		{
@@ -416,8 +493,11 @@
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Zombie",
 			"collector_number": "95",
+			"oracle_text": "Deathtouch, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/41.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/41.png"
 			}
 		},
 		{
@@ -426,8 +506,9 @@
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "106",
+			"oracle_text": "Target player separates the cards in their hand in two face down piles, then you choose one of them. That player discards that pile.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/42.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/42.png"
 			}
 		},
 		{
@@ -436,8 +517,11 @@
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Brother",
 			"collector_number": "12",
+			"oracle_text": "Vigilance\nEach other brother get +1/+1 and gain vigilance.\nWhenever you control five Brother creatures, you win the game.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/43.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/43.png"
 			}
 		},
 		{
@@ -446,8 +530,11 @@
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Brother",
 			"collector_number": "52",
+			"oracle_text": "Flying\nEach other brother get +1/+1 and gain flying.\nWhenever you control five Brother creatures, you win the game.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/44.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/44.png"
 			}
 		},
 		{
@@ -456,8 +543,11 @@
 			"mana_cost": "{R}{R}",
 			"type": "Legendary Creature — Human Brother",
 			"collector_number": "130",
+			"oracle_text": "Haste\nEach other brother get +1/+1 and gain haste.\nWhenever you control five Brother creatures, you win the game.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/45.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/45.png"
 			}
 		},
 		{
@@ -466,8 +556,11 @@
 			"mana_cost": "{G}{G}",
 			"type": "Legendary Creature — Human Brother",
 			"collector_number": "164",
+			"oracle_text": "Trample\nEach other brother get +1/+1 and gain trample.\nWhenever you control five Brother creatures, you win the game.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/46.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/46.png"
 			}
 		},
 		{
@@ -476,8 +569,11 @@
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Brother",
 			"collector_number": "93",
+			"oracle_text": "Lifelink\nEach other brother get +1/+1 and gain lifelink.\nWhenever you control five Brother creatures, you win the game.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/47.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/47.png"
 			}
 		},
 		{
@@ -486,8 +582,11 @@
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Spirit Giant",
 			"collector_number": "91",
+			"oracle_text": "When Enslaved Reveler enters the battlefield, gain 3 life and target opponent discards a card.",
+			"power": "3",
+			"toughness": "7",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/48.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/48.png"
 			}
 		},
 		{
@@ -496,8 +595,11 @@
 			"mana_cost": "{U/B}{U/B}",
 			"type": "Creature — Zombie Rogue",
 			"collector_number": "229",
+			"oracle_text": "Defender\nAt the beginning of your upkeep, you may exile a creature card from your graveyard. If you exiled a card this way, Sneaky Zombie looses Defender and can't be blocked until end of turn.",
+			"power": "3",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/49.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/49.png"
 			}
 		},
 		{
@@ -506,8 +608,9 @@
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "107",
+			"oracle_text": "Return onto the battlefield all creature cards you own that died this turn under your control.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/50.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/50.png"
 			}
 		},
 		{
@@ -516,8 +619,9 @@
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "65",
+			"oracle_text": "Return up to two target non-land permanents an opponent control into their owner's hand. At the end of turn, that opponent may put a permanent from their hand onto the battlefield.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/51.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/51.png"
 			}
 		},
 		{
@@ -526,8 +630,9 @@
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
 			"collector_number": "48",
+			"oracle_text": "Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/52.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/52.png"
 			}
 		},
 		{
@@ -536,8 +641,9 @@
 			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "67",
+			"oracle_text": "Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/53.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/53.png"
 			}
 		},
 		{
@@ -546,8 +652,11 @@
 			"mana_cost": "{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "56",
+			"oracle_text": "Defender\n{3}, {T}: Target player mills 2 cards. If those cards share at least one color, repeat this process.",
+			"power": "0",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/54.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/54.png"
 			}
 		},
 		{
@@ -556,8 +665,11 @@
 			"mana_cost": "{3}{W/U}",
 			"type": "Creature — Wall",
 			"collector_number": "233",
+			"oracle_text": "Defender, Lifelink\nWhenever you gain life, each player mills one card.",
+			"power": "1",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/55.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/55.png"
 			}
 		},
 		{
@@ -566,8 +678,9 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "23",
+			"oracle_text": "Gain 1 life for each attacking creature.\nBuyback {4} [i](You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/56.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/56.png"
 			}
 		},
 		{
@@ -576,8 +689,9 @@
 			"mana_cost": "{W/U}",
 			"type": "Sorcery",
 			"collector_number": "232",
+			"oracle_text": "Create a 1/1 white and blue bird creature token with flying.\nBuyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/57.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/57.png"
 			}
 		},
 		{
@@ -586,8 +700,9 @@
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "54",
+			"oracle_text": "Draw a card for each creature with defender you control.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/58.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/58.png"
 			}
 		},
 		{
@@ -596,8 +711,11 @@
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Shade Knight",
 			"collector_number": "97",
+			"oracle_text": "Menace, Protection from white\nWhenever Ihsan, [i]Corrupted[/i] Knight enters the battlefield, you may destroy target Angel, Knight or Paladin.",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/59.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/59.png"
 			}
 		},
 		{
@@ -606,8 +724,11 @@
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Serpent",
 			"collector_number": "70",
+			"oracle_text": "Defender\n{2}: Submarine Guardian loses defender until end of turn.\nWhen Submarine Guardian attacks, each player mills 2 cards.",
+			"power": "6",
+			"toughness": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/60.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/60.png"
 			}
 		},
 		{
@@ -616,8 +737,11 @@
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct Brother",
 			"collector_number": "238",
+			"oracle_text": "Whenever this creature or another Brother creature enters, Scry 1.\nWhenever Mechanical Brother dies, create a 1/1 colorless Construct Brother artifact creature token.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/61.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/61.png"
 			}
 		},
 		{
@@ -626,8 +750,9 @@
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "198",
+			"oracle_text": "Whenever a creature enters the battlefield, Gates of Velatha deals one damage to each opponent.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/62.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/62.png"
 			}
 		},
 		{
@@ -636,8 +761,9 @@
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "135",
+			"oracle_text": "Create a 1/1 red Goblin token for each land in your graveyard.\nBuyback {2} [i](You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/63.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/63.png"
 			}
 		},
 		{
@@ -646,8 +772,9 @@
 			"mana_cost": "{R}{W}",
 			"type": "Sorcery",
 			"collector_number": "215",
+			"oracle_text": "As an additional cost to play this spell, sacrifice a land.\nUp to X creatures you control gain +1/+0 and can't be blocked this turn, where X is the number of lands in your graveyard.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/64.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/64.png"
 			}
 		},
 		{
@@ -656,8 +783,9 @@
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
 			"collector_number": "121",
+			"oracle_text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\nHeritage [i](When this spell is countered or this permanent is put into a graveyard from the battlefield, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/65.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/65.png"
 			}
 		},
 		{
@@ -666,8 +794,9 @@
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "131",
+			"oracle_text": "As an additional cost to play Gonoko's Fury, you may sacrifice a land.\nGonoko's Fury deals X damage to any target, where X is one plus the number of lands in your graveyard.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/66.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/66.png"
 			}
 		},
 		{
@@ -676,8 +805,9 @@
 			"mana_cost": "{3}{R/G}{R/G}",
 			"type": "Instant",
 			"collector_number": "221",
+			"oracle_text": "As an additional cost to cast Growing at All Cost, discard any number of land cards from your hand.\nCreatures you control gain +X/+X and trample until end of turn, where X is one plus the number of land cards discarded this way.\nDamage can't be prevented this turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/67.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/67.png"
 			}
 		},
 		{
@@ -686,8 +816,9 @@
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
 			"collector_number": "38",
+			"oracle_text": "Destroy target creature with power 3 or more.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/68.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/68.png"
 			}
 		},
 		{
@@ -696,8 +827,11 @@
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "195",
+			"oracle_text": "Trample\nAs long as Enraged Baloth is attacking, damage can't be prevented.",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/69.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/69.png"
 			}
 		},
 		{
@@ -706,8 +840,11 @@
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Troll Druid",
 			"collector_number": "197",
+			"oracle_text": "{1}{R}{G}, {T}: Lands you control become 3/3 Beast red and green creatures with trample until end of turn.",
+			"power": "2",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/70.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/70.png"
 			}
 		},
 		{
@@ -716,8 +853,11 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Minotaur",
 			"collector_number": "117",
+			"oracle_text": "Attacking creatures you control get +1/+0.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/71.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/71.png"
 			}
 		},
 		{
@@ -726,8 +866,11 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie",
 			"collector_number": "90",
+			"oracle_text": "Painlink, Heritage [i](Damage dealt to this creature also causes you to lose that much life. When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"power": "3",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/72.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/72.png"
 			}
 		},
 		{
@@ -736,8 +879,11 @@
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "78",
+			"oracle_text": "Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"power": "4",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/73.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/73.png"
 			}
 		},
 		{
@@ -746,8 +892,11 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Scout",
 			"collector_number": "159",
+			"oracle_text": "When this creature enters, search your library for a basic forest and put it into your hand, then shuffle.\nHeritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"power": "1",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/74.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/74.png"
 			}
 		},
 		{
@@ -756,8 +905,11 @@
 			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Creature — Plant Zombie",
 			"collector_number": "222",
+			"oracle_text": "Defender\nSacrifice a creature: Gain life equal to its toughness.",
+			"power": "0",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/75.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/75.png"
 			}
 		},
 		{
@@ -766,8 +918,9 @@
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "125",
+			"oracle_text": "Target creature gains +2/+1 and first strike until end of turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/76.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/76.png"
 			}
 		},
 		{
@@ -776,8 +929,9 @@
 			"mana_cost": "{B/G}",
 			"type": "Instant",
 			"collector_number": "227",
+			"oracle_text": "Choose one:\n - Target creature gains +1/+1 and lifelink until end of turn.\n - Target creature gains indestructible until end of turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/77.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/77.png"
 			}
 		},
 		{
@@ -786,8 +940,9 @@
 			"mana_cost": "{W}{W}{W}",
 			"type": "Instant",
 			"collector_number": "11",
+			"oracle_text": "Untap all attacking creatures. Prevent all combat damage that would be dealt this turn.\nYou gain life equal to your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/78.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/78.png"
 			}
 		},
 		{
@@ -796,8 +951,9 @@
 			"mana_cost": "{R}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "148",
+			"oracle_text": "Creatures you control gain +1/+1 until end of turn, then Unleashing the Rage deals X damage to target player, where X is your devotion to red. [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/79.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/79.png"
 			}
 		},
 		{
@@ -806,8 +962,9 @@
 			"mana_cost": "{B}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "101",
+			"oracle_text": "Target opponent discards a cards, then you may return target creature from your graveyard with mana value equal to your devotion to black to the battlefield. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/80.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/80.png"
 			}
 		},
 		{
@@ -816,8 +973,9 @@
 			"mana_cost": "{G}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "158",
+			"oracle_text": "Search your library for a land card and put it onto the battlefield tapped, then shuffle. You may put a creature with mana value less or equal to your devotion to green from your hand onto the battlefield [i](Each {G} in the mana costs of permanents you control counts toward your devotion to green.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/81.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/81.png"
 			}
 		},
 		{
@@ -826,8 +984,9 @@
 			"mana_cost": "{U}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "50",
+			"oracle_text": "Creatures you control gain flying until end of turn.\nScry X, where X is your devotion to blue. [i](Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)[/i]",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/82.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/82.png"
 			}
 		},
 		{
@@ -836,8 +995,9 @@
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "113",
+			"oracle_text": "Choose a creature. The owner of this creature sacrifices it. You gain life equal to its power.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/83.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/83.png"
 			}
 		},
 		{
@@ -846,8 +1006,9 @@
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
 			"collector_number": "188",
+			"oracle_text": "Choose one\n - Destroy target artifact or enchantment.\n - Destroy target creature with flying.\n - Exile target creature card from a graveyard.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/84.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/84.png"
 			}
 		},
 		{
@@ -856,8 +1017,11 @@
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Wraith",
 			"collector_number": "112",
+			"oracle_text": "Flying\nSacrifice Spirit of Rolth: Return another target creature from your graveyard to the battlefield. Activate only as sorcery.",
+			"power": "3",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/85.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/85.png"
 			}
 		},
 		{
@@ -866,8 +1030,11 @@
 			"mana_cost": "{U/B}{U/B}{U/B}{U/B}",
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "225",
+			"oracle_text": "This creature can't be blocked.\nWhenever a creature you control deals combat damage to a player, draw a card.",
+			"power": "2",
+			"toughness": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/86.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/86.png"
 			}
 		},
 		{
@@ -876,8 +1043,11 @@
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Human",
 			"collector_number": "109",
+			"oracle_text": "{T}: Destroy target tapped creature.",
+			"power": "1",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/87.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/87.png"
 			}
 		},
 		{
@@ -886,8 +1056,9 @@
 			"mana_cost": "{4}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "153",
+			"oracle_text": "Each player sacrifices four lands. Wildfire deals 4 damage to each creature.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/88.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/88.png"
 			}
 		},
 		{
@@ -896,8 +1067,11 @@
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Human",
 			"collector_number": "212",
+			"oracle_text": "Vigilance, Flying, Lifelink, First strike, Trample.\n{T}, Sacrifice Thyrroene, Mother of All: Search your library for up to four Brother creatures and put them onto the battlefield.",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/89.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/89.png"
 			}
 		},
 		{
@@ -906,8 +1080,11 @@
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "27",
+			"oracle_text": "When Recruited Militia dies, create a 1/1 white Bird creature token with flying.",
+			"power": "1",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/90.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/90.png"
 			}
 		},
 		{
@@ -916,8 +1093,11 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Knight",
 			"collector_number": "13",
+			"oracle_text": "Creature tokens you control get +1/+1.",
+			"power": "1",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/91.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/91.png"
 			}
 		},
 		{
@@ -926,8 +1106,11 @@
 			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Creature — Human",
 			"collector_number": "226",
+			"oracle_text": "When Recuiter of the Homeless enters the battlefield, create X 1/1 white Soldier creature tokens, where X is the number of lands in your graveyard.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/92.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/92.png"
 			}
 		},
 		{
@@ -936,8 +1119,11 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Unicorn",
 			"collector_number": "29",
+			"oracle_text": "Sacrifice Ronom Unicorn: Destroy target enchantment.",
+			"power": "3",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/93.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/93.png"
 			}
 		},
 		{
@@ -946,8 +1132,11 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight",
 			"collector_number": "36",
+			"oracle_text": "When Valorous Knight enters the battlefield, create a 1/1 white Dog creature token.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/94.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/94.png"
 			}
 		},
 		{
@@ -956,8 +1145,11 @@
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Angel",
 			"collector_number": "31",
+			"oracle_text": "Flying\nWhen Purity's Child enters the battlefield, gain 1 life for each creature you control.",
+			"power": "3",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/95.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/95.png"
 			}
 		},
 		{
@@ -966,8 +1158,11 @@
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Angel",
 			"collector_number": "32",
+			"oracle_text": "Flying",
+			"power": "3",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/96.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/96.png"
 			}
 		},
 		{
@@ -976,8 +1171,11 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "3",
+			"oracle_text": "Flying",
+			"power": "2",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/97.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/97.png"
 			}
 		},
 		{
@@ -986,8 +1184,11 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "66",
+			"oracle_text": "Flying\nOther creatures with flying you control get +1/+1.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/98.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/98.png"
 			}
 		},
 		{
@@ -996,8 +1197,11 @@
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Beast Frog",
 			"collector_number": "55",
+			"oracle_text": "Defender\nWhen Library's Administrators enter the battlefield, target player mills 4 cards.",
+			"power": "0",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/99.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/99.png"
 			}
 		},
 		{
@@ -1006,8 +1210,11 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "37",
+			"oracle_text": "Lifelink",
+			"power": "3",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/100.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/100.png"
 			}
 		},
 		{
@@ -1016,8 +1223,11 @@
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Whale",
 			"collector_number": "63",
+			"oracle_text": "Flying\nWhen Propulsed Whale enters the battlefield, return a creature you control to its owner's hand.",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/101.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/101.png"
 			}
 		},
 		{
@@ -1026,8 +1236,11 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Spirit",
 			"collector_number": "92",
+			"oracle_text": "When Ghost Parasite dies, draw two cards and lose 2 life.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/102.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/102.png"
 			}
 		},
 		{
@@ -1036,8 +1249,11 @@
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie Goblin",
 			"collector_number": "85",
+			"oracle_text": "When [i]Corrupted[/i] Missionary enters the battlefield, target creature get -1/-1 until end of turn and its controller looses one life.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/103.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/103.png"
 			}
 		},
 		{
@@ -1046,8 +1262,11 @@
 			"mana_cost": "{R}",
 			"type": "Creature — Ape Warrior",
 			"collector_number": "122",
+			"oracle_text": "Enraged Macaque get +X/+X, where X is equal to the number of land cards in your graveyard.",
+			"power": "*",
+			"toughness": "*+1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/104.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/104.png"
 			}
 		},
 		{
@@ -1056,8 +1275,11 @@
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Demon",
 			"collector_number": "98",
+			"oracle_text": "Lifelink, protection from white [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything white.)[/i]",
+			"power": "3",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/105.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/105.png"
 			}
 		},
 		{
@@ -1066,8 +1288,11 @@
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Angel Zombie",
 			"collector_number": "79",
+			"oracle_text": "Flying, lifelink",
+			"power": "3",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/106.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/106.png"
 			}
 		},
 		{
@@ -1076,8 +1301,11 @@
 			"mana_cost": "{R}",
 			"type": "Creature — Goblin Berserker",
 			"collector_number": "118",
+			"oracle_text": "First strike\nWhen [/i][i]Battalion[/i][i] Cannon Fodder dies, create a 1/1 red Goblin creature token.",
+			"power": "1",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/107.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/107.png"
 			}
 		},
 		{
@@ -1086,8 +1314,11 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Minotaur",
 			"collector_number": "149",
+			"oracle_text": "Veteran of Velatha's War get +1/+1 as long as you control another creature with power 4 or greater.",
+			"power": "3",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/108.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/108.png"
 			}
 		},
 		{
@@ -1096,8 +1327,11 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Druid",
 			"collector_number": "166",
+			"oracle_text": "At the beginning of your end step, you may put target land from your graveyard on top of your library.",
+			"power": "2",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/109.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/109.png"
 			}
 		},
 		{
@@ -1106,8 +1340,11 @@
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Orc Berserker",
 			"collector_number": "139",
+			"oracle_text": "First strike",
+			"power": "2",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/110.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/110.png"
 			}
 		},
 		{
@@ -1116,8 +1353,11 @@
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Beast",
 			"collector_number": "133",
+			"oracle_text": "Haste, trample",
+			"power": "5",
+			"toughness": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/111.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/111.png"
 			}
 		},
 		{
@@ -1126,8 +1366,11 @@
 			"mana_cost": "{R}",
 			"type": "Creature — Pangolin",
 			"collector_number": "132",
+			"oracle_text": "{T}, Discard a card: Draw a card.",
+			"power": "0",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/112.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/112.png"
 			}
 		},
 		{
@@ -1136,8 +1379,11 @@
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "137",
+			"oracle_text": "At the beginning of your upkeep, you may sacrifice a land. If a land is put into a graveyard this way, creatures that enter the battlefield under your control this turn come with a +1/+1 counter on it and have haste until end of turn.",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/113.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/113.png"
 			}
 		},
 		{
@@ -1146,8 +1392,11 @@
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Orc Berserker",
 			"collector_number": "126",
+			"oracle_text": "At the beginning of its controller's upkeep, this creature deals one damage to its controller.",
+			"power": "3",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/114.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/114.png"
 			}
 		},
 		{
@@ -1156,8 +1405,11 @@
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Beast",
 			"collector_number": "116",
+			"oracle_text": "Haste, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"power": "4",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/115.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/115.png"
 			}
 		},
 		{
@@ -1166,8 +1418,11 @@
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Goblin",
 			"collector_number": "129",
+			"oracle_text": "Whenever you sacrifice a land, put a +1/+1 counter on this creature and create two treasure tokens.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/116.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/116.png"
 			}
 		},
 		{
@@ -1176,8 +1431,11 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "127",
+			"oracle_text": "Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]\nFlying\nWhen Geirdyn Skyrider enters the battlefield, if you paid the kicker cost, create two 1/1 red Goblin creature tokens.",
+			"power": "2",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/117.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/117.png"
 			}
 		},
 		{
@@ -1186,8 +1444,11 @@
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Wurm",
 			"collector_number": "189",
+			"oracle_text": "Trample",
+			"power": "6",
+			"toughness": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/118.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/118.png"
 			}
 		},
 		{
@@ -1196,8 +1457,11 @@
 			"mana_cost": "{G}",
 			"type": "Creature — Beast Shaman",
 			"collector_number": "182",
+			"oracle_text": "{T}, sacrifice Shaman of Rholt: Destroy target enchantment.",
+			"power": "1",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/119.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/119.png"
 			}
 		},
 		{
@@ -1206,8 +1470,11 @@
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Druid",
 			"collector_number": "154",
+			"oracle_text": "{T}: Add one mana of any color other than lands you control could produce.",
+			"power": "2",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/120.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/120.png"
 			}
 		},
 		{
@@ -1216,8 +1483,11 @@
 			"mana_cost": "{G}{G}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "171",
+			"oracle_text": "",
+			"power": "4",
+			"toughness": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/121.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/121.png"
 			}
 		},
 		{
@@ -1226,8 +1496,11 @@
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Spider",
 			"collector_number": "176",
+			"oracle_text": "Reach, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"power": "1",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/122.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/122.png"
 			}
 		},
 		{
@@ -1236,8 +1509,11 @@
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Creature — Wurm",
 			"collector_number": "190",
+			"oracle_text": "Trample\nWhen Wurm of Penaloda enters the battlefield, gain 8 life.",
+			"power": "8",
+			"toughness": "8",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/123.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/123.png"
 			}
 		},
 		{
@@ -1246,8 +1522,11 @@
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Beast Druid",
 			"collector_number": "172",
+			"oracle_text": "At the beginning of your end step, gain 1 life.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/124.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/124.png"
 			}
 		},
 		{
@@ -1256,8 +1535,11 @@
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "156",
+			"oracle_text": "At the beginning of your end step, put a +1/+1 counter on Bumbeldop Family.\nWhen Bumbeldop Family dies, create a 1/1 green Ooze token for each +1/+1 counter on it.\n[i]Burp![/i]",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/125.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/125.png"
 			}
 		},
 		{
@@ -1266,8 +1548,11 @@
 			"mana_cost": "{R/G}",
 			"type": "Creature — Ape",
 			"collector_number": "224",
+			"oracle_text": "",
+			"power": "2",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/126.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/126.png"
 			}
 		},
 		{
@@ -1276,8 +1561,9 @@
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
 			"collector_number": "241",
+			"oracle_text": "Equipped creature get +1/+1, has flying and \u201cWhen this creature deals combat damage to a player, scry 2\u201d.\nEquip {2}",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/127.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/127.png"
 			}
 		},
 		{
@@ -1286,8 +1572,9 @@
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
 			"collector_number": "236",
+			"oracle_text": "Equipped creature get +1/+1, has deathtouch and \u201cWhen this creature deals combat damage to a player, you may sacrifice it. If you do, return to the battlefield another creature with power equal or less than the creature sacrificed this way.\u201d\nEquip {4}",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/128.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/128.png"
 			}
 		},
 		{
@@ -1296,8 +1583,9 @@
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
 			"collector_number": "237",
+			"oracle_text": "Equipped creature get +1/+1 and has haste.\nWhen equipped creature deals combat damage to a player, Flail of Gonoko deals X damage to target player, where X is the number of lands in your graveyard.\nEquip {2}",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/129.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/129.png"
 			}
 		},
 		{
@@ -1306,8 +1594,9 @@
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
 			"collector_number": "242",
+			"oracle_text": "Equipped creature get +1/+1, has trample and \u201cWhenever this creature deals combat damage to a player, create a 1/1 green Butterfly creature token\u201d.\nEquip {2}",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/130.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/130.png"
 			}
 		},
 		{
@@ -1316,8 +1605,11 @@
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — Incarnation",
 			"collector_number": "199",
+			"oracle_text": "Flying, Vigilance\nAt the beginning of your end step, gain X life and target opponent mills X cards, where X is the number of creatures you control.",
+			"power": "4",
+			"toughness": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/131.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/131.png"
 			}
 		},
 		{
@@ -1326,8 +1618,11 @@
 			"mana_cost": "{5}{R}{W}",
 			"type": "Legendary Creature — Incarnation",
 			"collector_number": "205",
+			"oracle_text": "Haste\nNogafris, Avatar of Order cost {1} less to cast for each land card in your graveyard.\nAt the beginning of your upkeep, sacrifice a land, then create a 1/1 white Soldier creature token with Haste for each land card in your graveyard.",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/132.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/132.png"
 			}
 		},
 		{
@@ -1336,8 +1631,11 @@
 			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Incarnation",
 			"collector_number": "217",
+			"oracle_text": "Viphiozes, Avatar of Discord can't be blocked.\nAt the beginning of your end step, you may put a +1/+1 counter on this creature if you lost life this turn.When you do, gain control of target creature with power equal or less than this creature until you lose control of Viphiozes, Avatar of Discord.",
+			"power": "3",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/133.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/133.png"
 			}
 		},
 		{
@@ -1346,8 +1644,11 @@
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Incarnation",
 			"collector_number": "204",
+			"oracle_text": "Deathtouch\n{T}, pay 3 life, return another creature you control to its owner's hand: Put a creature from your graveyard onto the battlefield. Activate only as a sorcery.",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/134.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/134.png"
 			}
 		},
 		{
@@ -1356,8 +1657,11 @@
 			"mana_cost": "{5}{R}{G}",
 			"type": "Legendary Creature — Incarnation",
 			"collector_number": "216",
+			"oracle_text": "Trample\nOther creatures you control get +1/+1 and have trample.\nWhenever a creature you control leaves the battlefield, put a 2/2 green Fungus creature token.",
+			"power": "7",
+			"toughness": "7",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/135.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/135.png"
 			}
 		},
 		{
@@ -1366,8 +1670,9 @@
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "99",
+			"oracle_text": "Target creature get -3/-3 until end of turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/136.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/136.png"
 			}
 		},
 		{
@@ -1376,8 +1681,9 @@
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "114",
+			"oracle_text": "\nAs an additional cost to cast this spell, sacrifice a creature.\nDraw two cards.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/137.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/137.png"
 			}
 		},
 		{
@@ -1386,8 +1692,9 @@
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
 			"collector_number": "175",
+			"oracle_text": "Target creature you control get +3/+3 until end of turn. All creatures able to block it this turn do so.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/138.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/138.png"
 			}
 		},
 		{
@@ -1396,8 +1703,9 @@
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
 			"collector_number": "163",
+			"oracle_text": "Kicker\u2014 Return any number of creatures you control to their owner's hands.\nSearch your library for two basic land cards and put them into your hand, then shuffle. \nIf you paid the Kicker cost, you may put X lands from your hand onto the battlefield tapped, where X is one plus the number of creatures you returned to your hand this turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/139.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/139.png"
 			}
 		},
 		{
@@ -1406,8 +1714,9 @@
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
 			"collector_number": "30",
+			"oracle_text": "Each opponent that has more lands than you sacrifices the difference.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/140.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/140.png"
 			}
 		},
 		{
@@ -1416,8 +1725,9 @@
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
 			"collector_number": "88",
+			"oracle_text": "Creatures get -1/-1 until end of turn. Draw a card and lose 1 life.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/141.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/141.png"
 			}
 		},
 		{
@@ -1426,8 +1736,9 @@
 			"mana_cost": "{2}{B}",
 			"type": "Artifact",
 			"collector_number": "82",
+			"oracle_text": "{2}, {T}, sacrifice a creature: Draw a card.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/142.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/142.png"
 			}
 		},
 		{
@@ -1436,8 +1747,9 @@
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
 			"collector_number": "183",
+			"oracle_text": "Kicker {G} [i](You may pay an additional {G} as you cast this spell.)[/i]\nUp to two target creatures each gain +2/+0. If you paid the kicker cost, they also gain trample until end of turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/143.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/143.png"
 			}
 		},
 		{
@@ -1446,8 +1758,9 @@
 			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "177",
+			"oracle_text": "Draw three cards, then you may put a land onto the battlefield tapped.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/144.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/144.png"
 			}
 		},
 		{
@@ -1456,8 +1769,11 @@
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "167",
+			"oracle_text": "When Herald of Growth enters the battlefield, draw a card.\nSacrifice Herald of Growth: Put a +1/+1 counter on each beast you control.",
+			"power": "4",
+			"toughness": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/145.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/145.png"
 			}
 		},
 		{
@@ -1466,8 +1782,9 @@
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "147",
+			"oracle_text": "Take a Revenge deals 3 damage to each creature and each player. If one or more non-token creature would die this way under your control, create that many 1/1 red Goblin creature token.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/146.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/146.png"
 			}
 		},
 		{
@@ -1476,8 +1793,9 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "253",
+			"oracle_text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/147.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/147.png"
 			}
 		},
 		{
@@ -1486,8 +1804,9 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "244",
+			"oracle_text": "When Cathedral of Valdor enters the battlefield, Scry 1.\n{T}: Add {W} or {U}. Cathedral of Valdor deals 1 damage to you.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/148.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/148.png"
 			}
 		},
 		{
@@ -1496,8 +1815,9 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "245",
+			"oracle_text": "When Fortress of Geirdyn enters the battlefield, Scry 1.\n{T}: Add {R} or {W}. Fortress of Geirdyn deals 1 damage to you.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/149.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/149.png"
 			}
 		},
 		{
@@ -1506,8 +1826,9 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "246",
+			"oracle_text": "When Grotto of Penaloda enters the battlefield, Scry 1.\n{T}: Add {R} or {G}. Grotto of Penaloda deals 1 damage to you.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/150.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/150.png"
 			}
 		},
 		{
@@ -1516,8 +1837,9 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "250",
+			"oracle_text": "When Palace of Rholt enters the battlefield, Scry 1.\n{T}: Add {B} or {G}. Palace of Rholt deals 1 damage to you.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/151.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/151.png"
 			}
 		},
 		{
@@ -1526,8 +1848,9 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "248",
+			"oracle_text": "When Mausoleum of Udach enters the battlefield, Scry 1.\n{T}: Add {U} or {B}. Mausoleum of Udach deals 1 damage to you.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/152.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/152.png"
 			}
 		},
 		{
@@ -1536,8 +1859,9 @@
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
 			"collector_number": "62",
+			"oracle_text": "{2}: Target creature neither deals nor receives combat damage this turn. Any player may activate this ability.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/153.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/153.png"
 			}
 		},
 		{
@@ -1546,8 +1870,10 @@
 			"mana_cost": "{2}{R}{W}",
 			"type": "Planeswalker — Eleiia",
 			"collector_number": "194",
+			"oracle_text": "Create a 1/1 red Goblin creature token.\nSacrifice a land: Eleiia, Leader of Fugitives deals X damage to any target, where X is two plus the number of lands you sacrificed this turn.\nCreate X white and red Angel 4/4 tokens with Flying, where X is the number of lands in your graveyard.",
+			"loyalty": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/154.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/154.png"
 			}
 		},
 		{
@@ -1556,8 +1882,11 @@
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "210",
+			"oracle_text": "{W}, {T}: Gain 2 life.\n{U}, {T}: Target player mills three cards.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/155.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/155.png"
 			}
 		},
 		{
@@ -1566,8 +1895,11 @@
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "206",
+			"oracle_text": "{U}, {T}: Target creature with power 3 or less can't be blocked this turn.\n{B}, {T}: Target creature gain painlink until end of turn. [i](Damage dealt to this creature also causes you to lose that much life.)[/i]",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/156.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/156.png"
 			}
 		},
 		{
@@ -1576,8 +1908,11 @@
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Elf Shaman",
 			"collector_number": "208",
+			"oracle_text": "{R}, {T}: Priest of Growth deals one damage to target creature. Damage can't be prevented this turn.\n{G}, {T}: Search your library for a basic forest, shuffle then put it on top of your library.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/157.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/157.png"
 			}
 		},
 		{
@@ -1586,8 +1921,11 @@
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Zombie Shaman",
 			"collector_number": "207",
+			"oracle_text": "{B}, {T}, Sacrifice two other creatures: Put target creature from your graveyard into your hand.\n{G}, {T}: Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/158.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/158.png"
 			}
 		},
 		{
@@ -1596,8 +1934,11 @@
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "209",
+			"oracle_text": "{R}, {T}, Sacrifice a land: Create two white 1/1 Soldier creature token.\n{W}, {T}: Creatures you control get +1/+0 until end of turn.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/159.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/159.png"
 			}
 		},
 		{
@@ -1606,8 +1947,11 @@
 			"mana_cost": "{8}{R}{R}{R}",
 			"type": "Creature — Dragon",
 			"collector_number": "128",
+			"oracle_text": "Flying, Double strike, Trample\nYou may sacrifice any number of lands when you cast this spell. This spell costs {2} less to cast for each land sacrificed this way.",
+			"power": "6",
+			"toughness": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/160.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/160.png"
 			}
 		},
 		{
@@ -1616,8 +1960,9 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "4",
+			"oracle_text": "You have hexproof until end of turn. Prevent all damage that would be dealt to you or creatures you control this turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/161.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/161.png"
 			}
 		},
 		{
@@ -1626,8 +1971,11 @@
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Human Paladin",
 			"collector_number": "193",
+			"oracle_text": "Vigilance\nOther creatures you control get +1/+1.\nWhen Assashain, Homeless Outsider enters the battlefield, create a 3/3 green Beast creature token with trample.",
+			"power": "3",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/162.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/162.png"
 			}
 		},
 		{
@@ -1636,8 +1984,9 @@
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
 			"collector_number": "17",
+			"oracle_text": "Exile all creatures, then return them onto the battlefield under their owner's control.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/163.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/163.png"
 			}
 		},
 		{
@@ -1646,8 +1995,11 @@
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Druid",
 			"collector_number": "191",
+			"oracle_text": "Lands you control have \u201c{T}: Add one mana of any color\u201d.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/164.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/164.png"
 			}
 		},
 		{
@@ -1656,8 +2008,9 @@
 			"mana_cost": "{1}{B}{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "108",
+			"oracle_text": "Skip your draw step.\nPay 1 life: Exile the top card of your library. At the beginning of your next end step, put that card into your hand. Any player may activate this ability.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/165.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/165.png"
 			}
 		},
 		{
@@ -1666,8 +2019,9 @@
 			"mana_cost": "{3}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "180",
+			"oracle_text": "Choose one:\n- Return all land cards from your graveyard onto the battlefield tapped.\n- You may play any number of lands this turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/166.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/166.png"
 			}
 		},
 		{
@@ -1676,8 +2030,11 @@
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "184",
+			"oracle_text": "Flying",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/167.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/167.png"
 			}
 		},
 		{
@@ -1686,8 +2043,9 @@
 			"mana_cost": "{2}{B}{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "203",
+			"oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value less or equal to two plus the mana value of the sacrificed creature, put it onto the battlefield, then shuffle. If a creature entered this way, creatures you control have same base power and toughness as that creature until end of turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/168.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/168.png"
 			}
 		},
 		{
@@ -1696,8 +2054,9 @@
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "6",
+			"oracle_text": "When Bring to Justice enters the battlefield, exile target creature or planeswalker and all permanents with the same name until Bring to Justice leaves the battlefield.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/169.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/169.png"
 			}
 		},
 		{
@@ -1706,8 +2065,11 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Paladin",
 			"collector_number": "7",
+			"oracle_text": "First strike\nWhen Champion of Geirdyn attacks, tap up to two target creatures an opponent controls.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/170.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/170.png"
 			}
 		},
 		{
@@ -1716,8 +2078,9 @@
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
 			"collector_number": "170",
+			"oracle_text": "Choose two:\n- Destroy all enchantments\n- Gain 1 life for each creature you control\n- Creatures you control gain +1/+1 and trample until end of turn",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/171.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/171.png"
 			}
 		},
 		{
@@ -1726,8 +2089,9 @@
 			"mana_cost": "{2}{U}{U}{U}",
 			"type": "Instant",
 			"collector_number": "47",
+			"oracle_text": "Choose one:\n- Return all creatures to their owner's hand\n- Draw four cards",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/172.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/172.png"
 			}
 		},
 		{
@@ -1736,8 +2100,11 @@
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Angel",
 			"collector_number": "16",
+			"oracle_text": "Flying, Vigilance\nWhen this creature attacks, put a +1/+1 counter on up to two other target creatures you control.",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/173.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/173.png"
 			}
 		},
 		{
@@ -1746,8 +2113,9 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "19",
+			"oracle_text": "Kicker {1}{U}, Buyback {1}{G}{G}\nPrevent all combat damage target creature would deal this turn. If you paid the kicker cost, target player mills as many cards as the toughness of that creature.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/174.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/174.png"
 			}
 		},
 		{
@@ -1756,8 +2124,9 @@
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "59",
+			"oracle_text": "Kicker {1}{B}, Buyback {1}{G}{G}\nReturn target nonland permanent to its owner's hand. If you paid the kicker cost, target opponent discards a card.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/175.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/175.png"
 			}
 		},
 		{
@@ -1766,8 +2135,9 @@
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "104",
+			"oracle_text": "Kicker {1}{U}, Buyback {1}{R}{R}\nTarget player sacrifices a creature. If you paid the kicker cost, whenever a creature you control deals combat damage to a player this turn, draw a card.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/176.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/176.png"
 			}
 		},
 		{
@@ -1776,8 +2146,9 @@
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "173",
+			"oracle_text": "Kicker {1}{R}, Buyback {1}{U}{U}\nTarget creature get +3/+3 until end of turn. If you paid the kicker cost, Oath of the Beloved deals 2 damage to any target.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/177.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/177.png"
 			}
 		},
 		{
@@ -1786,8 +2157,9 @@
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "141",
+			"oracle_text": "Kicker {1}{W}, Buyback {1}{B}{B}\nCreate a 1/1 red Goblin creature token with haste. If you paid the kicker cost, creatures you control get +1/+1 until end of turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/178.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/178.png"
 			}
 		},
 		{
@@ -1796,8 +2168,9 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "18",
+			"oracle_text": "Kicker {1}{R}, Buyback {1}{U}{U}\nPut a +1/+1 counter on up to two target creatures. If you paid the kicker cost, destroy target artifact.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/179.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/179.png"
 			}
 		},
 		{
@@ -1806,8 +2179,9 @@
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "58",
+			"oracle_text": "Kicker {1}{W}, Buyback {1}{B}{B}\nScry 2, then draw a card. If you paid the kicker cost, destroy target enchantment.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/180.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/180.png"
 			}
 		},
 		{
@@ -1816,8 +2190,9 @@
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "105",
+			"oracle_text": "Kicker {1}{G}, Buyback {1}{R}{R}\nSacrifice a creature. If you sacrifice a creature this way, draw two cards. If you paid the kicker cost, return target creature from your graveyard to your hand and gain 2 life.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/181.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/181.png"
 			}
 		},
 		{
@@ -1826,8 +2201,9 @@
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "174",
+			"oracle_text": "Kicker {1}{B}, Buyback {1}{W}{W}\nPut two +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with trample that is still a land. If you paid the kicker cost, double the number of counters on target permanent.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/182.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/182.png"
 			}
 		},
 		{
@@ -1836,8 +2212,9 @@
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "140",
+			"oracle_text": "Kicker {1}{G}, Buyback {1}{W}{W}\nDamage can't be prevented this turn. Whenever a creature blocks this turn, it deals one damage to its controller. If you paid the kicker cost, Oath of the Vengeful deals 2 damages to all creatures.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/183.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/183.png"
 			}
 		},
 		{
@@ -1846,8 +2223,11 @@
 			"mana_cost": "{R/W}{R/W}{R/W}{R/W}",
 			"type": "Legendary Creature — Human Paladin",
 			"collector_number": "220",
+			"oracle_text": "Protection from Beasts\nCreatures you control have haste.\nWhenever a land is put into your graveyard from the battlefield, put a +1/+1 counter on each creature you control.",
+			"power": "3",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/184.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/184.png"
 			}
 		},
 		{
@@ -1856,8 +2236,11 @@
 			"mana_cost": "{R/G}{R/G}{R/G}{R/G}{R/G}",
 			"type": "Legendary Creature — Ape Giant",
 			"collector_number": "230",
+			"oracle_text": "Hexproof, Trample\nSrod, Offspring of Growth can't be blocked by more than two creatures.",
+			"power": "8",
+			"toughness": "8",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/185.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/185.png"
 			}
 		},
 		{
@@ -1866,8 +2249,11 @@
 			"mana_cost": "{B/G}{B/G}{B/G}{B/G}",
 			"type": "Legendary Creature — Gorgon",
 			"collector_number": "223",
+			"oracle_text": "Deathtouch\n{T}, Sacrifice a non-token creature you control: Reveal the top cards of your library until you reveal a creature card. Put that creature onto the battlefield and all other cards revealed this way on the bottom of your library in a random order. Activate only as a sorcery.",
+			"power": "3",
+			"toughness": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/186.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/186.png"
 			}
 		},
 		{
@@ -1876,8 +2262,11 @@
 			"mana_cost": "{W/U}{W/U}{W/U}{W/U}",
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "231",
+			"oracle_text": "Defender\nOther creatures have base power 1.",
+			"power": "2",
+			"toughness": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/187.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/187.png"
 			}
 		},
 		{
@@ -1886,8 +2275,9 @@
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "239",
+			"oracle_text": "When Relic of Past Glory enters the battlefield, scry 1.\n{T}: Add one mana of any color.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/188.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/188.png"
 			}
 		},
 		{
@@ -1896,8 +2286,9 @@
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"collector_number": "21",
+			"oracle_text": "When Oblivion Ring enters the battlefield, exile another target nonland permanent.\nWhen Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/189.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/189.png"
 			}
 		},
 		{
@@ -1906,8 +2297,11 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "20",
+			"oracle_text": "Kicker {1}{W}{W} [i](You may pay an additional {1}{W}{W} as you cast this spell.)[/i]\nIf you paid the kicker cost, Obedient Vanguard enters with a +1/+1 counter on it.\nWhenever Obedient Vanguard enters or attacks, if it has a +1/+1 counter on it, create a 1/1 white Soldier creature token.",
+			"power": "2",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/190.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/190.png"
 			}
 		},
 		{
@@ -1916,8 +2310,11 @@
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Wurm",
 			"collector_number": "181",
+			"oracle_text": "Trample\nWhenever Rumbling Monster deals damage to an opponent, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand.",
+			"power": "6",
+			"toughness": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/191.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/191.png"
 			}
 		},
 		{
@@ -1926,8 +2323,11 @@
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "74",
+			"oracle_text": "{3}{U}{U}: Reveal the top three cards of your library. An opponent chooses one of them. Put the chosen card into your graveyard and the rest into your hand. Activate only as sorcery.",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/192.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/192.png"
 			}
 		},
 		{
@@ -1936,8 +2336,11 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "73",
+			"oracle_text": "Tap three untapped creatures you control: Return target creature to its owner's hand.",
+			"power": "2",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/193.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/193.png"
 			}
 		},
 		{
@@ -1946,8 +2349,11 @@
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Beast Elemental",
 			"collector_number": "152",
+			"oracle_text": "Kicker\u2014 Sacrifice a land [i](You may Sacrifice a land in addition to any other costs as you cast this spell.)[/i]\nHaste\nWildbane Elemental enters the battlefield with X +1/+1 counter on it, where X is the number of land cards in your graveyard.",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/194.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/194.png"
 			}
 		},
 		{
@@ -1956,8 +2362,11 @@
 			"mana_cost": "{2}{G}{G}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "185",
+			"oracle_text": "{2}{G}{G}: Create a 3/3 green Beast creature token.",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/195.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/195.png"
 			}
 		},
 		{
@@ -1966,8 +2375,9 @@
 			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "61",
+			"oracle_text": "Take an extra turn after this one, then target opponent takes an extra turn after his next turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/196.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/196.png"
 			}
 		},
 		{
@@ -1976,8 +2386,9 @@
 			"mana_cost": "{4}{R}",
 			"type": "Sorcery",
 			"collector_number": "134",
+			"oracle_text": "Each player discards their hand, then draws seven cards.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/197.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/197.png"
 			}
 		},
 		{
@@ -1986,8 +2397,9 @@
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "178",
+			"oracle_text": "At the beginning of each player's upkeep, that player looks at the top three cards of their library then put them back in any order. They may then reveal the top card of their library: If that card is a land or a creature card and they control less permanents of that type than any of their opponents, they put it onto the battlefield.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/198.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/198.png"
 			}
 		},
 		{
@@ -1996,8 +2408,9 @@
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment",
 			"collector_number": "151",
+			"oracle_text": "When Wild Experimentation enters the battlefield, sacrifice a creature.\nCreatures you control that share a type with the sacrificed creature get +2/+2, have haste and must attack each turn if able.\nAt the beginning of your combat phase, create a 1/1 red Shapeshifter creature token with changeling.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/199.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/199.png"
 			}
 		},
 		{
@@ -2006,8 +2419,10 @@
 			"mana_cost": "{3}{U}{B}",
 			"type": "Planeswalker — Jace",
 			"collector_number": "201",
+			"oracle_text": "Target creature can't be blocked this turn.\nReturn target creature to its owner's hand. That player discards a card.\nGain control of each creature with power equal or less than the number of islands you control, then destroy creatures you don't control.",
+			"loyalty": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/200.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/200.png"
 			}
 		},
 		{
@@ -2016,8 +2431,10 @@
 			"mana_cost": "{2}{B}{B}{B}",
 			"type": "Planeswalker — Igdiul",
 			"collector_number": "96",
+			"oracle_text": "Draw a card. You lose 2 life.\nDestroy target creature or planeswalker.\nReturn up to X target creatures from your graveyard to your hand.",
+			"loyalty": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/201.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/201.png"
 			}
 		},
 		{
@@ -2026,8 +2443,11 @@
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Beast Elemental",
 			"collector_number": "211",
+			"oracle_text": "Trample\nWhenever you sacrifice a permanent, put a +1/+1 counter on Smint and it gains menace until end of turn.",
+			"power": "3",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/202.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/202.png"
 			}
 		},
 		{
@@ -2036,8 +2456,9 @@
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
 			"collector_number": "14",
+			"oracle_text": "Exile target non-land permanent, then Scry 1.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/203.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/203.png"
 			}
 		},
 		{
@@ -2046,8 +2467,9 @@
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "26",
+			"oracle_text": "Target creature gains +2/+1 and lifelink until end of turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/204.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/204.png"
 			}
 		},
 		{
@@ -2056,8 +2478,9 @@
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "76",
+			"oracle_text": "Enchant creature\nEnchanted creature has defender and flying.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/205.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/205.png"
 			}
 		},
 		{
@@ -2066,8 +2489,9 @@
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
 			"collector_number": "102",
+			"oracle_text": "Choose one:\n- Destroy target creature with Defender.\n- Target player discards two cards and looses 2 life.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/206.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/206.png"
 			}
 		},
 		{
@@ -2076,8 +2500,9 @@
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "120",
+			"oracle_text": "Choose one\n- Creatures you control gain +2/+0 until end of turn.\n- Create two Treasure tokens.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/207.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/207.png"
 			}
 		},
 		{
@@ -2086,8 +2511,9 @@
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "179",
+			"oracle_text": "Target creature gains Deathtouch until end of turn It fights another creature you don't control.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/208.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/208.png"
 			}
 		},
 		{
@@ -2096,8 +2522,9 @@
 			"mana_cost": "{1}{U}{B}",
 			"type": "Sorcery",
 			"collector_number": "214",
+			"oracle_text": "Return target creature to its owner's hand, then that player discards a card.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/209.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/209.png"
 			}
 		},
 		{
@@ -2106,8 +2533,9 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "252",
+			"oracle_text": "Steep Hill enters tapped.\n{T}: Add {R}.\n{T}, Sacrifice Steep Hill: Target creature gains +1/+0 and haste until end of turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/210.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/210.png"
 			}
 		},
 		{
@@ -2116,8 +2544,9 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "254",
+			"oracle_text": "Untouched Mangrove enters tapped.\n{T}: Add {G}.\n{T}, Sacrifice Untouched Mangrove: Create a Treasure token.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/211.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/211.png"
 			}
 		},
 		{
@@ -2126,8 +2555,9 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "251",
+			"oracle_text": "Secret Grasslands enters tapped.\n{T}: Add {W}.\n{T}, Sacrifice Secret Grasslands: Create a 0/2 white Goat creature token.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/212.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/212.png"
 			}
 		},
 		{
@@ -2136,8 +2566,9 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "247",
+			"oracle_text": "Hidden Pool enters tapped.\n{T}: Add {U}.\n{T}, Sacrifice Hidden Pool: Surveil 2.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/213.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/213.png"
 			}
 		},
 		{
@@ -2146,8 +2577,9 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "249",
+			"oracle_text": "Muddy Trail enters tapped.\n{T}: Add {B}.\n{T}, Sacrifice Muddy Trail: Target creature gains +1/+0 and menace until end of turn.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/214.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/214.png"
 			}
 		},
 		{
@@ -2156,8 +2588,9 @@
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "234",
+			"oracle_text": "{5}, {T}, Sacrifice Altar of Renewed Knowledge : Destroy target permanent. Shuffle up to four cards from your graveyard to your library.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/215.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/215.png"
 			}
 		},
 		{
@@ -2166,8 +2599,11 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric",
 			"collector_number": "22",
+			"oracle_text": "{1}{W}, {T}: Tap target non-human creature.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/216.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/216.png"
 			}
 		},
 		{
@@ -2176,8 +2612,11 @@
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Angel",
 			"collector_number": "15",
+			"oracle_text": "Flying, Protection from Black\nWhenever this creature attacks, you may have target creature you control gain flying until end of turn.",
+			"power": "1",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/217.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/217.png"
 			}
 		},
 		{
@@ -2186,8 +2625,11 @@
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Elemental",
 			"collector_number": "49",
+			"oracle_text": "Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/218.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/218.png"
 			}
 		},
 		{
@@ -2196,8 +2638,11 @@
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird",
 			"collector_number": "41",
+			"oracle_text": "Flying\nWhenever this creature deals combat damage to a player, draw a card, then discard a card.",
+			"power": "1",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/219.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/219.png"
 			}
 		},
 		{
@@ -2206,8 +2651,9 @@
 			"mana_cost": "{4}",
 			"type": "Artifact",
 			"collector_number": "235",
+			"oracle_text": "When Chronicle Relic enters, scry 3.\n{T}, sacrifice Chronicle Relic: Shuffle your graveyard into your library. Draw a card. Activate this ability as a sorcery.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/220.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/220.png"
 			}
 		},
 		{
@@ -2216,8 +2662,11 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror",
 			"collector_number": "84",
+			"oracle_text": "Menace\nAt the beginning of each end step, if a creature you controlled died this turn, put a +1/+1 counter on this creature.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/221.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/221.png"
 			}
 		},
 		{
@@ -2226,8 +2675,11 @@
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Shade",
 			"collector_number": "115",
+			"oracle_text": "Flying\nWhen this creature enters, draw a card and loose 1 life.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/222.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/222.png"
 			}
 		},
 		{
@@ -2236,8 +2688,11 @@
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental",
 			"collector_number": "143",
+			"oracle_text": "When this creature enters, target creature can't block until end turn.",
+			"power": "4",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/223.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/223.png"
 			}
 		},
 		{
@@ -2246,8 +2701,11 @@
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin",
 			"collector_number": "124",
+			"oracle_text": "Haste\nWhen this creature enters, target creature gains first strike until end of turn.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/224.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/224.png"
 			}
 		},
 		{
@@ -2256,8 +2714,11 @@
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Treefolk",
 			"collector_number": "168",
+			"oracle_text": "Defender\nWhen this creature enters, mill four cards. You may put a land card from among the cards milled this way into your hand.",
+			"power": "0",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/225.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/225.png"
 			}
 		},
 		{
@@ -2266,8 +2727,11 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Beast Druid",
 			"collector_number": "186",
+			"oracle_text": "Whenever a land enters under your control, put a +1/+1 counter on target Beast creature you control.",
+			"power": "1",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/226.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/226.png"
 			}
 		},
 		{
@@ -2276,8 +2740,11 @@
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Elemental",
 			"collector_number": "162",
+			"oracle_text": "When this creature enters, create a 2/2 green Beast creature token.",
+			"power": "4",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/227.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/227.png"
 			}
 		},
 		{
@@ -2286,8 +2753,9 @@
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
 			"collector_number": "165",
+			"oracle_text": "As an additional cost to cast Harrow, sacrifice a land.\nSearch your library for up to two basic land cards and put them onto the battlefield, then shuffle.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/228.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/228.png"
 			}
 		},
 		{
@@ -2296,8 +2764,9 @@
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "161",
+			"oracle_text": "At the beginning of your end step, if a creature died this turn under your control, draw a card.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/229.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/229.png"
 			}
 		},
 		{
@@ -2306,8 +2775,9 @@
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "187",
+			"oracle_text": "Enchant land\nEnchanted land has \u201c{1}{G}, {T}: Create a 3/3 green Beast creature token.\u201d",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/230.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/230.png"
 			}
 		},
 		{
@@ -2316,8 +2786,9 @@
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "157",
+			"oracle_text": "Mill four cards, then gain 2 life for each creature card in your graveyard.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/231.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/231.png"
 			}
 		},
 		{
@@ -2326,8 +2797,11 @@
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Knight",
 			"collector_number": "35",
+			"oracle_text": "When this creature enters, creatures you control gain +1/+1 until end of turn.",
+			"power": "3",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/232.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/232.png"
 			}
 		},
 		{
@@ -2336,8 +2810,9 @@
 			"mana_cost": "{X}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "136",
+			"oracle_text": "Inferno Surge deals X damage to any target. If a creature would die this way, exile it instead.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/233.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/233.png"
 			}
 		},
 		{
@@ -2346,8 +2821,9 @@
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"collector_number": "8",
+			"oracle_text": "Kicker {W} [i](You may pay an additional {W} as you cast this spell.)[/i]\nDestroy target artifact or enchantment. If you paid the kicker cost, gain life equal to its mana value.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/234.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/234.png"
 			}
 		},
 		{
@@ -2356,8 +2832,11 @@
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Wall",
 			"collector_number": "1",
+			"oracle_text": "Defender, Flying\nOther creatures you control with defender gain +0/+1.",
+			"power": "0",
+			"toughness": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/235.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/235.png"
 			}
 		},
 		{
@@ -2366,8 +2845,9 @@
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "10",
+			"oracle_text": "Enchant creature\nEnchanted creature gains +2/+2 and flying. Draw a card.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/236.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/236.png"
 			}
 		},
 		{
@@ -2376,8 +2856,11 @@
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Costruct",
 			"collector_number": "240",
+			"oracle_text": "Defender\n{T}: Destroy target creature with defender. Put a stun counter on this creature.",
+			"power": "4",
+			"toughness": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/237.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/237.png"
 			}
 		},
 		{
@@ -2386,8 +2869,9 @@
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "72",
+			"oracle_text": "Whenever a non-token creature enters under your control, put a sapience counter on Thought Reservoir.\nRemove four sapience counters from Thought Reservoir: Draw three cards.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/238.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/238.png"
 			}
 		},
 		{
@@ -2396,8 +2880,9 @@
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
 			"collector_number": "39",
+			"oracle_text": "Kicker {1}{U} [i](You may pay an additional {1}{U} as you cast this spell.)[/i]\nReturn up to two creatures to their owner's hands. If you paid the kicker cost, draw a card.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/239.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/239.png"
 			}
 		},
 		{
@@ -2406,8 +2891,11 @@
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Elemental",
 			"collector_number": "51",
+			"oracle_text": "Flash, Flying",
+			"power": "3",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/240.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/240.png"
 			}
 		},
 		{
@@ -2416,8 +2904,11 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Spirit",
 			"collector_number": "42",
+			"oracle_text": "When this creature enters, scry 2.",
+			"power": "2",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/241.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/241.png"
 			}
 		},
 		{
@@ -2426,8 +2917,9 @@
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "89",
+			"oracle_text": "Buyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]\nReturn target creature card from your graveyard to your hand.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/242.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/242.png"
 			}
 		},
 		{
@@ -2436,8 +2928,11 @@
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human",
 			"collector_number": "83",
+			"oracle_text": "Sacrifice a creature: Put a +1/+1 counter on this creature.",
+			"power": "2",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/243.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/243.png"
 			}
 		},
 		{
@@ -2446,8 +2941,9 @@
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "86",
+			"oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nAdd {B}{B}{B}{B}.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/244.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/244.png"
 			}
 		},
 		{
@@ -2456,8 +2952,11 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie",
 			"collector_number": "94",
+			"oracle_text": "When this creature enters, return target creature with mana value 3 or less from your graveyard to your hand.",
+			"power": "2",
+			"toughness": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/245.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/245.png"
 			}
 		},
 		{
@@ -2466,8 +2965,9 @@
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "150",
+			"oracle_text": "Enchant creature\nEnchanted creature has menace.\nWhenever enchanted creature attacks, if you have one or more lands in your graveyard, create a treasure token.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/246.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/246.png"
 			}
 		},
 		{
@@ -2476,8 +2976,11 @@
 			"mana_cost": "{R}{R}",
 			"type": "Creature — Minotaur",
 			"collector_number": "145",
+			"oracle_text": "When this creature enters, sacrifice it unless you sacrificed a land this turn.",
+			"power": "4",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/247.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/247.png"
 			}
 		},
 		{
@@ -2486,8 +2989,11 @@
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Ogre",
 			"collector_number": "138",
+			"oracle_text": "When this creature enters, you may sacrifice a land. If you do, it deals damage equal to its power to target opponent.",
+			"power": "3",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/248.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/248.png"
 			}
 		},
 		{
@@ -2496,8 +3002,9 @@
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Artifact — Treasure",
 			"collector_number": "258",
+			"oracle_text": "Whenever Landlord's Chest enters or you sacrifice a land, create a treasure Token.\n{T}, sacrifice Landlord's Chest: Add one mana of any color.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/249.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/249.png"
 			}
 		},
 		{
@@ -2506,8 +3013,11 @@
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "257",
+			"oracle_text": "{T}: Target spell or permanent you control gains heritage until end of turn.",
+			"power": "1",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/250.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/250.png"
 			}
 		},
 		{
@@ -2516,8 +3026,11 @@
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Angel",
 			"collector_number": "255",
+			"oracle_text": "Flying, Vigilance\nWhenever this creature deals combat damage to a player, you may search your library for a plains card and put it into you hand then shuffle.",
+			"power": "3",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/251.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/251.png"
 			}
 		},
 		{
@@ -2526,8 +3039,11 @@
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Worm",
 			"collector_number": "259",
+			"oracle_text": "Whenever a land enters under your control, put a +1/+1 counter on this creature.\nWhenever a land is put into your graveyard from anywhere, this creature gains trample and is indestructible until end of turn.",
+			"power": "0",
+			"toughness": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/252.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/252.png"
 			}
 		},
 		{
@@ -2536,8 +3052,9 @@
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Enchantment",
 			"collector_number": "256",
+			"oracle_text": "At the beginning of your upkeep, put a charge counter on Incremental Revelation, then you may discard an instant or sorcery card from your hand. If you do, search your library for an instant or sorcery card with mana value less than or equal to the number of charge counters on Incremental Revelation.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/253.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/253.png"
 			}
 		},
 		{
@@ -2546,8 +3063,11 @@
 			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Creature — Demon",
 			"collector_number": "87",
+			"oracle_text": "Flying, trample\nWhen this creature enters, destroy target creature or planeswalker.\nAt the beginning of your upkeep, loose 2 life.",
+			"power": "7",
+			"toughness": "7",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/254.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/254.png"
 			}
 		},
 		{
@@ -2556,8 +3076,11 @@
 			"mana_cost": "{3}{W}{W}{W}",
 			"type": "Creature — Archon",
 			"collector_number": "2",
+			"oracle_text": "Flying, Protection from black\nWhenever this creature attacks, untap all other creatures you control.",
+			"power": "5",
+			"toughness": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/255.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/255.png"
 			}
 		},
 		{
@@ -2566,8 +3089,9 @@
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
 			"collector_number": "80",
+			"oracle_text": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \u201cenchant creature card in a graveyard\u201d and gains \u201cenchant creature put onto the battlefield with this Aura.\u201d Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/256.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/256.png"
 			}
 		},
 		{
@@ -2576,8 +3100,11 @@
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Beast Elemental",
 			"collector_number": "144",
+			"oracle_text": "Menace\nOther Beast creatures you control get +1/+0 and have menace.",
+			"power": "4",
+			"toughness": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/257.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/257.png"
 			}
 		},
 		{
@@ -2586,8 +3113,11 @@
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Sphynx",
 			"collector_number": "68",
+			"oracle_text": "Flying\nWhenever you cast an instant or sorcery spell, draw a card.",
+			"power": "4",
+			"toughness": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/DAD-files/img/258.png"
+				"en": "https://nicolassargos.github.io/sets/DAD-files/img/258.png"
 			}
 		}
 	]
@@ -2849,7 +3379,7 @@
 	8 Gravedigger Apprentice
 	8 Wasteland Plunder
 	8 Landscorch Ogre
-[common | masterpiece(1)]
+[common_or_masterpiece(1)]
 	8 Obnoxious Zombie
 	8 Sorcerer's Apprentice
 	8 Blessed by Air

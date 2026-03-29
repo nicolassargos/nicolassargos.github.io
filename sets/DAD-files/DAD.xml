@@ -12,7 +12,7 @@
 		<card>
 			<name>Adept of Discord</name>
 			<text>Flying, Painlink (Damage dealt to this creature also causes you to lose that much life.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/0.png" num="77">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/0.png" num="77">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -29,7 +29,7 @@
 		<card>
 			<name>Obnoxious Zombie</name>
 			<text>When Obnoxious Zombie becomes the target of a spell an opponent controls, sacrifice it.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/1.png" num="60">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/1.png" num="60">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -47,7 +47,7 @@
 			<name>Manticore of Udach</name>
 			<text>Flying, Painlink (Damage dealt to this creature also causes you to lose that much life.)
 When Manticore of Udah dies, draw a card, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/2.png" num="57">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/2.png" num="57">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -65,7 +65,7 @@ When Manticore of Udah dies, draw a card, then discard a card.</text>
 			<name>Sneaky Roomie</name>
 			<text>Flying
 When Sneaky Roomie attacks, draw a card, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/3.png" num="228">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/3.png" num="228">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -83,7 +83,7 @@ When Sneaky Roomie attacks, draw a card, then discard a card.</text>
 			<name>Spirit of Wisdom</name>
 			<text>Defender
 {T}: Draw a card, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/4.png" num="69">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/4.png" num="69">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -101,7 +101,7 @@ When Sneaky Roomie attacks, draw a card, then discard a card.</text>
 			<name>Viphiozes&apos; Last Gambit</name>
 			<text>Zombie creatures you control get +1/+1.
 Sacrifice Zombie Apocalypse: Creatures you control cannot be blocked until end of turn.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/5.png" num="218">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/5.png" num="218">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,7 +118,7 @@ Sacrifice Zombie Apocalypse: Creatures you control cannot be blocked until end o
 			<name>Administration of Velatha</name>
 			<text>Whenever you sacrifice a land, create a treasure token.
 At the beginning of you upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/6.png" num="219">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/6.png" num="219">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -134,7 +134,7 @@ At the beginning of you upkeep, surveil 1. (Look at the top card of your library
 		<card>
 			<name>Sorcerer&apos;s Apprentice</name>
 			<text>Whenever Apprentice Sorcerer enters the battlefield, return target instant or sorcery with mana value 2 or less from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/7.png" num="146">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/7.png" num="146">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -153,7 +153,7 @@ At the beginning of you upkeep, surveil 1. (Look at the top card of your library
 			<text>Enchant creature
 Whenever you cast Blessed by Air, draw a card.
 Enchanted creature has flying.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/8.png" num="43">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/8.png" num="43">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -171,7 +171,7 @@ Enchanted creature has flying.</text>
 			<text>Enchant creature
 Whenever you cast Blessed by Earth, you may put a land from your hand onto the battlefield tapped. If you don&apos;t, search your library for a basic forest and put it into your hand.
 Enchanted creature has trample.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/9.png" num="155">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/9.png" num="155">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -189,7 +189,7 @@ Enchanted creature has trample.</text>
 			<text>Enchant creature
 Whenever you cast Blessed by Snow, tap up to two target creatures.
 Enchanted creature has vigilance.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/10.png" num="5">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/10.png" num="5">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -207,7 +207,7 @@ Enchanted creature has vigilance.</text>
 			<text>Enchant creature
 Whenever you cast Blessed by Fire, you may have it deal 2 damage to target creature.
 Enchanted creature has first strike.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/11.png" num="119">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/11.png" num="119">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -225,7 +225,7 @@ Enchanted creature has first strike.</text>
 			<text>Enchant creature
 Whenever you cast Blessed by Disease, target player discards a card and looses 1 life.
 Enchanted creature has lifelink.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/12.png" num="81">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/12.png" num="81">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -241,7 +241,7 @@ Enchanted creature has lifelink.</text>
 		<card>
 			<name>Troups of Mercenaries</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/13.png" num="213">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/13.png" num="213">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -258,7 +258,7 @@ Enchanted creature has lifelink.</text>
 		<card>
 			<name>Imploring Menetre</name>
 			<text>Put target creature with mana value 4 or more from your graveyard onto the battlefield.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/14.png" num="200">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/14.png" num="200">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -275,7 +275,7 @@ Enchanted creature has lifelink.</text>
 			<name>Enhanced Reflexes</name>
 			<text>Target creature gains +1/+2 until end of turn.
 If that creature dies this turn, it deals damage equal to its power to another target creature.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/15.png" num="160">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/15.png" num="160">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -291,7 +291,7 @@ If that creature dies this turn, it deals damage equal to its power to another t
 		<card>
 			<name>Sick Rats</name>
 			<text>Deathtouch</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/16.png" num="111">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/16.png" num="111">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -309,7 +309,7 @@ If that creature dies this turn, it deals damage equal to its power to another t
 			<name>Mind Devourer</name>
 			<text>Painlink (Damage dealt to this creature also causes you to lose that much life.)
 Mind Devourer comes into play tapped unless any player has 10 or less life.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/17.png" num="100">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/17.png" num="100">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -326,7 +326,7 @@ Mind Devourer comes into play tapped unless any player has 10 or less life.</tex
 		<card>
 			<name>Affamed Grizzly</name>
 			<text>Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/18.png" num="192">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/18.png" num="192">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -344,7 +344,7 @@ Mind Devourer comes into play tapped unless any player has 10 or less life.</tex
 			<name>Enchantment of Repulsion</name>
 			<text>Creatures lose flying and can&apos;t gain flying.
 Whenever a creature attacks you or a planeswalker you control, return it into its owner&apos;s hand at end of combat.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/19.png" num="46">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/19.png" num="46">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -361,7 +361,7 @@ Whenever a creature attacks you or a planeswalker you control, return it into it
 			<name>Refusal</name>
 			<text>Counter target creature spell unless its controller pays {2}.
 Scry 2.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/20.png" num="64">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/20.png" num="64">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -377,7 +377,7 @@ Scry 2.</text>
 		<card>
 			<name>Ignored the Risk</name>
 			<text>Counter target spell. Target player mills 3 cards.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/21.png" num="53">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/21.png" num="53">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -393,7 +393,7 @@ Scry 2.</text>
 		<card>
 			<name>Lost the Battalion</name>
 			<text>Prevent all combat damage that would be dealt by target creature this turn. Its controller mills two cards.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/22.png" num="202">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/22.png" num="202">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -410,7 +410,7 @@ Scry 2.</text>
 			<name>Sudden Inspiration</name>
 			<text>Draw a card.
 Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/23.png" num="71">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/23.png" num="71">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -427,7 +427,7 @@ Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, pu
 			<name>Erosion Shield</name>
 			<text>Whenever you draw a card, each opponent mills a card.
 Sacrifice Erosion Shield: Gain 5 life.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/24.png" num="196">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/24.png" num="196">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -443,7 +443,7 @@ Sacrifice Erosion Shield: Gain 5 life.</text>
 		<card>
 			<name>Unstable Chimera</name>
 			<text>Flying, Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/25.png" num="34">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/25.png" num="34">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -461,7 +461,7 @@ Sacrifice Erosion Shield: Gain 5 life.</text>
 			<name>Defender of Valdor</name>
 			<text>Defender
 Sacrifice Defender of Valdor: Prevent all combat damage that would be dealt this turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/26.png" num="9">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/26.png" num="9">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -479,7 +479,7 @@ Sacrifice Defender of Valdor: Prevent all combat damage that would be dealt this
 			<name>Recruitment in Taverns</name>
 			<text>Create two 1/1 white soldier tokens.
 Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/27.png" num="28">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/27.png" num="28">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -495,7 +495,7 @@ Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, pu
 		<card>
 			<name>Serra&apos;s Fury</name>
 			<text>Starting with you, each player separates permanents they control in two face up piles. Then each player chooses a pile from the opponent on his right. That player sacrifices all permanents in this pile.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/28.png" num="33">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/28.png" num="33">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -513,7 +513,7 @@ Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, pu
 			<text>Enchant permanent
 Gain control of enchanted permanent.
 Heritage (When this spell is countered or this permanent is put into a graveyard from the battlefield, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/29.png" num="75">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/29.png" num="75">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -529,7 +529,7 @@ Heritage (When this spell is countered or this permanent is put into a graveyard
 		<card>
 			<name>Elusive Corpse</name>
 			<text>Return another creature you control to its owner&apos;s hand: Elusive Corpse can&apos;t be blocked until end of turn. Activate this ability as a sorcery and only once each turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/30.png" num="45">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/30.png" num="45">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -546,7 +546,7 @@ Heritage (When this spell is countered or this permanent is put into a graveyard
 		<card>
 			<name>Apprentice Illusionist</name>
 			<text>When Apprentice Illusionist enters the battlefield, return target creature with mana value 3 or less an opponent controls to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/31.png" num="40">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/31.png" num="40">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -564,7 +564,7 @@ Heritage (When this spell is countered or this permanent is put into a graveyard
 			<name>Sword of Ganaka</name>
 			<text>Equipped creature get +1/+1, has first strike and &quot;Whenever equipped creature deals damage to a player, that player mills that many cards&quot;.
 Equip {3}</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/32.png" num="243">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/32.png" num="243">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -578,7 +578,7 @@ Equip {3}</text>
 		<card>
 			<name>Punch in Your Face!</name>
 			<text>Destroy target tapped creature unless its controller pays {2}.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/33.png" num="24">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/33.png" num="24">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -595,7 +595,7 @@ Equip {3}</text>
 			<name>Purity&apos;s Follower</name>
 			<text>Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)
 When this creature enters, exile target creature until it leaves the battlefield.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/34.png" num="25">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/34.png" num="25">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -613,7 +613,7 @@ When this creature enters, exile target creature until it leaves the battlefield
 			<name>Discord&apos;s Spirit</name>
 			<text>Flying
 When Discord&apos;s Spirit dies, draw a card.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/35.png" num="44">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/35.png" num="44">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -630,7 +630,7 @@ When Discord&apos;s Spirit dies, draw a card.</text>
 		<card>
 			<name>Expropriate the Farmers</name>
 			<text>{1}{R}, Sacrifice a land: Create two 1/1 red Goblin tokens.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/36.png" num="123">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/36.png" num="123">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -647,7 +647,7 @@ When Discord&apos;s Spirit dies, draw a card.</text>
 			<name>Order at Stake</name>
 			<text>Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)
 Order at Stake deals 2 damage to any target. If you paid the kicker cost, create a 1/1 white Soldier creature token.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/37.png" num="142">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/37.png" num="142">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -663,7 +663,7 @@ Order at Stake deals 2 damage to any target. If you paid the kicker cost, create
 		<card>
 			<name>Lynx of Penaloda</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/38.png" num="169">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/38.png" num="169">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -680,7 +680,7 @@ Order at Stake deals 2 damage to any target. If you paid the kicker cost, create
 		<card>
 			<name>Shadow of Phissi</name>
 			<text>Flying, Painlink (Damage dealt to this creature also causes you to lose that much life.)</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/39.png" num="110">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/39.png" num="110">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -698,7 +698,7 @@ Order at Stake deals 2 damage to any target. If you paid the kicker cost, create
 			<name>No Pain, No Gain</name>
 			<text>As an additional cost to cast this spell, pay X life.
 Each of X target creatures get +2/+2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/40.png" num="103">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/40.png" num="103">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -714,7 +714,7 @@ Each of X target creatures get +2/+2 until end of turn.</text>
 		<card>
 			<name>Greed Lost Adept</name>
 			<text>Deathtouch, Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/41.png" num="95">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/41.png" num="95">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -731,7 +731,7 @@ Each of X target creatures get +2/+2 until end of turn.</text>
 		<card>
 			<name>Occult Ritual</name>
 			<text>Target player separates the cards in their hand in two face down piles, then you choose one of them. That player discards that pile.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/42.png" num="106">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/42.png" num="106">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -749,7 +749,7 @@ Each of X target creatures get +2/+2 until end of turn.</text>
 			<text>Vigilance
 Each other brother get +1/+1 and gain vigilance.
 Whenever you control five Brother creatures, you win the game.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/43.png" num="12">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/43.png" num="12">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -768,7 +768,7 @@ Whenever you control five Brother creatures, you win the game.</text>
 			<text>Flying
 Each other brother get +1/+1 and gain flying.
 Whenever you control five Brother creatures, you win the game.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/44.png" num="52">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/44.png" num="52">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -787,7 +787,7 @@ Whenever you control five Brother creatures, you win the game.</text>
 			<text>Haste
 Each other brother get +1/+1 and gain haste.
 Whenever you control five Brother creatures, you win the game.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/45.png" num="130">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/45.png" num="130">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -806,7 +806,7 @@ Whenever you control five Brother creatures, you win the game.</text>
 			<text>Trample
 Each other brother get +1/+1 and gain trample.
 Whenever you control five Brother creatures, you win the game.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/46.png" num="164">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/46.png" num="164">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -825,7 +825,7 @@ Whenever you control five Brother creatures, you win the game.</text>
 			<text>Lifelink
 Each other brother get +1/+1 and gain lifelink.
 Whenever you control five Brother creatures, you win the game.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/47.png" num="93">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/47.png" num="93">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -842,7 +842,7 @@ Whenever you control five Brother creatures, you win the game.</text>
 		<card>
 			<name>Enslaved Reveler</name>
 			<text>When Enslaved Reveler enters the battlefield, gain 3 life and target opponent discards a card.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/48.png" num="91">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/48.png" num="91">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -860,7 +860,7 @@ Whenever you control five Brother creatures, you win the game.</text>
 			<name>Sneaky Zombie</name>
 			<text>Defender
 At the beginning of your upkeep, you may exile a creature card from your graveyard. If you exiled a card this way, Sneaky Zombie looses Defender and can&apos;t be blocked until end of turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/49.png" num="229">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/49.png" num="229">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -877,7 +877,7 @@ At the beginning of your upkeep, you may exile a creature card from your graveya
 		<card>
 			<name>Playing for Death</name>
 			<text>Return onto the battlefield all creature cards you own that died this turn under your control.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/50.png" num="107">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/50.png" num="107">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -893,7 +893,7 @@ At the beginning of your upkeep, you may exile a creature card from your graveya
 		<card>
 			<name>Remember From the Stones</name>
 			<text>Return up to two target non-land permanents an opponent control into their owner&apos;s hand. At the end of turn, that opponent may put a permanent from their hand onto the battlefield.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/51.png" num="65">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/51.png" num="65">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -909,7 +909,7 @@ At the beginning of your upkeep, you may exile a creature card from your graveya
 		<card>
 			<name>Fact or Fiction</name>
 			<text>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/52.png" num="48">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/52.png" num="48">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -925,7 +925,7 @@ At the beginning of your upkeep, you may exile a creature card from your graveya
 		<card>
 			<name>Sleep</name>
 			<text>Tap all creatures target player controls. Those creatures don&apos;t untap during that player&apos;s next untap step.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/53.png" num="67">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/53.png" num="67">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -942,7 +942,7 @@ At the beginning of your upkeep, you may exile a creature card from your graveya
 			<name>Magus of the Grindstone</name>
 			<text>Defender
 {3}, {T}: Target player mills 2 cards. If those cards share at least one color, repeat this process.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/54.png" num="56">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/54.png" num="56">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -960,7 +960,7 @@ At the beginning of your upkeep, you may exile a creature card from your graveya
 			<name>Wall of Addum</name>
 			<text>Defender, Lifelink
 Whenever you gain life, each player mills one card.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/55.png" num="233">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/55.png" num="233">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -978,7 +978,7 @@ Whenever you gain life, each player mills one card.</text>
 			<name>Prayers to Serra</name>
 			<text>Gain 1 life for each attacking creature.
 Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/56.png" num="23">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/56.png" num="23">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -995,7 +995,7 @@ Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, pu
 			<name>Unexpected Reinforcements</name>
 			<text>Create a 1/1 white and blue bird creature token with flying.
 Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/57.png" num="232">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/57.png" num="232">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1011,7 +1011,7 @@ Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, pu
 		<card>
 			<name>Introspection</name>
 			<text>Draw a card for each creature with defender you control.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/58.png" num="54">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/58.png" num="54">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1028,7 +1028,7 @@ Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, pu
 			<name>Ihsan, Corrupted Knight</name>
 			<text>Menace, Protection from white
 Whenever Ihsan, Corrupted Knight enters the battlefield, you may destroy target Angel, Knight or Paladin.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/59.png" num="97">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/59.png" num="97">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1047,7 +1047,7 @@ Whenever Ihsan, Corrupted Knight enters the battlefield, you may destroy target 
 			<text>Defender
 {2}: Submarine Guardian loses defender until end of turn.
 When Submarine Guardian attacks, each player mills 2 cards.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/60.png" num="70">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/60.png" num="70">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1065,7 +1065,7 @@ When Submarine Guardian attacks, each player mills 2 cards.</text>
 			<name>Mechanical Brother</name>
 			<text>Whenever this creature or another Brother creature enters, Scry 1.
 Whenever Mechanical Brother dies, create a 1/1 colorless Construct Brother artifact creature token.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/61.png" num="238">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/61.png" num="238">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1080,7 +1080,7 @@ Whenever Mechanical Brother dies, create a 1/1 colorless Construct Brother artif
 		<card>
 			<name>Gates of Velatha</name>
 			<text>Whenever a creature enters the battlefield, Gates of Velatha deals one damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/62.png" num="198">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/62.png" num="198">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1097,7 +1097,7 @@ Whenever Mechanical Brother dies, create a 1/1 colorless Construct Brother artif
 			<name>Hiring War Refugees</name>
 			<text>Create a 1/1 red Goblin token for each land in your graveyard.
 Buyback {2} (You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/63.png" num="135">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/63.png" num="135">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1114,7 +1114,7 @@ Buyback {2} (You may pay an additional {2} as you cast this spell. If you do, pu
 			<name>Unstoppable Charge</name>
 			<text>As an additional cost to play this spell, sacrifice a land.
 Up to X creatures you control gain +1/+0 and can&apos;t be blocked this turn, where X is the number of lands in your graveyard.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/64.png" num="215">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/64.png" num="215">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1131,7 +1131,7 @@ Up to X creatures you control gain +1/+0 and can&apos;t be blocked this turn, wh
 			<name>Embrace the Bribe</name>
 			<text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
 Heritage (When this spell is countered or this permanent is put into a graveyard from the battlefield, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/65.png" num="121">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/65.png" num="121">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1148,7 +1148,7 @@ Heritage (When this spell is countered or this permanent is put into a graveyard
 			<name>Gonoko&apos;s Fury</name>
 			<text>As an additional cost to play Gonoko&apos;s Fury, you may sacrifice a land.
 Gonoko&apos;s Fury deals X damage to any target, where X is one plus the number of lands in your graveyard.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/66.png" num="131">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/66.png" num="131">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1166,7 +1166,7 @@ Gonoko&apos;s Fury deals X damage to any target, where X is one plus the number 
 			<text>As an additional cost to cast Growing at All Cost, discard any number of land cards from your hand.
 Creatures you control gain +X/+X and trample until end of turn, where X is one plus the number of land cards discarded this way.
 Damage can&apos;t be prevented this turn.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/67.png" num="221">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/67.png" num="221">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1182,7 +1182,7 @@ Damage can&apos;t be prevented this turn.</text>
 		<card>
 			<name>What&apos;s the Point?</name>
 			<text>Destroy target creature with power 3 or more.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/68.png" num="38">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/68.png" num="38">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1199,7 +1199,7 @@ Damage can&apos;t be prevented this turn.</text>
 			<name>Enraged Baloth</name>
 			<text>Trample
 As long as Enraged Baloth is attacking, damage can&apos;t be prevented.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/69.png" num="195">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/69.png" num="195">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1216,7 +1216,7 @@ As long as Enraged Baloth is attacking, damage can&apos;t be prevented.</text>
 		<card>
 			<name>Gangurg, Adept Caster</name>
 			<text>{1}{R}{G}, {T}: Lands you control become 3/3 Beast red and green creatures with trample until end of turn.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/70.png" num="197">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/70.png" num="197">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1233,7 +1233,7 @@ As long as Enraged Baloth is attacking, damage can&apos;t be prevented.</text>
 		<card>
 			<name>Batallion Warleader</name>
 			<text>Attacking creatures you control get +1/+0.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/71.png" num="117">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/71.png" num="117">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1250,7 +1250,7 @@ As long as Enraged Baloth is attacking, damage can&apos;t be prevented.</text>
 		<card>
 			<name>Emissary of Fear</name>
 			<text>Painlink, Heritage (Damage dealt to this creature also causes you to lose that much life. When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/72.png" num="90">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/72.png" num="90">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1267,7 +1267,7 @@ As long as Enraged Baloth is attacking, damage can&apos;t be prevented.</text>
 		<card>
 			<name>Amazons of Rholt</name>
 			<text>Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/73.png" num="78">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/73.png" num="78">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1285,7 +1285,7 @@ As long as Enraged Baloth is attacking, damage can&apos;t be prevented.</text>
 			<name>Elvish Adventurer</name>
 			<text>When this creature enters, search your library for a basic forest and put it into your hand, then shuffle.
 Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/74.png" num="159">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/74.png" num="159">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1303,7 +1303,7 @@ Heritage (When this spell is countered or this creature dies, reveal the top car
 			<name>Haven of Rogues</name>
 			<text>Defender
 Sacrifice a creature: Gain life equal to its toughness.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/75.png" num="222">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/75.png" num="222">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1320,7 +1320,7 @@ Sacrifice a creature: Gain life equal to its toughness.</text>
 		<card>
 			<name>Frontal Charge</name>
 			<text>Target creature gains +2/+1 and first strike until end of turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/76.png" num="125">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/76.png" num="125">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1338,7 +1338,7 @@ Sacrifice a creature: Gain life equal to its toughness.</text>
 			<text>Choose one:
  - Target creature gains +1/+1 and lifelink until end of turn.
  - Target creature gains indestructible until end of turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/77.png" num="227">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/77.png" num="227">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1355,7 +1355,7 @@ Sacrifice a creature: Gain life equal to its toughness.</text>
 			<name>Finding the Path to Peace</name>
 			<text>Untap all attacking creatures. Prevent all combat damage that would be dealt this turn.
 You gain life equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/78.png" num="11">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/78.png" num="11">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1371,7 +1371,7 @@ You gain life equal to your devotion to white. (Each {W} in the mana costs of pe
 		<card>
 			<name>Unleashing the Rage</name>
 			<text>Creatures you control gain +1/+1 until end of turn, then Unleashing the Rage deals X damage to target player, where X is your devotion to red. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/79.png" num="148">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/79.png" num="148">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1387,7 +1387,7 @@ You gain life equal to your devotion to white. (Each {W} in the mana costs of pe
 		<card>
 			<name>Mourning for The Lost</name>
 			<text>Target opponent discards a cards, then you may return target creature from your graveyard with mana value equal to your devotion to black to the battlefield. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/80.png" num="101">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/80.png" num="101">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1403,7 +1403,7 @@ You gain life equal to your devotion to white. (Each {W} in the mana costs of pe
 		<card>
 			<name>Earning Nature&apos;s Friendship</name>
 			<text>Search your library for a land card and put it onto the battlefield tapped, then shuffle. You may put a creature with mana value less or equal to your devotion to green from your hand onto the battlefield (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/81.png" num="158">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/81.png" num="158">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1420,7 +1420,7 @@ You gain life equal to your devotion to white. (Each {W} in the mana costs of pe
 			<name>Gain Height</name>
 			<text>Creatures you control gain flying until end of turn.
 Scry X, where X is your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/82.png" num="50">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/82.png" num="50">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1436,7 +1436,7 @@ Scry X, where X is your devotion to blue. (Each {U} in the mana costs of permane
 		<card>
 			<name>Succumb to Promises</name>
 			<text>Choose a creature. The owner of this creature sacrifices it. You gain life equal to its power.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/83.png" num="113">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/83.png" num="113">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1455,7 +1455,7 @@ Scry X, where X is your devotion to blue. (Each {U} in the mana costs of permane
  - Destroy target artifact or enchantment.
  - Destroy target creature with flying.
  - Exile target creature card from a graveyard.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/84.png" num="188">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/84.png" num="188">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1472,7 +1472,7 @@ Scry X, where X is your devotion to blue. (Each {U} in the mana costs of permane
 			<name>Spirit of Rholt</name>
 			<text>Flying
 Sacrifice Spirit of Rolth: Return another target creature from your graveyard to the battlefield. Activate only as sorcery.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/85.png" num="112">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/85.png" num="112">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1490,7 +1490,7 @@ Sacrifice Spirit of Rolth: Return another target creature from your graveyard to
 			<name>Phissi, Vessel of Discord</name>
 			<text>This creature can&apos;t be blocked.
 Whenever a creature you control deals combat damage to a player, draw a card.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/86.png" num="225">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/86.png" num="225">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1507,7 +1507,7 @@ Whenever a creature you control deals combat damage to a player, draw a card.</t
 		<card>
 			<name>Royal Assassin</name>
 			<text>{T}: Destroy target tapped creature.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/87.png" num="109">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/87.png" num="109">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1524,7 +1524,7 @@ Whenever a creature you control deals combat damage to a player, draw a card.</t
 		<card>
 			<name>Wildfire</name>
 			<text>Each player sacrifices four lands. Wildfire deals 4 damage to each creature.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/88.png" num="153">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/88.png" num="153">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1541,7 +1541,7 @@ Whenever a creature you control deals combat damage to a player, draw a card.</t
 			<name>Thyrroene, Mother of All</name>
 			<text>Vigilance, Flying, Lifelink, First strike, Trample.
 {T}, Sacrifice Thyrroene, Mother of All: Search your library for up to four Brother creatures and put them onto the battlefield.</text>
-			<set rarity="mythic" picurl="https://mse-hub/sets/DAD-files/img/89.png" num="212">DAD</set>
+			<set rarity="mythic" picurl="https://nicolassargos.github.io/sets/DAD-files/img/89.png" num="212">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1558,7 +1558,7 @@ Whenever a creature you control deals combat damage to a player, draw a card.</t
 		<card>
 			<name>Recruited Militia</name>
 			<text>When Recruited Militia dies, create a 1/1 white Bird creature token with flying.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/90.png" num="27">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/90.png" num="27">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1575,7 +1575,7 @@ Whenever a creature you control deals combat damage to a player, draw a card.</t
 		<card>
 			<name>Great Orator</name>
 			<text>Creature tokens you control get +1/+1.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/91.png" num="13">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/91.png" num="13">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1592,7 +1592,7 @@ Whenever a creature you control deals combat damage to a player, draw a card.</t
 		<card>
 			<name>Recuiter of the Homeless</name>
 			<text>When Recuiter of the Homeless enters the battlefield, create X 1/1 white Soldier creature tokens, where X is the number of lands in your graveyard.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/92.png" num="226">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/92.png" num="226">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1609,7 +1609,7 @@ Whenever a creature you control deals combat damage to a player, draw a card.</t
 		<card>
 			<name>Ronom Unicorn</name>
 			<text>Sacrifice Ronom Unicorn: Destroy target enchantment.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/93.png" num="29">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/93.png" num="29">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1626,7 +1626,7 @@ Whenever a creature you control deals combat damage to a player, draw a card.</t
 		<card>
 			<name>Valorous Knight</name>
 			<text>When Valorous Knight enters the battlefield, create a 1/1 white Dog creature token.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/94.png" num="36">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/94.png" num="36">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1644,7 +1644,7 @@ Whenever a creature you control deals combat damage to a player, draw a card.</t
 			<name>Serra Child</name>
 			<text>Flying
 When Purity&apos;s Child enters the battlefield, gain 1 life for each creature you control.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/95.png" num="31">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/95.png" num="31">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1661,7 +1661,7 @@ When Purity&apos;s Child enters the battlefield, gain 1 life for each creature y
 		<card>
 			<name>Serra Worshipper</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/96.png" num="32">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/96.png" num="32">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1678,7 +1678,7 @@ When Purity&apos;s Child enters the battlefield, gain 1 life for each creature y
 		<card>
 			<name>Armada Officer</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/97.png" num="3">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/97.png" num="3">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1696,7 +1696,7 @@ When Purity&apos;s Child enters the battlefield, gain 1 life for each creature y
 			<name>Sky Armada</name>
 			<text>Flying
 Other creatures with flying you control get +1/+1.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/98.png" num="66">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/98.png" num="66">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1714,7 +1714,7 @@ Other creatures with flying you control get +1/+1.</text>
 			<name>Library&apos;s Administrators</name>
 			<text>Defender
 When Library&apos;s Administrators enter the battlefield, target player mills 4 cards.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/99.png" num="55">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/99.png" num="55">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1731,7 +1731,7 @@ When Library&apos;s Administrators enter the battlefield, target player mills 4 
 		<card>
 			<name>Velatha&apos;s Arena Hero</name>
 			<text>Lifelink</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/100.png" num="37">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/100.png" num="37">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1749,7 +1749,7 @@ When Library&apos;s Administrators enter the battlefield, target player mills 4 
 			<name>Propulsed Whale</name>
 			<text>Flying
 When Propulsed Whale enters the battlefield, return a creature you control to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/101.png" num="63">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/101.png" num="63">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1766,7 +1766,7 @@ When Propulsed Whale enters the battlefield, return a creature you control to it
 		<card>
 			<name>Ghost Parasite</name>
 			<text>When Ghost Parasite dies, draw two cards and lose 2 life.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/102.png" num="92">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/102.png" num="92">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1783,7 +1783,7 @@ When Propulsed Whale enters the battlefield, return a creature you control to it
 		<card>
 			<name>Corrupted Missionary</name>
 			<text>When Corrupted Missionary enters the battlefield, target creature get -1/-1 until end of turn and its controller looses one life.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/103.png" num="85">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/103.png" num="85">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1800,7 +1800,7 @@ When Propulsed Whale enters the battlefield, return a creature you control to it
 		<card>
 			<name>Enraged Macaque</name>
 			<text>Enraged Macaque get +X/+X, where X is equal to the number of land cards in your graveyard.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/104.png" num="122">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/104.png" num="122">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1817,7 +1817,7 @@ When Propulsed Whale enters the battlefield, return a creature you control to it
 		<card>
 			<name>Invasion Planificator</name>
 			<text>Lifelink, protection from white (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything white.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/105.png" num="98">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/105.png" num="98">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1834,7 +1834,7 @@ When Propulsed Whale enters the battlefield, return a creature you control to it
 		<card>
 			<name>Angel of Phissi</name>
 			<text>Flying, lifelink</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/106.png" num="79">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/106.png" num="79">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1852,7 +1852,7 @@ When Propulsed Whale enters the battlefield, return a creature you control to it
 			<name>Battalion Cannon Fodder</name>
 			<text>First strike
 When Battalion Cannon Fodder dies, create a 1/1 red Goblin creature token.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/107.png" num="118">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/107.png" num="118">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1869,7 +1869,7 @@ When Battalion Cannon Fodder dies, create a 1/1 red Goblin creature token.</text
 		<card>
 			<name>Veteran of Velatha&apos;s War</name>
 			<text>Veteran of Velatha&apos;s War get +1/+1 as long as you control another creature with power 4 or greater.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/108.png" num="149">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/108.png" num="149">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1886,7 +1886,7 @@ When Battalion Cannon Fodder dies, create a 1/1 red Goblin creature token.</text
 		<card>
 			<name>Healer of Broken Lands</name>
 			<text>At the beginning of your end step, you may put target land from your graveyard on top of your library.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/109.png" num="166">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/109.png" num="166">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1903,7 +1903,7 @@ When Battalion Cannon Fodder dies, create a 1/1 red Goblin creature token.</text
 		<card>
 			<name>Mad War Fugitive</name>
 			<text>First strike</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/110.png" num="139">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/110.png" num="139">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1920,7 +1920,7 @@ When Battalion Cannon Fodder dies, create a 1/1 red Goblin creature token.</text
 		<card>
 			<name>Guardian of Velioth</name>
 			<text>Haste, trample</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/111.png" num="133">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/111.png" num="133">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1937,7 +1937,7 @@ When Battalion Cannon Fodder dies, create a 1/1 red Goblin creature token.</text
 		<card>
 			<name>Good-Natured Merchant</name>
 			<text>{T}, Discard a card: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/112.png" num="132">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/112.png" num="132">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1954,7 +1954,7 @@ When Battalion Cannon Fodder dies, create a 1/1 red Goblin creature token.</text
 		<card>
 			<name>Keeper of Order</name>
 			<text>At the beginning of your upkeep, you may sacrifice a land. If a land is put into a graveyard this way, creatures that enter the battlefield under your control this turn come with a +1/+1 counter on it and have haste until end of turn.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/113.png" num="137">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/113.png" num="137">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1971,7 +1971,7 @@ When Battalion Cannon Fodder dies, create a 1/1 red Goblin creature token.</text
 		<card>
 			<name>Geirdyn Herald</name>
 			<text>At the beginning of its controller&apos;s upkeep, this creature deals one damage to its controller.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/114.png" num="126">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/114.png" num="126">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1988,7 +1988,7 @@ When Battalion Cannon Fodder dies, create a 1/1 red Goblin creature token.</text
 		<card>
 			<name>Adept of Growth</name>
 			<text>Haste, Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/115.png" num="116">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/115.png" num="116">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2005,7 +2005,7 @@ When Battalion Cannon Fodder dies, create a 1/1 red Goblin creature token.</text
 		<card>
 			<name>Goblin Landlord</name>
 			<text>Whenever you sacrifice a land, put a +1/+1 counter on this creature and create two treasure tokens.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/116.png" num="129">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/116.png" num="129">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2024,7 +2024,7 @@ When Battalion Cannon Fodder dies, create a 1/1 red Goblin creature token.</text
 			<text>Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)
 Flying
 When Geirdyn Skyrider enters the battlefield, if you paid the kicker cost, create two 1/1 red Goblin creature tokens.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/117.png" num="127">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/117.png" num="127">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2041,7 +2041,7 @@ When Geirdyn Skyrider enters the battlefield, if you paid the kicker cost, creat
 		<card>
 			<name>Wurm of Arid Steppes</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/118.png" num="189">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/118.png" num="189">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2058,7 +2058,7 @@ When Geirdyn Skyrider enters the battlefield, if you paid the kicker cost, creat
 		<card>
 			<name>Shaman of Rholt</name>
 			<text>{T}, sacrifice Shaman of Rholt: Destroy target enchantment.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/119.png" num="182">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/119.png" num="182">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2075,7 +2075,7 @@ When Geirdyn Skyrider enters the battlefield, if you paid the kicker cost, creat
 		<card>
 			<name>Apprentice Herbalist</name>
 			<text>{T}: Add one mana of any color other than lands you control could produce.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/120.png" num="154">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/120.png" num="154">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2092,7 +2092,7 @@ When Geirdyn Skyrider enters the battlefield, if you paid the kicker cost, creat
 		<card>
 			<name>Monstruosity of the Deep Forest</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/121.png" num="171">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/121.png" num="171">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2109,7 +2109,7 @@ When Geirdyn Skyrider enters the battlefield, if you paid the kicker cost, creat
 		<card>
 			<name>Passage Protector</name>
 			<text>Reach, Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/122.png" num="176">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/122.png" num="176">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2127,7 +2127,7 @@ When Geirdyn Skyrider enters the battlefield, if you paid the kicker cost, creat
 			<name>Wurm of Penaloda</name>
 			<text>Trample
 When Wurm of Penaloda enters the battlefield, gain 8 life.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/123.png" num="190">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/123.png" num="190">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2144,7 +2144,7 @@ When Wurm of Penaloda enters the battlefield, gain 8 life.</text>
 		<card>
 			<name>Mushrooms Harvester</name>
 			<text>At the beginning of your end step, gain 1 life.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/124.png" num="172">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/124.png" num="172">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2163,7 +2163,7 @@ When Wurm of Penaloda enters the battlefield, gain 8 life.</text>
 			<text>At the beginning of your end step, put a +1/+1 counter on Bumbeldop Family.
 When Bumbeldop Family dies, create a 1/1 green Ooze token for each +1/+1 counter on it.
 Burp!</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/125.png" num="156">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/125.png" num="156">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2180,7 +2180,7 @@ Burp!</text>
 		<card>
 			<name>Oversized Baboons</name>
 			<text></text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/126.png" num="224">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/126.png" num="224">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2198,7 +2198,7 @@ Burp!</text>
 			<name>Spear of Geneke</name>
 			<text>Equipped creature get +1/+1, has flying and &quot;When this creature deals combat damage to a player, scry 2&quot;.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/127.png" num="241">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/127.png" num="241">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2213,7 +2213,7 @@ Equip {2}</text>
 			<name>Knife of Giniki</name>
 			<text>Equipped creature get +1/+1, has deathtouch and &quot;When this creature deals combat damage to a player, you may sacrifice it. If you do, return to the battlefield another creature with power equal or less than the creature sacrificed this way.&quot;
 Equip {4}</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/128.png" num="236">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/128.png" num="236">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2229,7 +2229,7 @@ Equip {4}</text>
 			<text>Equipped creature get +1/+1 and has haste.
 When equipped creature deals combat damage to a player, Flail of Gonoko deals X damage to target player, where X is the number of lands in your graveyard.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/129.png" num="237">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/129.png" num="237">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2244,7 +2244,7 @@ Equip {2}</text>
 			<name>Staff of Gunuku</name>
 			<text>Equipped creature get +1/+1, has trample and &quot;Whenever this creature deals combat damage to a player, create a 1/1 green Butterfly creature token&quot;.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/130.png" num="242">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/130.png" num="242">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2259,7 +2259,7 @@ Equip {2}</text>
 			<name>Hisseyia, Avatar of Purity</name>
 			<text>Flying, Vigilance
 At the beginning of your end step, gain X life and target opponent mills X cards, where X is the number of creatures you control.</text>
-			<set rarity="mythic" picurl="https://mse-hub/sets/DAD-files/img/131.png" num="199">DAD</set>
+			<set rarity="mythic" picurl="https://nicolassargos.github.io/sets/DAD-files/img/131.png" num="199">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2278,7 +2278,7 @@ At the beginning of your end step, gain X life and target opponent mills X cards
 			<text>Haste
 Nogafris, Avatar of Order cost {1} less to cast for each land card in your graveyard.
 At the beginning of your upkeep, sacrifice a land, then create a 1/1 white Soldier creature token with Haste for each land card in your graveyard.</text>
-			<set rarity="mythic" picurl="https://mse-hub/sets/DAD-files/img/132.png" num="205">DAD</set>
+			<set rarity="mythic" picurl="https://nicolassargos.github.io/sets/DAD-files/img/132.png" num="205">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2296,7 +2296,7 @@ At the beginning of your upkeep, sacrifice a land, then create a 1/1 white Soldi
 			<name>Viphiozes, Avatar of Discord</name>
 			<text>Viphiozes, Avatar of Discord can&apos;t be blocked.
 At the beginning of your end step, you may put a +1/+1 counter on this creature if you lost life this turn.When you do, gain control of target creature with power equal or less than this creature until you lose control of Viphiozes, Avatar of Discord.</text>
-			<set rarity="mythic" picurl="https://mse-hub/sets/DAD-files/img/133.png" num="217">DAD</set>
+			<set rarity="mythic" picurl="https://nicolassargos.github.io/sets/DAD-files/img/133.png" num="217">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2314,7 +2314,7 @@ At the beginning of your end step, you may put a +1/+1 counter on this creature 
 			<name>Menetre, Avatar of Greed</name>
 			<text>Deathtouch
 {T}, pay 3 life, return another creature you control to its owner&apos;s hand: Put a creature from your graveyard onto the battlefield. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://mse-hub/sets/DAD-files/img/134.png" num="204">DAD</set>
+			<set rarity="mythic" picurl="https://nicolassargos.github.io/sets/DAD-files/img/134.png" num="204">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2333,7 +2333,7 @@ At the beginning of your end step, you may put a +1/+1 counter on this creature 
 			<text>Trample
 Other creatures you control get +1/+1 and have trample.
 Whenever a creature you control leaves the battlefield, put a 2/2 green Fungus creature token.</text>
-			<set rarity="mythic" picurl="https://mse-hub/sets/DAD-files/img/135.png" num="216">DAD</set>
+			<set rarity="mythic" picurl="https://nicolassargos.github.io/sets/DAD-files/img/135.png" num="216">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2350,7 +2350,7 @@ Whenever a creature you control leaves the battlefield, put a 2/2 green Fungus c
 		<card>
 			<name>Living the Nightmare</name>
 			<text>Target creature get -3/-3 until end of turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/136.png" num="99">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/136.png" num="99">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2367,7 +2367,7 @@ Whenever a creature you control leaves the battlefield, put a 2/2 green Fungus c
 			<name>Village Rites</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Draw two cards.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/137.png" num="114">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/137.png" num="114">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2383,7 +2383,7 @@ Draw two cards.</text>
 		<card>
 			<name>One for the Team</name>
 			<text>Target creature you control get +3/+3 until end of turn. All creatures able to block it this turn do so.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/138.png" num="175">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/138.png" num="175">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2401,7 +2401,7 @@ Draw two cards.</text>
 			<text>Kicker— Return any number of creatures you control to their owner&apos;s hands.
 Search your library for two basic land cards and put them into your hand, then shuffle. 
 If you paid the Kicker cost, you may put X lands from your hand onto the battlefield tapped, where X is one plus the number of creatures you returned to your hand this turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/139.png" num="163">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/139.png" num="163">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2417,7 +2417,7 @@ If you paid the Kicker cost, you may put X lands from your hand onto the battlef
 		<card>
 			<name>Scorched-earth Strategy</name>
 			<text>Each opponent that has more lands than you sacrifices the difference.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/140.png" num="30">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/140.png" num="30">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2433,7 +2433,7 @@ If you paid the Kicker cost, you may put X lands from your hand onto the battlef
 		<card>
 			<name>Disband the Weaks</name>
 			<text>Creatures get -1/-1 until end of turn. Draw a card and lose 1 life.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/141.png" num="88">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/141.png" num="88">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2449,7 +2449,7 @@ If you paid the Kicker cost, you may put X lands from your hand onto the battlef
 		<card>
 			<name>Bloodprice Engine</name>
 			<text>{2}, {T}, sacrifice a creature: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/142.png" num="82">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/142.png" num="82">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2466,7 +2466,7 @@ If you paid the Kicker cost, you may put X lands from your hand onto the battlef
 			<name>Taken by Surprise</name>
 			<text>Kicker {G} (You may pay an additional {G} as you cast this spell.)
 Up to two target creatures each gain +2/+0. If you paid the kicker cost, they also gain trample until end of turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/143.png" num="183">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/143.png" num="183">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2482,7 +2482,7 @@ Up to two target creatures each gain +2/+0. If you paid the kicker cost, they al
 		<card>
 			<name>Peaceful Retreat</name>
 			<text>Draw three cards, then you may put a land onto the battlefield tapped.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/144.png" num="177">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/144.png" num="177">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2499,7 +2499,7 @@ Up to two target creatures each gain +2/+0. If you paid the kicker cost, they al
 			<name>Herald of Growth</name>
 			<text>When Herald of Growth enters the battlefield, draw a card.
 Sacrifice Herald of Growth: Put a +1/+1 counter on each beast you control.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/145.png" num="167">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/145.png" num="167">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2516,7 +2516,7 @@ Sacrifice Herald of Growth: Put a +1/+1 counter on each beast you control.</text
 		<card>
 			<name>Take a Revenge</name>
 			<text>Take a Revenge deals 3 damage to each creature and each player. If one or more non-token creature would die this way under your control, create that many 1/1 red Goblin creature token.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/146.png" num="147">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/146.png" num="147">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2532,7 +2532,7 @@ Sacrifice Herald of Growth: Put a +1/+1 counter on each beast you control.</text
 		<card>
 			<name>Terramorphic Expanse</name>
 			<text>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/147.png" num="253">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/147.png" num="253">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2547,7 +2547,7 @@ Sacrifice Herald of Growth: Put a +1/+1 counter on each beast you control.</text
 			<name>Cathedral of Valdor</name>
 			<text>When Cathedral of Valdor enters the battlefield, Scry 1.
 {T}: Add {W} or {U}. Cathedral of Valdor deals 1 damage to you.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/148.png" num="244">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/148.png" num="244">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2563,7 +2563,7 @@ Sacrifice Herald of Growth: Put a +1/+1 counter on each beast you control.</text
 			<name>Fortress of Geirdyn</name>
 			<text>When Fortress of Geirdyn enters the battlefield, Scry 1.
 {T}: Add {R} or {W}. Fortress of Geirdyn deals 1 damage to you.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/149.png" num="245">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/149.png" num="245">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2579,7 +2579,7 @@ Sacrifice Herald of Growth: Put a +1/+1 counter on each beast you control.</text
 			<name>Grotto of Penaloda</name>
 			<text>When Grotto of Penaloda enters the battlefield, Scry 1.
 {T}: Add {R} or {G}. Grotto of Penaloda deals 1 damage to you.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/150.png" num="246">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/150.png" num="246">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2595,7 +2595,7 @@ Sacrifice Herald of Growth: Put a +1/+1 counter on each beast you control.</text
 			<name>Palace of Rholt</name>
 			<text>When Palace of Rholt enters the battlefield, Scry 1.
 {T}: Add {B} or {G}. Palace of Rholt deals 1 damage to you.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/151.png" num="250">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/151.png" num="250">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2611,7 +2611,7 @@ Sacrifice Herald of Growth: Put a +1/+1 counter on each beast you control.</text
 			<name>Mausoleum of Udach</name>
 			<text>When Mausoleum of Udach enters the battlefield, Scry 1.
 {T}: Add {U} or {B}. Mausoleum of Udach deals 1 damage to you.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/152.png" num="248">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/152.png" num="248">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2626,7 +2626,7 @@ Sacrifice Herald of Growth: Put a +1/+1 counter on each beast you control.</text
 		<card>
 			<name>Peace Offering</name>
 			<text>{2}: Target creature neither deals nor receives combat damage this turn. Any player may activate this ability.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/153.png" num="62">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/153.png" num="62">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2644,7 +2644,7 @@ Sacrifice Herald of Growth: Put a +1/+1 counter on each beast you control.</text
 			<text>Create a 1/1 red Goblin creature token.
 Sacrifice a land: Eleiia, Leader of Fugitives deals X damage to any target, where X is two plus the number of lands you sacrificed this turn.
 Create X white and red Angel 4/4 tokens with Flying, where X is the number of lands in your graveyard.</text>
-			<set rarity="mythic" picurl="https://mse-hub/sets/DAD-files/img/154.png" num="194">DAD</set>
+			<set rarity="mythic" picurl="https://nicolassargos.github.io/sets/DAD-files/img/154.png" num="194">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2662,7 +2662,7 @@ Create X white and red Angel 4/4 tokens with Flying, where X is the number of la
 			<name>Priest of Purity</name>
 			<text>{W}, {T}: Gain 2 life.
 {U}, {T}: Target player mills three cards.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/155.png" num="210">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/155.png" num="210">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2680,7 +2680,7 @@ Create X white and red Angel 4/4 tokens with Flying, where X is the number of la
 			<name>Priest of Discord</name>
 			<text>{U}, {T}: Target creature with power 3 or less can&apos;t be blocked this turn.
 {B}, {T}: Target creature gain painlink until end of turn. (Damage dealt to this creature also causes you to lose that much life.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/156.png" num="206">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/156.png" num="206">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2698,7 +2698,7 @@ Create X white and red Angel 4/4 tokens with Flying, where X is the number of la
 			<name>Priest of Growth</name>
 			<text>{R}, {T}: Priest of Growth deals one damage to target creature. Damage can&apos;t be prevented this turn.
 {G}, {T}: Search your library for a basic forest, shuffle then put it on top of your library.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/157.png" num="208">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/157.png" num="208">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2716,7 +2716,7 @@ Create X white and red Angel 4/4 tokens with Flying, where X is the number of la
 			<name>Priest of Greed</name>
 			<text>{B}, {T}, Sacrifice two other creatures: Put target creature from your graveyard into your hand.
 {G}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/158.png" num="207">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/158.png" num="207">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2734,7 +2734,7 @@ Create X white and red Angel 4/4 tokens with Flying, where X is the number of la
 			<name>Priest of Order</name>
 			<text>{R}, {T}, Sacrifice a land: Create two white 1/1 Soldier creature token.
 {W}, {T}: Creatures you control get +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/159.png" num="209">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/159.png" num="209">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2752,7 +2752,7 @@ Create X white and red Angel 4/4 tokens with Flying, where X is the number of la
 			<name>Geirdyn Overlords</name>
 			<text>Flying, Double strike, Trample
 You may sacrifice any number of lands when you cast this spell. This spell costs {2} less to cast for each land sacrificed this way.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/160.png" num="128">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/160.png" num="128">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2769,7 +2769,7 @@ You may sacrifice any number of lands when you cast this spell. This spell costs
 		<card>
 			<name>Ascension to Enlightment</name>
 			<text>You have hexproof until end of turn. Prevent all damage that would be dealt to you or creatures you control this turn.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/161.png" num="4">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/161.png" num="4">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2787,7 +2787,7 @@ You may sacrifice any number of lands when you cast this spell. This spell costs
 			<text>Vigilance
 Other creatures you control get +1/+1.
 When Assashain, Homeless Outsider enters the battlefield, create a 3/3 green Beast creature token with trample.</text>
-			<set rarity="mythic" picurl="https://mse-hub/sets/DAD-files/img/162.png" num="193">DAD</set>
+			<set rarity="mythic" picurl="https://nicolassargos.github.io/sets/DAD-files/img/162.png" num="193">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2804,7 +2804,7 @@ When Assashain, Homeless Outsider enters the battlefield, create a 3/3 green Bea
 		<card>
 			<name>Musical Interlude</name>
 			<text>Exile all creatures, then return them onto the battlefield under their owner&apos;s control.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/163.png" num="17">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/163.png" num="17">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2820,7 +2820,7 @@ When Assashain, Homeless Outsider enters the battlefield, create a 3/3 green Bea
 		<card>
 			<name>Young Widow</name>
 			<text>Lands you control have &quot;{T}: Add one mana of any color&quot;.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/164.png" num="191">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/164.png" num="191">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2838,7 +2838,7 @@ When Assashain, Homeless Outsider enters the battlefield, create a 3/3 green Bea
 			<name>Praying the Dawn</name>
 			<text>Skip your draw step.
 Pay 1 life: Exile the top card of your library. At the beginning of your next end step, put that card into your hand. Any player may activate this ability.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/165.png" num="108">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/165.png" num="108">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2856,7 +2856,7 @@ Pay 1 life: Exile the top card of your library. At the beginning of your next en
 			<text>Choose one:
 - Return all land cards from your graveyard onto the battlefield tapped.
 - You may play any number of lands this turn.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/166.png" num="180">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/166.png" num="180">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2872,7 +2872,7 @@ Pay 1 life: Exile the top card of your library. At the beginning of your next en
 		<card>
 			<name>Velioth Experimentation</name>
 			<text>Flying</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/167.png" num="184">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/167.png" num="184">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2890,7 +2890,7 @@ Pay 1 life: Exile the top card of your library. At the beginning of your next en
 			<name>Meet Your Creator</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Search your library for a creature card with mana value less or equal to two plus the mana value of the sacrificed creature, put it onto the battlefield, then shuffle. If a creature entered this way, creatures you control have same base power and toughness as that creature until end of turn.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/168.png" num="203">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/168.png" num="203">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2906,7 +2906,7 @@ Search your library for a creature card with mana value less or equal to two plu
 		<card>
 			<name>Bring to Justice</name>
 			<text>When Bring to Justice enters the battlefield, exile target creature or planeswalker and all permanents with the same name until Bring to Justice leaves the battlefield.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/169.png" num="6">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/169.png" num="6">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2923,7 +2923,7 @@ Search your library for a creature card with mana value less or equal to two plu
 			<name>Champion of Geirdyn</name>
 			<text>First strike
 When Champion of Geirdyn attacks, tap up to two target creatures an opponent controls.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/170.png" num="7">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/170.png" num="7">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2943,7 +2943,7 @@ When Champion of Geirdyn attacks, tap up to two target creatures an opponent con
 - Destroy all enchantments
 - Gain 1 life for each creature you control
 - Creatures you control gain +1/+1 and trample until end of turn</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/171.png" num="170">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/171.png" num="170">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2961,7 +2961,7 @@ When Champion of Geirdyn attacks, tap up to two target creatures an opponent con
 			<text>Choose one:
 - Return all creatures to their owner&apos;s hand
 - Draw four cards</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/172.png" num="47">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/172.png" num="47">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2978,7 +2978,7 @@ When Champion of Geirdyn attacks, tap up to two target creatures an opponent con
 			<name>Hilena, Voice of the Legions</name>
 			<text>Flying, Vigilance
 When this creature attacks, put a +1/+1 counter on up to two other target creatures you control.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/173.png" num="16">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/173.png" num="16">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2996,7 +2996,7 @@ When this creature attacks, put a +1/+1 counter on up to two other target creatu
 			<name>Oath of the Saints</name>
 			<text>Kicker {1}{U}, Buyback {1}{G}{G}
 Prevent all combat damage target creature would deal this turn. If you paid the kicker cost, target player mills as many cards as the toughness of that creature.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/174.png" num="19">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/174.png" num="19">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3013,7 +3013,7 @@ Prevent all combat damage target creature would deal this turn. If you paid the 
 			<name>Oath of the Whisperers</name>
 			<text>Kicker {1}{B}, Buyback {1}{G}{G}
 Return target nonland permanent to its owner&apos;s hand. If you paid the kicker cost, target opponent discards a card.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/175.png" num="59">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/175.png" num="59">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3030,7 +3030,7 @@ Return target nonland permanent to its owner&apos;s hand. If you paid the kicker
 			<name>Oath of the Damned</name>
 			<text>Kicker {1}{U}, Buyback {1}{R}{R}
 Target player sacrifices a creature. If you paid the kicker cost, whenever a creature you control deals combat damage to a player this turn, draw a card.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/176.png" num="104">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/176.png" num="104">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3047,7 +3047,7 @@ Target player sacrifices a creature. If you paid the kicker cost, whenever a cre
 			<name>Oath of the Beloved</name>
 			<text>Kicker {1}{R}, Buyback {1}{U}{U}
 Target creature get +3/+3 until end of turn. If you paid the kicker cost, Oath of the Beloved deals 2 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/177.png" num="173">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/177.png" num="173">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3064,7 +3064,7 @@ Target creature get +3/+3 until end of turn. If you paid the kicker cost, Oath o
 			<name>Oath of the Veterans</name>
 			<text>Kicker {1}{W}, Buyback {1}{B}{B}
 Create a 1/1 red Goblin creature token with haste. If you paid the kicker cost, creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/178.png" num="141">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/178.png" num="141">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3081,7 +3081,7 @@ Create a 1/1 red Goblin creature token with haste. If you paid the kicker cost, 
 			<name>Oath of the Conquerors</name>
 			<text>Kicker {1}{R}, Buyback {1}{U}{U}
 Put a +1/+1 counter on up to two target creatures. If you paid the kicker cost, destroy target artifact.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/179.png" num="18">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/179.png" num="18">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3098,7 +3098,7 @@ Put a +1/+1 counter on up to two target creatures. If you paid the kicker cost, 
 			<name>Oath of the Believers</name>
 			<text>Kicker {1}{W}, Buyback {1}{B}{B}
 Scry 2, then draw a card. If you paid the kicker cost, destroy target enchantment.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/180.png" num="58">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/180.png" num="58">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3115,7 +3115,7 @@ Scry 2, then draw a card. If you paid the kicker cost, destroy target enchantmen
 			<name>Oath of the Forsakens</name>
 			<text>Kicker {1}{G}, Buyback {1}{R}{R}
 Sacrifice a creature. If you sacrifice a creature this way, draw two cards. If you paid the kicker cost, return target creature from your graveyard to your hand and gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/181.png" num="105">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/181.png" num="105">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3132,7 +3132,7 @@ Sacrifice a creature. If you sacrifice a creature this way, draw two cards. If y
 			<name>Oath of the Lonely</name>
 			<text>Kicker {1}{B}, Buyback {1}{W}{W}
 Put two +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with trample that is still a land. If you paid the kicker cost, double the number of counters on target permanent.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/182.png" num="174">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/182.png" num="174">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3149,7 +3149,7 @@ Put two +1/+1 counters on up to one target noncreature land you control. Untap i
 			<name>Oath of the Vengeful</name>
 			<text>Kicker {1}{G}, Buyback {1}{W}{W}
 Damage can&apos;t be prevented this turn. Whenever a creature blocks this turn, it deals one damage to its controller. If you paid the kicker cost, Oath of the Vengeful deals 2 damages to all creatures.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/183.png" num="140">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/183.png" num="140">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3167,7 +3167,7 @@ Damage can&apos;t be prevented this turn. Whenever a creature blocks this turn, 
 			<text>Protection from Beasts
 Creatures you control have haste.
 Whenever a land is put into your graveyard from the battlefield, put a +1/+1 counter on each creature you control.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/184.png" num="220">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/184.png" num="220">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3185,7 +3185,7 @@ Whenever a land is put into your graveyard from the battlefield, put a +1/+1 cou
 			<name>Srod, Offspring of Growth</name>
 			<text>Hexproof, Trample
 Srod, Offspring of Growth can&apos;t be blocked by more than two creatures.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/185.png" num="230">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/185.png" num="230">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3203,7 +3203,7 @@ Srod, Offspring of Growth can&apos;t be blocked by more than two creatures.</tex
 			<name>Menelas, Voice of Greed</name>
 			<text>Deathtouch
 {T}, Sacrifice a non-token creature you control: Reveal the top cards of your library until you reveal a creature card. Put that creature onto the battlefield and all other cards revealed this way on the bottom of your library in a random order. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/186.png" num="223">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/186.png" num="223">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3221,7 +3221,7 @@ Srod, Offspring of Growth can&apos;t be blocked by more than two creatures.</tex
 			<name>Thessene, Symbol of Purity</name>
 			<text>Defender
 Other creatures have base power 1.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/187.png" num="231">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/187.png" num="231">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3239,7 +3239,7 @@ Other creatures have base power 1.</text>
 			<name>Relic of Past Glory</name>
 			<text>When Relic of Past Glory enters the battlefield, scry 1.
 {T}: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/188.png" num="239">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/188.png" num="239">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3254,7 +3254,7 @@ Other creatures have base power 1.</text>
 			<name>Oblivion Ring</name>
 			<text>When Oblivion Ring enters the battlefield, exile another target nonland permanent.
 When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner&apos;s control.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/189.png" num="21">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/189.png" num="21">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3272,7 +3272,7 @@ When Oblivion Ring leaves the battlefield, return the exiled card to the battlef
 			<text>Kicker {1}{W}{W} (You may pay an additional {1}{W}{W} as you cast this spell.)
 If you paid the kicker cost, Obedient Vanguard enters with a +1/+1 counter on it.
 Whenever Obedient Vanguard enters or attacks, if it has a +1/+1 counter on it, create a 1/1 white Soldier creature token.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/190.png" num="20">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/190.png" num="20">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3290,7 +3290,7 @@ Whenever Obedient Vanguard enters or attacks, if it has a +1/+1 counter on it, c
 			<name>Rumbling Monster</name>
 			<text>Trample
 Whenever Rumbling Monster deals damage to an opponent, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/191.png" num="181">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/191.png" num="181">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3307,7 +3307,7 @@ Whenever Rumbling Monster deals damage to an opponent, look at the top four card
 		<card>
 			<name>Uxizas, Lightning Oracle</name>
 			<text>{3}{U}{U}: Reveal the top three cards of your library. An opponent chooses one of them. Put the chosen card into your graveyard and the rest into your hand. Activate only as sorcery.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/192.png" num="74">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/192.png" num="74">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3324,7 +3324,7 @@ Whenever Rumbling Monster deals damage to an opponent, look at the top four card
 		<card>
 			<name>Tradewind Expert</name>
 			<text>Tap three untapped creatures you control: Return target creature to its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/193.png" num="73">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/193.png" num="73">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3343,7 +3343,7 @@ Whenever Rumbling Monster deals damage to an opponent, look at the top four card
 			<text>Kicker— Sacrifice a land (You may Sacrifice a land in addition to any other costs as you cast this spell.)
 Haste
 Wildbane Elemental enters the battlefield with X +1/+1 counter on it, where X is the number of land cards in your graveyard.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/194.png" num="152">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/194.png" num="152">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3360,7 +3360,7 @@ Wildbane Elemental enters the battlefield with X +1/+1 counter on it, where X is
 		<card>
 			<name>Wicked Aberration</name>
 			<text>{2}{G}{G}: Create a 3/3 green Beast creature token.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/195.png" num="185">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/195.png" num="185">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3377,7 +3377,7 @@ Wildbane Elemental enters the battlefield with X +1/+1 counter on it, where X is
 		<card>
 			<name>Pause in Time</name>
 			<text>Take an extra turn after this one, then target opponent takes an extra turn after his next turn.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/196.png" num="61">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/196.png" num="61">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3393,7 +3393,7 @@ Wildbane Elemental enters the battlefield with X +1/+1 counter on it, where X is
 		<card>
 			<name>Harvest the Moon&apos;s Promises</name>
 			<text>Each player discards their hand, then draws seven cards.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/197.png" num="134">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/197.png" num="134">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3409,7 +3409,7 @@ Wildbane Elemental enters the battlefield with X +1/+1 counter on it, where X is
 		<card>
 			<name>Permanent Equilibrium</name>
 			<text>At the beginning of each player&apos;s upkeep, that player looks at the top three cards of their library then put them back in any order. They may then reveal the top card of their library: If that card is a land or a creature card and they control less permanents of that type than any of their opponents, they put it onto the battlefield.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/198.png" num="178">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/198.png" num="178">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3427,7 +3427,7 @@ Wildbane Elemental enters the battlefield with X +1/+1 counter on it, where X is
 			<text>When Wild Experimentation enters the battlefield, sacrifice a creature.
 Creatures you control that share a type with the sacrificed creature get +2/+2, have haste and must attack each turn if able.
 At the beginning of your combat phase, create a 1/1 red Shapeshifter creature token with changeling.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/199.png" num="151">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/199.png" num="151">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3445,7 +3445,7 @@ At the beginning of your combat phase, create a 1/1 red Shapeshifter creature to
 			<text>Target creature can&apos;t be blocked this turn.
 Return target creature to its owner&apos;s hand. That player discards a card.
 Gain control of each creature with power equal or less than the number of islands you control, then destroy creatures you don&apos;t control.</text>
-			<set rarity="mythic" picurl="https://mse-hub/sets/DAD-files/img/200.png" num="201">DAD</set>
+			<set rarity="mythic" picurl="https://nicolassargos.github.io/sets/DAD-files/img/200.png" num="201">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3464,7 +3464,7 @@ Gain control of each creature with power equal or less than the number of island
 			<text>Draw a card. You lose 2 life.
 Destroy target creature or planeswalker.
 Return up to X target creatures from your graveyard to your hand.</text>
-			<set rarity="mythic" picurl="https://mse-hub/sets/DAD-files/img/201.png" num="96">DAD</set>
+			<set rarity="mythic" picurl="https://nicolassargos.github.io/sets/DAD-files/img/201.png" num="96">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3482,7 +3482,7 @@ Return up to X target creatures from your graveyard to your hand.</text>
 			<name>Smint</name>
 			<text>Trample
 Whenever you sacrifice a permanent, put a +1/+1 counter on Smint and it gains menace until end of turn.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/202.png" num="211">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/202.png" num="211">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3499,7 +3499,7 @@ Whenever you sacrifice a permanent, put a +1/+1 counter on Smint and it gains me
 		<card>
 			<name>Guided Purification</name>
 			<text>Exile target non-land permanent, then Scry 1.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/203.png" num="14">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/203.png" num="14">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3515,7 +3515,7 @@ Whenever you sacrifice a permanent, put a +1/+1 counter on Smint and it gains me
 		<card>
 			<name>Radiant Resolve</name>
 			<text>Target creature gains +2/+1 and lifelink until end of turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/204.png" num="26">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/204.png" num="26">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3532,7 +3532,7 @@ Whenever you sacrifice a permanent, put a +1/+1 counter on Smint and it gains me
 			<name>Zephyr Net</name>
 			<text>Enchant creature
 Enchanted creature has defender and flying.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/205.png" num="76">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/205.png" num="76">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3550,7 +3550,7 @@ Enchanted creature has defender and flying.</text>
 			<text>Choose one:
 - Destroy target creature with Defender.
 - Target player discards two cards and looses 2 life.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/206.png" num="102">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/206.png" num="102">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3568,7 +3568,7 @@ Enchanted creature has defender and flying.</text>
 			<text>Choose one
 - Creatures you control gain +2/+0 until end of turn.
 - Create two Treasure tokens.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/207.png" num="120">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/207.png" num="120">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3584,7 +3584,7 @@ Enchanted creature has defender and flying.</text>
 		<card>
 			<name>Psychic Touch</name>
 			<text>Target creature gains Deathtouch until end of turn It fights another creature you don&apos;t control.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/208.png" num="179">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/208.png" num="179">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3600,7 +3600,7 @@ Enchanted creature has defender and flying.</text>
 		<card>
 			<name>True Betrayal</name>
 			<text>Return target creature to its owner&apos;s hand, then that player discards a card.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/209.png" num="214">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/209.png" num="214">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3618,7 +3618,7 @@ Enchanted creature has defender and flying.</text>
 			<text>Steep Hill enters tapped.
 {T}: Add {R}.
 {T}, Sacrifice Steep Hill: Target creature gains +1/+0 and haste until end of turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/210.png" num="252">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/210.png" num="252">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3635,7 +3635,7 @@ Enchanted creature has defender and flying.</text>
 			<text>Untouched Mangrove enters tapped.
 {T}: Add {G}.
 {T}, Sacrifice Untouched Mangrove: Create a Treasure token.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/211.png" num="254">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/211.png" num="254">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3652,7 +3652,7 @@ Enchanted creature has defender and flying.</text>
 			<text>Secret Grasslands enters tapped.
 {T}: Add {W}.
 {T}, Sacrifice Secret Grasslands: Create a 0/2 white Goat creature token.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/212.png" num="251">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/212.png" num="251">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3669,7 +3669,7 @@ Enchanted creature has defender and flying.</text>
 			<text>Hidden Pool enters tapped.
 {T}: Add {U}.
 {T}, Sacrifice Hidden Pool: Surveil 2.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/213.png" num="247">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/213.png" num="247">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3686,7 +3686,7 @@ Enchanted creature has defender and flying.</text>
 			<text>Muddy Trail enters tapped.
 {T}: Add {B}.
 {T}, Sacrifice Muddy Trail: Target creature gains +1/+0 and menace until end of turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/214.png" num="249">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/214.png" num="249">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3701,7 +3701,7 @@ Enchanted creature has defender and flying.</text>
 		<card>
 			<name>Altar of Renewed Knowledge</name>
 			<text>{5}, {T}, Sacrifice Altar of Renewed Knowledge : Destroy target permanent. Shuffle up to four cards from your graveyard to your library.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/215.png" num="234">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/215.png" num="234">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3715,7 +3715,7 @@ Enchanted creature has defender and flying.</text>
 		<card>
 			<name>Orderbound Apprentice</name>
 			<text>{1}{W}, {T}: Tap target non-human creature.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/216.png" num="22">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/216.png" num="22">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3733,7 +3733,7 @@ Enchanted creature has defender and flying.</text>
 			<name>Herald of the Armada</name>
 			<text>Flying, Protection from Black
 Whenever this creature attacks, you may have target creature you control gain flying until end of turn.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/217.png" num="15">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/217.png" num="15">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3750,7 +3750,7 @@ Whenever this creature attacks, you may have target creature you control gain fl
 		<card>
 			<name>Feedback Elemental</name>
 			<text>Painlink (Damage dealt to this creature also causes you to lose that much life.)</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/218.png" num="49">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/218.png" num="49">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3768,7 +3768,7 @@ Whenever this creature attacks, you may have target creature you control gain fl
 			<name>Armada Scout</name>
 			<text>Flying
 Whenever this creature deals combat damage to a player, draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/219.png" num="41">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/219.png" num="41">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3786,7 +3786,7 @@ Whenever this creature deals combat damage to a player, draw a card, then discar
 			<name>Chronicle Relic</name>
 			<text>When Chronicle Relic enters, scry 3.
 {T}, sacrifice Chronicle Relic: Shuffle your graveyard into your library. Draw a card. Activate this ability as a sorcery.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/220.png" num="235">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/220.png" num="235">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3801,7 +3801,7 @@ Whenever this creature deals combat damage to a player, draw a card, then discar
 			<name>Carrion Climber</name>
 			<text>Menace
 At the beginning of each end step, if a creature you controlled died this turn, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/221.png" num="84">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/221.png" num="84">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3819,7 +3819,7 @@ At the beginning of each end step, if a creature you controlled died this turn, 
 			<name>Whispering Shadow</name>
 			<text>Flying
 When this creature enters, draw a card and loose 1 life.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/222.png" num="115">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/222.png" num="115">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3836,7 +3836,7 @@ When this creature enters, draw a card and loose 1 life.</text>
 		<card>
 			<name>Pathbreaker Elemental</name>
 			<text>When this creature enters, target creature can&apos;t block until end turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/223.png" num="143">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/223.png" num="143">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3854,7 +3854,7 @@ When this creature enters, draw a card and loose 1 life.</text>
 			<name>Frenzy Piker</name>
 			<text>Haste
 When this creature enters, target creature gains first strike until end of turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/224.png" num="124">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/224.png" num="124">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3872,7 +3872,7 @@ When this creature enters, target creature gains first strike until end of turn.
 			<name>Loamkeeper Sapling</name>
 			<text>Defender
 When this creature enters, mill four cards. You may put a land card from among the cards milled this way into your hand.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/225.png" num="168">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/225.png" num="168">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3889,7 +3889,7 @@ When this creature enters, mill four cards. You may put a land card from among t
 		<card>
 			<name>Wildgrove Channeler</name>
 			<text>Whenever a land enters under your control, put a +1/+1 counter on target Beast creature you control.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/226.png" num="186">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/226.png" num="186">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3906,7 +3906,7 @@ When this creature enters, mill four cards. You may put a land card from among t
 		<card>
 			<name>Grovebirth Elemental</name>
 			<text>When this creature enters, create a 2/2 green Beast creature token.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/227.png" num="162">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/227.png" num="162">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3924,7 +3924,7 @@ When this creature enters, mill four cards. You may put a land card from among t
 			<name>Harrow</name>
 			<text>As an additional cost to cast Harrow, sacrifice a land.
 Search your library for up to two basic land cards and put them onto the battlefield, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/228.png" num="165">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/228.png" num="165">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3940,7 +3940,7 @@ Search your library for up to two basic land cards and put them onto the battlef
 		<card>
 			<name>Fecund Renewal</name>
 			<text>At the beginning of your end step, if a creature died this turn under your control, draw a card.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/229.png" num="161">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/229.png" num="161">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3957,7 +3957,7 @@ Search your library for up to two basic land cards and put them onto the battlef
 			<name>Wildgrowth Den</name>
 			<text>Enchant land
 Enchanted land has &quot;{1}{G}, {T}: Create a 3/3 green Beast creature token.&quot;</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/230.png" num="187">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/230.png" num="187">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3973,7 +3973,7 @@ Enchanted land has &quot;{1}{G}, {T}: Create a 3/3 green Beast creature token.&q
 		<card>
 			<name>Cycles of Renewal</name>
 			<text>Mill four cards, then gain 2 life for each creature card in your graveyard.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/231.png" num="157">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/231.png" num="157">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3989,7 +3989,7 @@ Enchanted land has &quot;{1}{G}, {T}: Create a 3/3 green Beast creature token.&q
 		<card>
 			<name>Valiant Banneret</name>
 			<text>When this creature enters, creatures you control gain +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/232.png" num="35">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/232.png" num="35">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4006,7 +4006,7 @@ Enchanted land has &quot;{1}{G}, {T}: Create a 3/3 green Beast creature token.&q
 		<card>
 			<name>Inferno Surge</name>
 			<text>Inferno Surge deals X damage to any target. If a creature would die this way, exile it instead.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/233.png" num="136">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/233.png" num="136">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4023,7 +4023,7 @@ Enchanted land has &quot;{1}{G}, {T}: Create a 3/3 green Beast creature token.&q
 			<name>Cleansing Rite</name>
 			<text>Kicker {W} (You may pay an additional {W} as you cast this spell.)
 Destroy target artifact or enchantment. If you paid the kicker cost, gain life equal to its mana value.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/234.png" num="8">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/234.png" num="8">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4040,7 +4040,7 @@ Destroy target artifact or enchantment. If you paid the kicker cost, gain life e
 			<name>Aerial Bulwark</name>
 			<text>Defender, Flying
 Other creatures you control with defender gain +0/+1.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/235.png" num="1">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/235.png" num="1">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4058,7 +4058,7 @@ Other creatures you control with defender gain +0/+1.</text>
 			<name>Divine Uplift</name>
 			<text>Enchant creature
 Enchanted creature gains +2/+2 and flying. Draw a card.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/236.png" num="10">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/236.png" num="10">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4075,7 +4075,7 @@ Enchanted creature gains +2/+2 and flying. Draw a card.</text>
 			<name>Siegebreaker Engine</name>
 			<text>Defender
 {T}: Destroy target creature with defender. Put a stun counter on this creature.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/237.png" num="240">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/237.png" num="240">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4091,7 +4091,7 @@ Enchanted creature gains +2/+2 and flying. Draw a card.</text>
 			<name>Thought Reservoir</name>
 			<text>Whenever a non-token creature enters under your control, put a sapience counter on Thought Reservoir.
 Remove four sapience counters from Thought Reservoir: Draw three cards.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/238.png" num="72">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/238.png" num="72">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4108,7 +4108,7 @@ Remove four sapience counters from Thought Reservoir: Draw three cards.</text>
 			<name>Aether Reversal</name>
 			<text>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
 Return up to two creatures to their owner&apos;s hands. If you paid the kicker cost, draw a card.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/239.png" num="39">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/239.png" num="39">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4124,7 +4124,7 @@ Return up to two creatures to their owner&apos;s hands. If you paid the kicker c
 		<card>
 			<name>Gale Ambusher</name>
 			<text>Flash, Flying</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/240.png" num="51">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/240.png" num="51">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4141,7 +4141,7 @@ Return up to two creatures to their owner&apos;s hands. If you paid the kicker c
 		<card>
 			<name>Augury Wisp</name>
 			<text>When this creature enters, scry 2.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/241.png" num="42">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/241.png" num="42">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4159,7 +4159,7 @@ Return up to two creatures to their owner&apos;s hands. If you paid the kicker c
 			<name>Disturbed Burial</name>
 			<text>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
 Return target creature card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/242.png" num="89">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/242.png" num="89">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4175,7 +4175,7 @@ Return target creature card from your graveyard to your hand.</text>
 		<card>
 			<name>Bloodtithe Apprentice</name>
 			<text>Sacrifice a creature: Put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/243.png" num="83">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/243.png" num="83">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4193,7 +4193,7 @@ Return target creature card from your graveyard to your hand.</text>
 			<name>Culling the Weak</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Add {B}{B}{B}{B}.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/244.png" num="86">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/244.png" num="86">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4209,7 +4209,7 @@ Add {B}{B}{B}{B}.</text>
 		<card>
 			<name>Gravedigger Apprentice</name>
 			<text>When this creature enters, return target creature with mana value 3 or less from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/245.png" num="94">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/245.png" num="94">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4228,7 +4228,7 @@ Add {B}{B}{B}{B}.</text>
 			<text>Enchant creature
 Enchanted creature has menace.
 Whenever enchanted creature attacks, if you have one or more lands in your graveyard, create a treasure token.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/246.png" num="150">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/246.png" num="150">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4244,7 +4244,7 @@ Whenever enchanted creature attacks, if you have one or more lands in your grave
 		<card>
 			<name>Ruinbound Minotaur</name>
 			<text>When this creature enters, sacrifice it unless you sacrificed a land this turn.</text>
-			<set rarity="uncommon" picurl="https://mse-hub/sets/DAD-files/img/247.png" num="145">DAD</set>
+			<set rarity="uncommon" picurl="https://nicolassargos.github.io/sets/DAD-files/img/247.png" num="145">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4261,7 +4261,7 @@ Whenever enchanted creature attacks, if you have one or more lands in your grave
 		<card>
 			<name>Landscorch Ogre</name>
 			<text>When this creature enters, you may sacrifice a land. If you do, it deals damage equal to its power to target opponent.</text>
-			<set rarity="common" picurl="https://mse-hub/sets/DAD-files/img/248.png" num="138">DAD</set>
+			<set rarity="common" picurl="https://nicolassargos.github.io/sets/DAD-files/img/248.png" num="138">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4279,7 +4279,7 @@ Whenever enchanted creature attacks, if you have one or more lands in your grave
 			<name>Landlord&apos;s Chest</name>
 			<text>Whenever Landlord&apos;s Chest enters or you sacrifice a land, create a treasure Token.
 {T}, sacrifice Landlord&apos;s Chest: Add one mana of any color.</text>
-			<set rarity="special" picurl="https://mse-hub/sets/DAD-files/img/249.png" num="258">DAD</set>
+			<set rarity="special" picurl="https://nicolassargos.github.io/sets/DAD-files/img/249.png" num="258">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4295,7 +4295,7 @@ Whenever enchanted creature attacks, if you have one or more lands in your grave
 		<card>
 			<name>Father of Demise</name>
 			<text>{T}: Target spell or permanent you control gains heritage until end of turn.</text>
-			<set rarity="special" picurl="https://mse-hub/sets/DAD-files/img/250.png" num="257">DAD</set>
+			<set rarity="special" picurl="https://nicolassargos.github.io/sets/DAD-files/img/250.png" num="257">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4313,7 +4313,7 @@ Whenever enchanted creature attacks, if you have one or more lands in your grave
 			<name>Angel of the Big Titties</name>
 			<text>Flying, Vigilance
 Whenever this creature deals combat damage to a player, you may search your library for a plains card and put it into you hand then shuffle.</text>
-			<set rarity="special" picurl="https://mse-hub/sets/DAD-files/img/251.png" num="255">DAD</set>
+			<set rarity="special" picurl="https://nicolassargos.github.io/sets/DAD-files/img/251.png" num="255">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4331,7 +4331,7 @@ Whenever this creature deals combat damage to a player, you may search your libr
 			<name>Kewok, Land-Eater Ketone</name>
 			<text>Whenever a land enters under your control, put a +1/+1 counter on this creature.
 Whenever a land is put into your graveyard from anywhere, this creature gains trample and is indestructible until end of turn.</text>
-			<set rarity="special" picurl="https://mse-hub/sets/DAD-files/img/252.png" num="259">DAD</set>
+			<set rarity="special" picurl="https://nicolassargos.github.io/sets/DAD-files/img/252.png" num="259">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4348,7 +4348,7 @@ Whenever a land is put into your graveyard from anywhere, this creature gains tr
 		<card>
 			<name>Incremental Revelation</name>
 			<text>At the beginning of your upkeep, put a charge counter on Incremental Revelation, then you may discard an instant or sorcery card from your hand. If you do, search your library for an instant or sorcery card with mana value less than or equal to the number of charge counters on Incremental Revelation.</text>
-			<set rarity="special" picurl="https://mse-hub/sets/DAD-files/img/253.png" num="256">DAD</set>
+			<set rarity="special" picurl="https://nicolassargos.github.io/sets/DAD-files/img/253.png" num="256">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4366,7 +4366,7 @@ Whenever a land is put into your graveyard from anywhere, this creature gains tr
 			<text>Flying, trample
 When this creature enters, destroy target creature or planeswalker.
 At the beginning of your upkeep, loose 2 life.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/254.png" num="87">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/254.png" num="87">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4384,7 +4384,7 @@ At the beginning of your upkeep, loose 2 life.</text>
 			<name>Archon of the Unbroken Charge</name>
 			<text>Flying, Protection from black
 Whenever this creature attacks, untap all other creatures you control.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/255.png" num="2">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/255.png" num="2">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4403,7 +4403,7 @@ Whenever this creature attacks, untap all other creatures you control.</text>
 			<text>Enchant creature card in a graveyard
 When this Aura enters, if it&apos;s on the battlefield, it loses &quot;enchant creature card in a graveyard&quot; and gains &quot;enchant creature put onto the battlefield with this Aura.&quot; Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature&apos;s controller sacrifices it.
 Enchanted creature gets -1/-0.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/256.png" num="80">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/256.png" num="80">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4420,7 +4420,7 @@ Enchanted creature gets -1/-0.</text>
 			<name>Ragepack Inciter</name>
 			<text>Menace
 Other Beast creatures you control get +1/+0 and have menace.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/257.png" num="144">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/257.png" num="144">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4438,7 +4438,7 @@ Other Beast creatures you control get +1/+0 and have menace.</text>
 			<name>Sphinx of Endless Insight</name>
 			<text>Flying
 Whenever you cast an instant or sorcery spell, draw a card.</text>
-			<set rarity="rare" picurl="https://mse-hub/sets/DAD-files/img/258.png" num="68">DAD</set>
+			<set rarity="rare" picurl="https://nicolassargos.github.io/sets/DAD-files/img/258.png" num="68">DAD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

@@ -69,7 +69,17 @@ def generateFile(code):
 			"mana_cost": "''' + re.sub(h_pattern, h_replace, card['cost']) + '''",
 			"type": "''' + card['type'] + '''",
 			"collector_number": "''' + str(card['number']) + '''",
+			"oracle_text": ''' + json.dumps(card.get('rules_text', '')) + ''',
 	'''
+
+		if card.get('pt'):
+			pt = card['pt'].split('/')
+			if len(pt) == 2:
+				draft_string += '\t\t"power": ' + json.dumps(pt[0].strip()) + ',\n\t'
+				draft_string += '\t\t"toughness": ' + json.dumps(pt[1].strip()) + ',\n\t'
+
+		if card.get('loyalty'):
+			draft_string += '\t\t"loyalty": ' + json.dumps(card['loyalty']) + ',\n\t'
 
 		# CE: this is for any custom types that use a rotated frame
 		split_types = [ 'Projectile' ]
@@ -107,7 +117,8 @@ def generateFile(code):
 	p1p1 = []
 	for slot in structure:
 		slot_list = []
-		draft_string += '''[''' + slot['name'] + '''(''' + str(slot['count']) + ''')]
+		safe_slot_name = slot['name'].replace(' | ', '_or_')
+		draft_string += '''[''' + safe_slot_name + '''(''' + str(slot['count']) + ''')]
 '''
 		for c in booster[slot['name']]:
 			count = -1

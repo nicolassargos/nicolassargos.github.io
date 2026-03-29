@@ -112,7 +112,7 @@ for entry in os.scandir('.'):
 #CE: auto-generate site-config.json
 repo_name = os.path.basename(os.getcwd())
 default_config = {
-	"base_url": f"https://{repo_name}"
+	"base_url": f"https://nicolassargos.github.io"
 }
 with open(os.path.join('resources', 'site-config.json'), 'w', encoding='utf-8-sig') as f:
 	json.dump(default_config, f, indent=4)
