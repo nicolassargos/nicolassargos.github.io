@@ -1,4 +1,77 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Incomplete Funeral added.
+
+Animate Dead removed.
+
+Imploring Menetre
+cost: {1}{B}{G} => {1}{B}{B}
+
+Order at Stake
+rules_text: Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]
+Order at Stake deals 2 damage to any target. If you paid the kicker cost, create a 1/1 white Soldier creature token. => Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]
+Order at Stake deals 2 damage to any target. If you paid the kicker cost, create a 1/1 red Goblin creature token.
+
+Sneaky Zombie
+rules_text: Defender
+At the beginning of your upkeep, you may exile a creature card from your graveyard. If you exiled a card this way, Sneaky Zombie looses Defender and can't be blocked until end of turn. => Defender
+At the beginning of your upkeep, you may exile a creature card from your graveyard. If you exiled a card this way, Sneaky Zombie loses defender and can't be blocked until end of turn.
+
+Haven of Rogues
+rules_text: Defender
+Sacrifice a creature: Gain life equal to its toughness. => Defender, Reach
+Sacrifice a creature: Gain life equal to its toughness.
+
+Serra Child
+rules_text: Flying
+When Purity's Child enters the battlefield, gain 1 life for each creature you control. => Flying
+When this creature enters, gain 1 life for each creature you control.
+
+Corrupted Missionary
+rules_text: When [i]Corrupted[/i] Missionary enters the battlefield, target creature get -1/-1 until end of turn and its controller looses one life. => When [i]Corrupted[/i] Missionary enters the battlefield, target creature get -1/-1 until end of turn and its controller loses one life.
+
+Rumbling Monster
+rules_text: Trample
+Whenever Rumbling Monster deals damage to an opponent, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. => Trample
+Whenever Rumbling Monster deals damage to an opponent, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest under your library in any order.
+
+Neuralgia
+rules_text: Choose one:
+- Destroy target creature with Defender.
+- Target player discards two cards and looses 2 life. => Choose one:
+- Destroy target creature with defender.
+- Target player discards two cards and loses 2 life.
+
+Chronicle Relic
+rules_text: When Chronicle Relic enters, scry 3.
+{T}, sacrifice Chronicle Relic: Shuffle your graveyard into your library. Draw a card. Activate this ability as a sorcery. => When Chronicle Relic enters, scry 3.
+{T}, sacrifice Chronicle Relic: Shuffle your graveyard into your library. Draw a card.
+
+Whispering Shadow
+rules_text: Flying
+When this creature enters, draw a card and loose 1 life. => Flying
+When this creature enters, draw a card and lose 1 life.
+
+Wildgrowth Den
+cost: {2}{G} => {1}{G}
+rules_text: Enchant land
+Enchanted land has “{1}{G}, {T}: Create a 3/3 green Beast creature token.” => Enchant land
+Enchanted land has “{2}{G}, {T}: Create a 3/3 green Beast creature token. Activate this ability as a sorcery.”
+
+Divine Uplift
+rules_text: Enchant creature
+Enchanted creature gains +2/+2 and flying. Draw a card. => Enchant creature
+Enchanted creature gains +2/+2 and flying. 
+When Divine Uplift enters, draw a card.
+
+Angel of the Big Titties
+rules_text: Flying, Vigilance
+Whenever this creature deals combat damage to a player, you may search your library for a plains card and put it into you hand then shuffle. => Flying, Vigilance
+Whenever this creature deals combat damage to a player, if you control less lands than an opponent, you may search your library for a plains card and put it into you hand, then shuffle.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Harvest the Moon's Promises added.

@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Igdiul, Phyrexian Scourge",
-        "number": 96,
+        "number": 95,
         "shape": "planeswalker",
         "set": "DAD",
         "rotated": false,
@@ -56,12 +56,12 @@
         "position": "172"
     },
     {
-        "card_name": "Animate Dead",
-        "number": 80,
+        "card_name": "Devotee of Viphiozes",
+        "number": 86,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "256"
+        "position": "254"
     },
     {
         "card_name": "Gonoko, The Fourth Brother",
@@ -96,12 +96,12 @@
         "position": "52"
     },
     {
-        "card_name": "Devotee of Viphiozes",
-        "number": 87,
+        "card_name": "Giniki, The Third Brother",
+        "number": 92,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "254"
+        "position": "47"
     },
     {
         "card_name": "Harvest the Moon's Promises",
@@ -136,12 +136,12 @@
         "position": "44"
     },
     {
-        "card_name": "Giniki, The Third Brother",
-        "number": 93,
+        "card_name": "Ihsan, Corrupted Knight",
+        "number": 96,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "47"
+        "position": "59"
     },
     {
         "card_name": "Keeper of Order",
@@ -176,12 +176,12 @@
         "position": "196"
     },
     {
-        "card_name": "Ihsan, Corrupted Knight",
+        "card_name": "Imploring Menetre",
         "number": 97,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "59"
+        "position": "14"
     },
     {
         "card_name": "Ragepack Inciter",
@@ -497,7 +497,7 @@
     },
     {
         "card_name": "Bloodprice Engine",
-        "number": 82,
+        "number": 81,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -537,7 +537,7 @@
     },
     {
         "card_name": "Disband the Weaks",
-        "number": 88,
+        "number": 87,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -577,7 +577,7 @@
     },
     {
         "card_name": "Ghost Parasite",
-        "number": 92,
+        "number": 91,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -617,7 +617,7 @@
     },
     {
         "card_name": "Greed Lost Adept",
-        "number": 95,
+        "number": 94,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -937,7 +937,7 @@
     },
     {
         "card_name": "Blessed by Disease",
-        "number": 81,
+        "number": 80,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -977,7 +977,7 @@
     },
     {
         "card_name": "Bloodtithe Apprentice",
-        "number": 83,
+        "number": 82,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1017,7 +1017,7 @@
     },
     {
         "card_name": "Carrion Climber",
-        "number": 84,
+        "number": 83,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1057,7 +1057,7 @@
     },
     {
         "card_name": "Corrupted Missionary",
-        "number": 85,
+        "number": 84,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1097,7 +1097,7 @@
     },
     {
         "card_name": "Culling the Weak",
-        "number": 86,
+        "number": 85,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1137,7 +1137,7 @@
     },
     {
         "card_name": "Disturbed Burial",
-        "number": 89,
+        "number": 88,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1177,7 +1177,7 @@
     },
     {
         "card_name": "Emissary of Fear",
-        "number": 90,
+        "number": 89,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1217,7 +1217,7 @@
     },
     {
         "card_name": "Enslaved Reveler",
-        "number": 91,
+        "number": 90,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1257,7 +1257,7 @@
     },
     {
         "card_name": "Gravedigger Apprentice",
-        "number": 94,
+        "number": 93,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
@@ -1949,12 +1949,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "Imploring Menetre",
+        "card_name": "Incomplete Funeral",
         "number": 200,
         "shape": "normal",
         "set": "DAD",
         "rotated": false,
-        "position": "14"
+        "position": "256"
     },
     {
         "card_name": "Gates of Velatha",

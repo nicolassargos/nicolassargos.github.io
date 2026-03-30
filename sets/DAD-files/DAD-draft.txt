@@ -149,7 +149,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "81",
+			"collector_number": "80",
 			"oracle_text": "Enchant creature\nWhenever you cast Blessed by Disease, target player discards a card and looses 1 life.\nEnchanted creature has lifelink.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/12.png"
@@ -170,10 +170,10 @@
 		},
 		{
 			"name": "Imploring Menetre",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "200",
+			"collector_number": "97",
 			"oracle_text": "Put target creature with mana value 4 or more from your graveyard onto the battlefield.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/14.png"
@@ -445,7 +445,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "142",
-			"oracle_text": "Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]\nOrder at Stake deals 2 damage to any target. If you paid the kicker cost, create a 1/1 white Soldier creature token.",
+			"oracle_text": "Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]\nOrder at Stake deals 2 damage to any target. If you paid the kicker cost, create a 1/1 red Goblin creature token.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/37.png"
 			}
@@ -492,7 +492,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "95",
+			"collector_number": "94",
 			"oracle_text": "Deathtouch, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
 			"power": "4",
 			"toughness": "4",
@@ -568,7 +568,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Brother",
-			"collector_number": "93",
+			"collector_number": "92",
 			"oracle_text": "Lifelink\nEach other brother get +1/+1 and gain lifelink.\nWhenever you control five Brother creatures, you win the game.",
 			"power": "2",
 			"toughness": "2",
@@ -581,7 +581,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Spirit Giant",
-			"collector_number": "91",
+			"collector_number": "90",
 			"oracle_text": "When Enslaved Reveler enters the battlefield, gain 3 life and target opponent discards a card.",
 			"power": "3",
 			"toughness": "7",
@@ -595,7 +595,7 @@
 			"mana_cost": "{U/B}{U/B}",
 			"type": "Creature — Zombie Rogue",
 			"collector_number": "229",
-			"oracle_text": "Defender\nAt the beginning of your upkeep, you may exile a creature card from your graveyard. If you exiled a card this way, Sneaky Zombie looses Defender and can't be blocked until end of turn.",
+			"oracle_text": "Defender\nAt the beginning of your upkeep, you may exile a creature card from your graveyard. If you exiled a card this way, Sneaky Zombie loses defender and can't be blocked until end of turn.",
 			"power": "3",
 			"toughness": "3",
 			"image_uris": {
@@ -710,7 +710,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Shade Knight",
-			"collector_number": "97",
+			"collector_number": "96",
 			"oracle_text": "Menace, Protection from white\nWhenever Ihsan, [i]Corrupted[/i] Knight enters the battlefield, you may destroy target Angel, Knight or Paladin.",
 			"power": "4",
 			"toughness": "4",
@@ -865,7 +865,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "90",
+			"collector_number": "89",
 			"oracle_text": "Painlink, Heritage [i](Damage dealt to this creature also causes you to lose that much life. When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
 			"power": "3",
 			"toughness": "1",
@@ -905,7 +905,7 @@
 			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Creature — Plant Zombie",
 			"collector_number": "222",
-			"oracle_text": "Defender\nSacrifice a creature: Gain life equal to its toughness.",
+			"oracle_text": "Defender, Reach\nSacrifice a creature: Gain life equal to its toughness.",
 			"power": "0",
 			"toughness": "4",
 			"image_uris": {
@@ -1145,7 +1145,7 @@
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Angel",
 			"collector_number": "31",
-			"oracle_text": "Flying\nWhen Purity's Child enters the battlefield, gain 1 life for each creature you control.",
+			"oracle_text": "Flying\nWhen this creature enters, gain 1 life for each creature you control.",
 			"power": "3",
 			"toughness": "3",
 			"image_uris": {
@@ -1235,7 +1235,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "92",
+			"collector_number": "91",
 			"oracle_text": "When Ghost Parasite dies, draw two cards and lose 2 life.",
 			"power": "2",
 			"toughness": "2",
@@ -1248,8 +1248,8 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie Goblin",
-			"collector_number": "85",
-			"oracle_text": "When [i]Corrupted[/i] Missionary enters the battlefield, target creature get -1/-1 until end of turn and its controller looses one life.",
+			"collector_number": "84",
+			"oracle_text": "When [i]Corrupted[/i] Missionary enters the battlefield, target creature get -1/-1 until end of turn and its controller loses one life.",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -1724,7 +1724,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "88",
+			"collector_number": "87",
 			"oracle_text": "Creatures get -1/-1 until end of turn. Draw a card and lose 1 life.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/141.png"
@@ -1735,7 +1735,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact",
-			"collector_number": "82",
+			"collector_number": "81",
 			"oracle_text": "{2}, {T}, sacrifice a creature: Draw a card.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/142.png"
@@ -2310,7 +2310,7 @@
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Wurm",
 			"collector_number": "181",
-			"oracle_text": "Trample\nWhenever Rumbling Monster deals damage to an opponent, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand.",
+			"oracle_text": "Trample\nWhenever Rumbling Monster deals damage to an opponent, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest under your library in any order.",
 			"power": "6",
 			"toughness": "5",
 			"image_uris": {
@@ -2430,7 +2430,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}{B}",
 			"type": "Planeswalker — Igdiul",
-			"collector_number": "96",
+			"collector_number": "95",
 			"oracle_text": "Draw a card. You lose 2 life.\nDestroy target creature or planeswalker.\nReturn up to X target creatures from your graveyard to your hand.",
 			"loyalty": "6",
 			"image_uris": {
@@ -2489,7 +2489,7 @@
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
 			"collector_number": "102",
-			"oracle_text": "Choose one:\n- Destroy target creature with Defender.\n- Target player discards two cards and looses 2 life.",
+			"oracle_text": "Choose one:\n- Destroy target creature with defender.\n- Target player discards two cards and loses 2 life.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/206.png"
 			}
@@ -2651,7 +2651,7 @@
 			"mana_cost": "{4}",
 			"type": "Artifact",
 			"collector_number": "235",
-			"oracle_text": "When Chronicle Relic enters, scry 3.\n{T}, sacrifice Chronicle Relic: Shuffle your graveyard into your library. Draw a card. Activate this ability as a sorcery.",
+			"oracle_text": "When Chronicle Relic enters, scry 3.\n{T}, sacrifice Chronicle Relic: Shuffle your graveyard into your library. Draw a card.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/220.png"
 			}
@@ -2661,7 +2661,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "84",
+			"collector_number": "83",
 			"oracle_text": "Menace\nAt the beginning of each end step, if a creature you controlled died this turn, put a +1/+1 counter on this creature.",
 			"power": "2",
 			"toughness": "2",
@@ -2675,7 +2675,7 @@
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Shade",
 			"collector_number": "115",
-			"oracle_text": "Flying\nWhen this creature enters, draw a card and loose 1 life.",
+			"oracle_text": "Flying\nWhen this creature enters, draw a card and lose 1 life.",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -2772,10 +2772,10 @@
 		{
 			"name": "Wildgrowth Den",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "187",
-			"oracle_text": "Enchant land\nEnchanted land has \u201c{1}{G}, {T}: Create a 3/3 green Beast creature token.\u201d",
+			"oracle_text": "Enchant land\nEnchanted land has \u201c{2}{G}, {T}: Create a 3/3 green Beast creature token. Activate this ability as a sorcery.\u201d",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/230.png"
 			}
@@ -2845,7 +2845,7 @@
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "10",
-			"oracle_text": "Enchant creature\nEnchanted creature gains +2/+2 and flying. Draw a card.",
+			"oracle_text": "Enchant creature\nEnchanted creature gains +2/+2 and flying. \nWhen Divine Uplift enters, draw a card.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/236.png"
 			}
@@ -2916,7 +2916,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "88",
 			"oracle_text": "Buyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]\nReturn target creature card from your graveyard to your hand.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/242.png"
@@ -2927,7 +2927,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human",
-			"collector_number": "83",
+			"collector_number": "82",
 			"oracle_text": "Sacrifice a creature: Put a +1/+1 counter on this creature.",
 			"power": "2",
 			"toughness": "1",
@@ -2940,7 +2940,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "86",
+			"collector_number": "85",
 			"oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nAdd {B}{B}{B}{B}.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/244.png"
@@ -2951,7 +2951,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "94",
+			"collector_number": "93",
 			"oracle_text": "When this creature enters, return target creature with mana value 3 or less from your graveyard to your hand.",
 			"power": "2",
 			"toughness": "2",
@@ -3026,7 +3026,7 @@
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Angel",
 			"collector_number": "255",
-			"oracle_text": "Flying, Vigilance\nWhenever this creature deals combat damage to a player, you may search your library for a plains card and put it into you hand then shuffle.",
+			"oracle_text": "Flying, Vigilance\nWhenever this creature deals combat damage to a player, if you control less lands than an opponent, you may search your library for a plains card and put it into you hand, then shuffle.",
 			"power": "3",
 			"toughness": "4",
 			"image_uris": {
@@ -3062,7 +3062,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "87",
+			"collector_number": "86",
 			"oracle_text": "Flying, trample\nWhen this creature enters, destroy target creature or planeswalker.\nAt the beginning of your upkeep, loose 2 life.",
 			"power": "7",
 			"toughness": "7",
@@ -3084,12 +3084,12 @@
 			}
 		},
 		{
-			"name": "Animate Dead",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}",
-			"type": "Enchantment — Aura",
-			"collector_number": "80",
-			"oracle_text": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \u201cenchant creature card in a graveyard\u201d and gains \u201cenchant creature put onto the battlefield with this Aura.\u201d Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+			"name": "Incomplete Funeral",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"oracle_text": "Return target creature from a graveyard onto the battlefield under your control with a heritage counter on it.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/256.png"
 			}
@@ -3123,6 +3123,7 @@
 	]
 
 [rare(1)]
+	2 Imploring Menetre
 	2 Enchantment of Repulsion
 	2 Serra's Fury
 	2 Occult Ritual
@@ -3188,7 +3189,6 @@
 	2 Fecund Renewal
 	2 Devotee of Viphiozes
 	2 Archon of the Unbroken Charge
-	2 Animate Dead
 	2 Ragepack Inciter
 	2 Sphinx of Endless Insight
 [uncommon(3)]
@@ -3199,7 +3199,6 @@
 	4 Viphiozes' Last Gambit
 	4 Administration of Velatha
 	4 Troups of Mercenaries
-	4 Imploring Menetre
 	4 Enhanced Reflexes
 	4 Mind Devourer
 	4 Erosion Shield
@@ -3272,7 +3271,8 @@
 	4 Herald of the Armada
 	4 Harrow
 	4 Ruinbound Minotaur
-[common(6)]
+	4 Incomplete Funeral
+[common(10)]
 	8 Obnoxious Zombie
 	8 Sorcerer's Apprentice
 	8 Blessed by Air
@@ -3379,368 +3379,6 @@
 	8 Gravedigger Apprentice
 	8 Wasteland Plunder
 	8 Landscorch Ogre
-[common_or_masterpiece(1)]
-	8 Obnoxious Zombie
-	8 Sorcerer's Apprentice
-	8 Blessed by Air
-	8 Blessed by Earth
-	8 Blessed by Snow
-	8 Blessed by Fire
-	8 Blessed by Disease
-	8 Sick Rats
-	8 Affamed Grizzly
-	8 Refusal
-	8 Ignored the Risk
-	8 Lost the Battalion
-	8 Sudden Inspiration
-	8 Defender of Valdor
-	8 Elusive Corpse
-	8 Apprentice Illusionist
-	8 Punch in Your Face!
-	8 Discord's Spirit
-	8 Order at Stake
-	8 Lynx of Penaloda
-	8 Shadow of Phissi
-	8 Enslaved Reveler
-	8 Sneaky Zombie
-	8 Unexpected Reinforcements
-	8 Submarine Guardian
-	8 Mechanical Brother
-	8 Unstoppable Charge
-	8 Embrace the Bribe
-	8 What's the Point?
-	8 Enraged Baloth
-	8 Emissary of Fear
-	8 Amazons of Rholt
-	8 Frontal Charge
-	8 Sealing the Fate
-	8 Succumb to Promises
-	8 Will of Thyrroene
-	8 Recruited Militia
-	8 Recuiter of the Homeless
-	8 Ronom Unicorn
-	8 Valorous Knight
-	8 Serra Worshipper
-	8 Armada Officer
-	8 Library's Administrators
-	8 Velatha's Arena Hero
-	8 Corrupted Missionary
-	8 Enraged Macaque
-	8 Battalion Cannon Fodder
-	8 Veteran of Velatha's War
-	8 Healer of Broken Lands
-	8 Mad War Fugitive
-	8 Guardian of Velioth
-	8 Geirdyn Herald
-	8 Wurm of Arid Steppes
-	8 Shaman of Rholt
-	8 Apprentice Herbalist
-	8 Passage Protector
-	8 Mushrooms Harvester
-	8 Oversized Baboons
-	8 Living the Nightmare
-	8 Village Rites
-	8 Growth Over Life
-	8 Taken by Surprise
-	8 Terramorphic Expanse
-	8 Relic of Past Glory
-	8 Guided Purification
-	8 Radiant Resolve
-	8 Zephyr Net
-	8 Neuralgia
-	8 Charge and Claim
-	8 Psychic Touch
-	8 True Betrayal
-	8 Steep Hill
-	8 Untouched Mangrove
-	8 Secret Grasslands
-	8 Hidden Pool
-	8 Muddy Trail
-	8 Altar of Renewed Knowledge
-	8 Orderbound Apprentice
-	8 Feedback Elemental
-	8 Armada Scout
-	8 Chronicle Relic
-	8 Carrion Climber
-	8 Whispering Shadow
-	8 Pathbreaker Elemental
-	8 Frenzy Piker
-	8 Loamkeeper Sapling
-	8 Wildgrove Channeler
-	8 Grovebirth Elemental
-	8 Wildgrowth Den
-	8 Cycles of Renewal
-	8 Valiant Banneret
-	8 Inferno Surge
-	8 Cleansing Rite
-	8 Aerial Bulwark
-	8 Divine Uplift
-	8 Siegebreaker Engine
-	8 Thought Reservoir
-	8 Aether Reversal
-	8 Gale Ambusher
-	8 Augury Wisp
-	8 Disturbed Burial
-	8 Bloodtithe Apprentice
-	8 Culling the Weak
-	8 Gravedigger Apprentice
-	8 Wasteland Plunder
-	8 Landscorch Ogre
-[foil(1)]
-	6 Adept of Discord
-	12 Obnoxious Zombie
-	6 Manticore of Udach
-	6 Sneaky Roomie
-	6 Spirit of Wisdom
-	6 Viphiozes' Last Gambit
-	6 Administration of Velatha
-	12 Sorcerer's Apprentice
-	12 Blessed by Air
-	12 Blessed by Earth
-	12 Blessed by Snow
-	12 Blessed by Fire
-	12 Blessed by Disease
-	6 Troups of Mercenaries
-	6 Imploring Menetre
-	6 Enhanced Reflexes
-	12 Sick Rats
-	6 Mind Devourer
-	12 Affamed Grizzly
-	2 Enchantment of Repulsion
-	12 Refusal
-	12 Ignored the Risk
-	12 Lost the Battalion
-	12 Sudden Inspiration
-	6 Erosion Shield
-	6 Unstable Chimera
-	12 Defender of Valdor
-	6 Recruitment in Taverns
-	2 Serra's Fury
-	6 Will of the Master
-	12 Elusive Corpse
-	12 Apprentice Illusionist
-	6 Sword of Ganaka
-	12 Punch in Your Face!
-	6 Purity's Follower
-	12 Discord's Spirit
-	6 Expropriate the Farmers
-	12 Order at Stake
-	12 Lynx of Penaloda
-	12 Shadow of Phissi
-	6 No Pain, No Gain
-	6 Greed Lost Adept
-	2 Occult Ritual
-	2 Ganaka, The First Brother
-	2 Geneke, The Second Brother
-	2 Gonoko, The Fourth Brother
-	2 Gunuku, The Fifth Brother
-	2 Giniki, The Third Brother
-	12 Enslaved Reveler
-	12 Sneaky Zombie
-	2 Playing for Death
-	6 Remember From the Stones
-	2 Fact or Fiction
-	6 Sleep
-	6 Magus of the Grindstone
-	6 Wall of Addum
-	6 Prayers to Serra
-	12 Unexpected Reinforcements
-	6 Introspection
-	2 Ihsan, Corrupted Knight
-	12 Submarine Guardian
-	12 Mechanical Brother
-	6 Gates of Velatha
-	6 Hiring War Refugees
-	12 Unstoppable Charge
-	12 Embrace the Bribe
-	6 Gonoko's Fury
-	6 Growing at All Cost
-	12 What's the Point?
-	12 Enraged Baloth
-	2 Gangurg, Adept Caster
-	6 Batallion Warleader
-	12 Emissary of Fear
-	12 Amazons of Rholt
-	6 Elvish Adventurer
-	6 Haven of Rogues
-	12 Frontal Charge
-	12 Sealing the Fate
-	6 Finding the Path to Peace
-	6 Unleashing the Rage
-	6 Mourning for The Lost
-	6 Earning Nature's Friendship
-	6 Gain Height
-	12 Succumb to Promises
-	12 Will of Thyrroene
-	2 Spirit of Rholt
-	2 Phissi, Vessel of Discord
-	2 Royal Assassin
-	2 Wildfire
-	1 Thyrroene, Mother of All
-	12 Recruited Militia
-	6 Great Orator
-	12 Recuiter of the Homeless
-	12 Ronom Unicorn
-	12 Valorous Knight
-	6 Serra Child
-	12 Serra Worshipper
-	12 Armada Officer
-	6 Sky Armada
-	12 Library's Administrators
-	12 Velatha's Arena Hero
-	6 Propulsed Whale
-	6 Ghost Parasite
-	12 Corrupted Missionary
-	12 Enraged Macaque
-	6 Invasion Planificator
-	6 Angel of Phissi
-	12 Battalion Cannon Fodder
-	12 Veteran of Velatha's War
-	12 Healer of Broken Lands
-	12 Mad War Fugitive
-	12 Guardian of Velioth
-	6 Good-Natured Merchant
-	2 Keeper of Order
-	12 Geirdyn Herald
-	6 Adept of Growth
-	6 Goblin Landlord
-	6 Geirdyn Mercenary
-	12 Wurm of Arid Steppes
-	12 Shaman of Rholt
-	12 Apprentice Herbalist
-	6 Monstruosity of the Deep Forest
-	12 Passage Protector
-	6 Wurm of Penaloda
-	12 Mushrooms Harvester
-	6 Bumbeldop Family
-	12 Oversized Baboons
-	6 Spear of Geneke
-	6 Knife of Giniki
-	6 Mace of Gonoko
-	6 Staff of Gunuku
-	1 Hisseyia, Avatar of Purity
-	1 Nogafris, Avatar of Order
-	1 Viphiozes, Avatar of Discord
-	1 Menetre, Avatar of Greed
-	1 Velioth, Avatar of Growth
-	12 Living the Nightmare
-	12 Village Rites
-	6 One for the Team
-	12 Growth Over Life
-	2 Scorched-earth Strategy
-	6 Disband the Weaks
-	6 Bloodprice Engine
-	12 Taken by Surprise
-	6 Peaceful Retreat
-	6 Herald of Growth
-	2 Take a Revenge
-	12 Terramorphic Expanse
-	2 Cathedral of Valdor
-	2 Fortress of Geirdyn
-	2 Grotto of Penaloda
-	2 Palace of Rholt
-	2 Mausoleum of Udach
-	2 Peace Offering
-	1 Eleiia, Leader of Fugitives
-	6 Priest of Purity
-	6 Priest of Discord
-	6 Priest of Growth
-	6 Priest of Greed
-	6 Priest of Order
-	2 Geirdyn Overlords
-	2 Ascension to Enlightment
-	1 Assashain, Homeless Outsider
-	2 Musical Interlude
-	2 Young Widow
-	2 Praying the Dawn
-	2 Reconstructing Landscape
-	2 Velioth Experimentation
-	2 Meet Your Creator
-	2 Bring to Justice
-	2 Champion of Geirdyn
-	2 Moment of Inspiration
-	2 Escape Reality
-	2 Hilena, Voice of the Legions
-	6 Oath of the Saints
-	6 Oath of the Whisperers
-	6 Oath of the Damned
-	6 Oath of the Beloved
-	6 Oath of the Veterans
-	6 Oath of the Conquerors
-	6 Oath of the Believers
-	6 Oath of the Forsakens
-	6 Oath of the Lonely
-	6 Oath of the Vengeful
-	2 Gedric, Champion of Order
-	2 Srod, Offspring of Growth
-	2 Menelas, Voice of Greed
-	2 Thessene, Symbol of Purity
-	12 Relic of Past Glory
-	6 Oblivion Ring
-	6 Obedient Vanguard
-	2 Rumbling Monster
-	2 Uxizas, Lightning Oracle
-	2 Tradewind Expert
-	2 Wildbane Elemental
-	2 Wicked Aberration
-	2 Pause in Time
-	2 Harvest the Moon's Promises
-	2 Permanent Equilibrium
-	2 Wild Experimentation
-	1 Jace, Unfortunate Traveler
-	1 Igdiul, Phyrexian Scourge
-	2 Smint
-	12 Guided Purification
-	12 Radiant Resolve
-	12 Zephyr Net
-	12 Neuralgia
-	12 Charge and Claim
-	12 Psychic Touch
-	12 True Betrayal
-	12 Steep Hill
-	12 Untouched Mangrove
-	12 Secret Grasslands
-	12 Hidden Pool
-	12 Muddy Trail
-	12 Altar of Renewed Knowledge
-	12 Orderbound Apprentice
-	6 Herald of the Armada
-	12 Feedback Elemental
-	12 Armada Scout
-	12 Chronicle Relic
-	12 Carrion Climber
-	12 Whispering Shadow
-	12 Pathbreaker Elemental
-	12 Frenzy Piker
-	12 Loamkeeper Sapling
-	12 Wildgrove Channeler
-	12 Grovebirth Elemental
-	6 Harrow
-	2 Fecund Renewal
-	12 Wildgrowth Den
-	12 Cycles of Renewal
-	12 Valiant Banneret
-	12 Inferno Surge
-	12 Cleansing Rite
-	12 Aerial Bulwark
-	12 Divine Uplift
-	12 Siegebreaker Engine
-	12 Thought Reservoir
-	12 Aether Reversal
-	12 Gale Ambusher
-	12 Augury Wisp
-	12 Disturbed Burial
-	12 Bloodtithe Apprentice
-	12 Culling the Weak
-	12 Gravedigger Apprentice
-	12 Wasteland Plunder
-	6 Ruinbound Minotaur
-	12 Landscorch Ogre
-	2 Devotee of Viphiozes
-	2 Archon of the Unbroken Charge
-	2 Animate Dead
-	2 Ragepack Inciter
-	2 Sphinx of Endless Insight
 [wildcard(1)]
 	15 Adept of Discord
 	6 Obnoxious Zombie
@@ -3756,7 +3394,7 @@
 	6 Blessed by Fire
 	6 Blessed by Disease
 	15 Troups of Mercenaries
-	15 Imploring Menetre
+	7 Imploring Menetre
 	15 Enhanced Reflexes
 	6 Sick Rats
 	15 Mind Devourer
@@ -3993,6 +3631,6 @@
 	6 Landscorch Ogre
 	7 Devotee of Viphiozes
 	7 Archon of the Unbroken Charge
-	7 Animate Dead
+	15 Incomplete Funeral
 	7 Ragepack Inciter
 	7 Sphinx of Endless Insight
