@@ -63,13 +63,14 @@ def generateFile(code):
 	for x in range(len(draftable_cards)):
 		card = draftable_cards[x]
 
+		oracle_text = re.sub(r'\[/?[a-zA-Z]\]', '', card.get('rules_text', ''))
 		draft_string += '''	{
 			"name": "''' + card['card_name'] + '''",
 			"rarity": "''' + ('special' if card['rarity'] in ['cube','masterpiece'] else card['rarity']) + '''",
 			"mana_cost": "''' + re.sub(h_pattern, h_replace, card['cost']) + '''",
 			"type": "''' + card['type'] + '''",
 			"collector_number": "''' + str(card['number']) + '''",
-			"oracle_text": ''' + json.dumps(card.get('rules_text', '')) + ''',
+			"oracle_text": ''' + json.dumps(oracle_text) + ''',
 	'''
 
 		if card.get('pt'):

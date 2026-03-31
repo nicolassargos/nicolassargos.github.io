@@ -6,7 +6,7 @@
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Demon",
 			"collector_number": "77",
-			"oracle_text": "Flying, Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]",
+			"oracle_text": "Flying, Painlink (Damage dealt to this creature also causes you to lose that much life.)",
 			"power": "4",
 			"toughness": "3",
 			"image_uris": {
@@ -32,7 +32,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Beast",
 			"collector_number": "57",
-			"oracle_text": "Flying, Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]\nWhen Manticore of Udah dies, draw a card, then discard a card.",
+			"oracle_text": "Flying, Painlink (Damage dealt to this creature also causes you to lose that much life.)\nWhen Manticore of Udah dies, draw a card, then discard a card.",
 			"power": "3",
 			"toughness": "2",
 			"image_uris": {
@@ -82,7 +82,7 @@
 			"mana_cost": "{R/W}{R/W}",
 			"type": "Enchantment",
 			"collector_number": "219",
-			"oracle_text": "Whenever you sacrifice a land, create a treasure token.\nAt the beginning of you upkeep, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
+			"oracle_text": "Whenever you sacrifice a land, create a treasure token.\nAt the beginning of you upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/6.png"
 			}
@@ -209,7 +209,7 @@
 			"mana_cost": "{B}",
 			"type": "Creature — Zombie",
 			"collector_number": "100",
-			"oracle_text": "Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]\nMind Devourer comes into play tapped unless any player has 10 or less life.",
+			"oracle_text": "Painlink (Damage dealt to this creature also causes you to lose that much life.)\nMind Devourer comes into play tapped unless any player has 10 or less life.",
 			"power": "2",
 			"toughness": "3",
 			"image_uris": {
@@ -222,7 +222,7 @@
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "192",
-			"oracle_text": "Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"oracle_text": "Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"power": "4",
 			"toughness": "4",
 			"image_uris": {
@@ -279,7 +279,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "71",
-			"oracle_text": "Draw a card.\nBuyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]",
+			"oracle_text": "Draw a card.\nBuyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/23.png"
 			}
@@ -301,7 +301,7 @@
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Beast",
 			"collector_number": "34",
-			"oracle_text": "Flying, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"oracle_text": "Flying, Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"power": "1",
 			"toughness": "4",
 			"image_uris": {
@@ -327,7 +327,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"collector_number": "28",
-			"oracle_text": "Create two 1/1 white soldier tokens.\nBuyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]",
+			"oracle_text": "Create two 1/1 white soldier tokens.\nBuyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/27.png"
 			}
@@ -349,7 +349,7 @@
 			"mana_cost": "{5}{U}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "75",
-			"oracle_text": "Enchant permanent\nGain control of enchanted permanent.\nHeritage [i](When this spell is countered or this permanent is put into a graveyard from the battlefield, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"oracle_text": "Enchant permanent\nGain control of enchanted permanent.\nHeritage (When this spell is countered or this permanent is put into a graveyard from the battlefield, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/29.png"
 			}
@@ -408,7 +408,7 @@
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Human Paladin",
 			"collector_number": "25",
-			"oracle_text": "Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]\nWhen this creature enters, exile target creature until it leaves the battlefield.",
+			"oracle_text": "Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)\nWhen this creature enters, exile target creature until it leaves the battlefield.",
 			"power": "1",
 			"toughness": "3",
 			"image_uris": {
@@ -445,7 +445,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "142",
-			"oracle_text": "Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]\nOrder at Stake deals 2 damage to any target. If you paid the kicker cost, create a 1/1 red Goblin creature token.",
+			"oracle_text": "Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)\nOrder at Stake deals 2 damage to any target. If you paid the kicker cost, create a 1/1 red Goblin creature token.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/37.png"
 			}
@@ -469,7 +469,7 @@
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Wraith",
 			"collector_number": "110",
-			"oracle_text": "Flying, Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]",
+			"oracle_text": "Flying, Painlink (Damage dealt to this creature also causes you to lose that much life.)",
 			"power": "2",
 			"toughness": "3",
 			"image_uris": {
@@ -493,7 +493,7 @@
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Zombie",
 			"collector_number": "94",
-			"oracle_text": "Deathtouch, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"oracle_text": "Deathtouch, Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"power": "4",
 			"toughness": "4",
 			"image_uris": {
@@ -619,7 +619,7 @@
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "65",
-			"oracle_text": "Return up to two target non-land permanents an opponent control into their owner's hand. At the end of turn, that opponent may put a permanent from their hand onto the battlefield.",
+			"oracle_text": "Return up to two target nonland permanents an opponent controls into their owner's hand. At the end of turn, that opponent may put a permanent from their hand onto the battlefield.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/51.png"
 			}
@@ -678,7 +678,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "23",
-			"oracle_text": "Gain 1 life for each attacking creature.\nBuyback {4} [i](You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]",
+			"oracle_text": "Gain 1 life for each attacking creature.\nBuyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/56.png"
 			}
@@ -689,7 +689,7 @@
 			"mana_cost": "{W/U}",
 			"type": "Sorcery",
 			"collector_number": "232",
-			"oracle_text": "Create a 1/1 white and blue bird creature token with flying.\nBuyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]",
+			"oracle_text": "Create a 1/1 white Bird creature token with flying.\nBuyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/57.png"
 			}
@@ -711,7 +711,7 @@
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Shade Knight",
 			"collector_number": "96",
-			"oracle_text": "Menace, Protection from white\nWhenever Ihsan, [i]Corrupted[/i] Knight enters the battlefield, you may destroy target Angel, Knight or Paladin.",
+			"oracle_text": "Menace, Protection from white\nWhenever Ihsan, Corrupted Knight enters the battlefield, you may destroy target Angel, Knight or Paladin.",
 			"power": "4",
 			"toughness": "4",
 			"image_uris": {
@@ -761,7 +761,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "135",
-			"oracle_text": "Create a 1/1 red Goblin token for each land in your graveyard.\nBuyback {2} [i](You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]",
+			"oracle_text": "Create a 1/1 red Goblin token for each land in your graveyard.\nBuyback {2} (You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/63.png"
 			}
@@ -783,7 +783,7 @@
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
 			"collector_number": "121",
-			"oracle_text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\nHeritage [i](When this spell is countered or this permanent is put into a graveyard from the battlefield, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"oracle_text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\nHeritage (When this spell is countered or this permanent is put into a graveyard from the battlefield, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/65.png"
 			}
@@ -866,7 +866,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie",
 			"collector_number": "89",
-			"oracle_text": "Painlink, Heritage [i](Damage dealt to this creature also causes you to lose that much life. When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"oracle_text": "Painlink, Heritage (Damage dealt to this creature also causes you to lose that much life. When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"power": "3",
 			"toughness": "1",
 			"image_uris": {
@@ -879,7 +879,7 @@
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "78",
-			"oracle_text": "Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"oracle_text": "Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"power": "4",
 			"toughness": "2",
 			"image_uris": {
@@ -892,7 +892,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Scout",
 			"collector_number": "159",
-			"oracle_text": "When this creature enters, search your library for a basic forest and put it into your hand, then shuffle.\nHeritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"oracle_text": "When this creature enters, search your library for a basic forest and put it into your hand, then shuffle.\nHeritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"power": "1",
 			"toughness": "1",
 			"image_uris": {
@@ -940,7 +940,7 @@
 			"mana_cost": "{W}{W}{W}",
 			"type": "Instant",
 			"collector_number": "11",
-			"oracle_text": "Untap all attacking creatures. Prevent all combat damage that would be dealt this turn.\nYou gain life equal to your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]",
+			"oracle_text": "Untap all attacking creatures. Prevent all combat damage that would be dealt this turn.\nYou gain life equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/78.png"
 			}
@@ -951,7 +951,7 @@
 			"mana_cost": "{R}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "148",
-			"oracle_text": "Creatures you control gain +1/+1 until end of turn, then Unleashing the Rage deals X damage to target player, where X is your devotion to red. [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i]",
+			"oracle_text": "Creatures you control gain +1/+1 until end of turn, then Unleashing the Rage deals X damage to target player, where X is your devotion to red. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/79.png"
 			}
@@ -962,7 +962,7 @@
 			"mana_cost": "{B}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "101",
-			"oracle_text": "Target opponent discards a cards, then you may return target creature from your graveyard with mana value equal to your devotion to black to the battlefield. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]",
+			"oracle_text": "Target opponent discards a cards, then you may return target creature from your graveyard with mana value equal to your devotion to black to the battlefield. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/80.png"
 			}
@@ -973,7 +973,7 @@
 			"mana_cost": "{G}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "158",
-			"oracle_text": "Search your library for a land card and put it onto the battlefield tapped, then shuffle. You may put a creature with mana value less or equal to your devotion to green from your hand onto the battlefield [i](Each {G} in the mana costs of permanents you control counts toward your devotion to green.)[/i]",
+			"oracle_text": "Search your library for a land card and put it onto the battlefield tapped, then shuffle. You may put a creature with mana value less or equal to your devotion to green from your hand onto the battlefield (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/81.png"
 			}
@@ -984,7 +984,7 @@
 			"mana_cost": "{U}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "50",
-			"oracle_text": "Creatures you control gain flying until end of turn.\nScry X, where X is your devotion to blue. [i](Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)[/i]",
+			"oracle_text": "Creatures you control gain flying until end of turn.\nScry X, where X is your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/82.png"
 			}
@@ -1249,7 +1249,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie Goblin",
 			"collector_number": "84",
-			"oracle_text": "When [i]Corrupted[/i] Missionary enters the battlefield, target creature get -1/-1 until end of turn and its controller loses one life.",
+			"oracle_text": "When Corrupted Missionary enters the battlefield, target creature get -1/-1 until end of turn and its controller loses one life.",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -1275,7 +1275,7 @@
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Demon",
 			"collector_number": "98",
-			"oracle_text": "Lifelink, protection from white [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything white.)[/i]",
+			"oracle_text": "Lifelink, protection from white (This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything white.)",
 			"power": "3",
 			"toughness": "3",
 			"image_uris": {
@@ -1301,7 +1301,7 @@
 			"mana_cost": "{R}",
 			"type": "Creature — Goblin Berserker",
 			"collector_number": "118",
-			"oracle_text": "First strike\nWhen [/i][i]Battalion[/i][i] Cannon Fodder dies, create a 1/1 red Goblin creature token.",
+			"oracle_text": "First strike\nWhen Battalion Cannon Fodder dies, create a 1/1 red Goblin creature token.",
 			"power": "1",
 			"toughness": "1",
 			"image_uris": {
@@ -1405,7 +1405,7 @@
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Beast",
 			"collector_number": "116",
-			"oracle_text": "Haste, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"oracle_text": "Haste, Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"power": "4",
 			"toughness": "2",
 			"image_uris": {
@@ -1431,7 +1431,7 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "127",
-			"oracle_text": "Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]\nFlying\nWhen Geirdyn Skyrider enters the battlefield, if you paid the kicker cost, create two 1/1 red Goblin creature tokens.",
+			"oracle_text": "Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)\nFlying\nWhen Geirdyn Skyrider enters the battlefield, if you paid the kicker cost, create two 1/1 red Goblin creature tokens.",
 			"power": "2",
 			"toughness": "3",
 			"image_uris": {
@@ -1496,7 +1496,7 @@
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Spider",
 			"collector_number": "176",
-			"oracle_text": "Reach, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]",
+			"oracle_text": "Reach, Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"power": "1",
 			"toughness": "4",
 			"image_uris": {
@@ -1535,7 +1535,7 @@
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "156",
-			"oracle_text": "At the beginning of your end step, put a +1/+1 counter on Bumbeldop Family.\nWhen Bumbeldop Family dies, create a 1/1 green Ooze token for each +1/+1 counter on it.\n[i]Burp![/i]",
+			"oracle_text": "At the beginning of your end step, put a +1/+1 counter on Bumbeldop Family.\nWhen Bumbeldop Family dies, create a 1/1 green Ooze token for each +1/+1 counter on it.\nBurp!",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -1747,7 +1747,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
 			"collector_number": "183",
-			"oracle_text": "Kicker {G} [i](You may pay an additional {G} as you cast this spell.)[/i]\nUp to two target creatures each gain +2/+0. If you paid the kicker cost, they also gain trample until end of turn.",
+			"oracle_text": "Kicker {G} (You may pay an additional {G} as you cast this spell.)\nUp to two target creatures each gain +2/+0. If you paid the kicker cost, they also gain trample until end of turn.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/143.png"
 			}
@@ -1895,7 +1895,7 @@
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "206",
-			"oracle_text": "{U}, {T}: Target creature with power 3 or less can't be blocked this turn.\n{B}, {T}: Target creature gain painlink until end of turn. [i](Damage dealt to this creature also causes you to lose that much life.)[/i]",
+			"oracle_text": "{U}, {T}: Target creature with power 3 or less can't be blocked this turn.\n{B}, {T}: Target creature gain painlink until end of turn. (Damage dealt to this creature also causes you to lose that much life.)",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -1921,7 +1921,7 @@
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Zombie Shaman",
 			"collector_number": "207",
-			"oracle_text": "{B}, {T}, Sacrifice two other creatures: Put target creature from your graveyard into your hand.\n{G}, {T}: Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]",
+			"oracle_text": "{B}, {T}, Sacrifice two other creatures: Put target creature from your graveyard into your hand.\n{G}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -1955,7 +1955,7 @@
 			}
 		},
 		{
-			"name": "Ascension to Enlightment",
+			"name": "Ascension to Enlightenment",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
@@ -2297,7 +2297,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "20",
-			"oracle_text": "Kicker {1}{W}{W} [i](You may pay an additional {1}{W}{W} as you cast this spell.)[/i]\nIf you paid the kicker cost, Obedient Vanguard enters with a +1/+1 counter on it.\nWhenever Obedient Vanguard enters or attacks, if it has a +1/+1 counter on it, create a 1/1 white Soldier creature token.",
+			"oracle_text": "Kicker {1}{W}{W} (You may pay an additional {1}{W}{W} as you cast this spell.)\nIf you paid the kicker cost, Obedient Vanguard enters with a +1/+1 counter on it.\nWhenever Obedient Vanguard enters or attacks, if it has a +1/+1 counter on it, create a 1/1 white Soldier creature token.",
 			"power": "2",
 			"toughness": "3",
 			"image_uris": {
@@ -2349,7 +2349,7 @@
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Beast Elemental",
 			"collector_number": "152",
-			"oracle_text": "Kicker\u2014 Sacrifice a land [i](You may Sacrifice a land in addition to any other costs as you cast this spell.)[/i]\nHaste\nWildbane Elemental enters the battlefield with X +1/+1 counter on it, where X is the number of land cards in your graveyard.",
+			"oracle_text": "Kicker\u2014 Sacrifice a land (You may Sacrifice a land in addition to any other costs as you cast this spell.)\nHaste\nWildbane Elemental enters the battlefield with X +1/+1 counter on it, where X is the number of land cards in your graveyard.",
 			"power": "4",
 			"toughness": "4",
 			"image_uris": {
@@ -2456,7 +2456,7 @@
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
 			"collector_number": "14",
-			"oracle_text": "Exile target non-land permanent, then Scry 1.",
+			"oracle_text": "Exile target nonland permanent, then scry 1.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/203.png"
 			}
@@ -2625,7 +2625,7 @@
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Elemental",
 			"collector_number": "49",
-			"oracle_text": "Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]",
+			"oracle_text": "Painlink (Damage dealt to this creature also causes you to lose that much life.)",
 			"power": "4",
 			"toughness": "4",
 			"image_uris": {
@@ -2821,7 +2821,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"collector_number": "8",
-			"oracle_text": "Kicker {W} [i](You may pay an additional {W} as you cast this spell.)[/i]\nDestroy target artifact or enchantment. If you paid the kicker cost, gain life equal to its mana value.",
+			"oracle_text": "Kicker {W} (You may pay an additional {W} as you cast this spell.)\nDestroy target artifact or enchantment. If you paid the kicker cost, gain life equal to its mana value.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/234.png"
 			}
@@ -2880,7 +2880,7 @@
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
 			"collector_number": "39",
-			"oracle_text": "Kicker {1}{U} [i](You may pay an additional {1}{U} as you cast this spell.)[/i]\nReturn up to two creatures to their owner's hands. If you paid the kicker cost, draw a card.",
+			"oracle_text": "Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nReturn up to two creatures to their owner's hands. If you paid the kicker cost, draw a card.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/239.png"
 			}
@@ -2917,7 +2917,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "88",
-			"oracle_text": "Buyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]\nReturn target creature card from your graveyard to your hand.",
+			"oracle_text": "Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nReturn target creature card from your graveyard to your hand.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/242.png"
 			}
@@ -3002,7 +3002,7 @@
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Artifact — Treasure",
 			"collector_number": "258",
-			"oracle_text": "Whenever Landlord's Chest enters or you sacrifice a land, create a treasure Token.\n{T}, sacrifice Landlord's Chest: Add one mana of any color.",
+			"oracle_text": "Whenever Landlord's Chest enters or you sacrifice a land, create a Treasure token.\n{T}, sacrifice Landlord's Chest: Add one mana of any color.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/249.png"
 			}
@@ -3157,7 +3157,7 @@
 	2 Peace Offering
 	1 Eleiia, Leader of Fugitives
 	2 Geirdyn Overlords
-	2 Ascension to Enlightment
+	2 Ascension to Enlightenment
 	1 Assashain, Homeless Outsider
 	2 Musical Interlude
 	2 Young Widow
@@ -3541,7 +3541,7 @@
 	15 Priest of Greed
 	15 Priest of Order
 	7 Geirdyn Overlords
-	7 Ascension to Enlightment
+	7 Ascension to Enlightenment
 	4 Assashain, Homeless Outsider
 	7 Musical Interlude
 	7 Young Widow
