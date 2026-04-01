@@ -1,4 +1,344 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Ascension to Enlightenment added.
+
+Ascension to Enlightment removed.
+
+Adept of Discord
+rules_text: Flying, Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i] => Flying, painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]
+
+Manticore of Udach
+rules_text: Flying, Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]
+When Manticore of Udah dies, draw a card, then discard a card. => Flying, painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]
+When Manticore of Udah dies, draw a card, then discard a card.
+
+Viphiozes' Last Gambit
+rules_text: Zombie creatures you control get +1/+1.
+Sacrifice Zombie Apocalypse: Creatures you control cannot be blocked until end of turn. => Zombie creatures you control get +1/+1.
+Sacrifice Viphiozes' Last Gambit: Creatures you control cannot be blocked until end of turn.
+
+Unstable Chimera
+rules_text: Flying, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i] => Flying, heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]
+
+Defender of Valdor
+rules_text: Defender
+Sacrifice Defender of Valdor: Prevent all combat damage that would be dealt this turn. => Defender
+Sacrifice this creature: Prevent all combat damage that would be dealt this turn.
+
+Recruitment in Taverns
+rules_text: Create two 1/1 white soldier tokens.
+Buyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Create two 1/1 white Soldier tokens.
+Buyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]
+
+Elusive Corpse
+rules_text: Return another creature you control to its owner's hand: Elusive Corpse can't be blocked until end of turn. Activate this ability as a sorcery and only once each turn. => Return another creature you control to its owner's hand: This creature can't be blocked until end of turn. Activate this ability as a sorcery and only once each turn.
+
+Sword of Ganaka
+rules_text: Equipped creature get +1/+1, has first strike and “Whenever equipped creature deals damage to a player, that player mills that many cards”.
+Equip {3} => Equipped creature get +1/+1 and has first strike.
+Whenever equipped creature deals damage to a player, that player mills that many cards.
+Equip {3}
+
+Discord's Spirit
+rules_text: Flying
+When Discord's Spirit dies, draw a card. => Flying
+When this creature dies, draw a card.
+
+Shadow of Phissi
+rules_text: Flying, Painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i] => Flying, painlink [i](Damage dealt to this creature also causes you to lose that much life.)[/i]
+
+Greed Lost Adept
+rules_text: Deathtouch, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i] => Deathtouch, heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]
+
+Gonoko, The Fourth Brother
+cost: {R}{R} => {1}{R}
+
+Gunuku, The Fifth Brother
+cost: {G}{G} => {1}{G}
+
+Enslaved Reveler
+rules_text: When Enslaved Reveler enters the battlefield, gain 3 life and target opponent discards a card. => When this creature enters, gain 3 life and target opponent discards a card.
+
+Remember From the Stones
+rules_text: Return up to two target non-land permanents an opponent control into their owner's hand. At the end of turn, that opponent may put a permanent from their hand onto the battlefield. => Return up to two target nonland permanents an opponent controls into their owner's hand. At the end of turn, that opponent may put a permanent from their hand onto the battlefield.
+
+Wall of Addum
+rules_text: Defender, Lifelink
+Whenever you gain life, each player mills one card. => Defender, lifelink
+Whenever you gain life, each player mills one card.
+
+Unexpected Reinforcements
+rules_text: Create a 1/1 white and blue bird creature token with flying.
+Buyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Create a 1/1 white Bird creature token with flying.
+Buyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]
+
+Ihsan, Corrupted Knight
+rules_text: Menace, Protection from white
+Whenever Ihsan, [i]Corrupted[/i] Knight enters the battlefield, you may destroy target Angel, Knight or Paladin. => Menace, protection from white
+Whenever Ihsan, [/i][i]Corrupted[/i][i] Knight enters the battlefield, you may destroy target Angel, Knight or Paladin.
+
+Mechanical Brother
+rules_text: Whenever this creature or another Brother creature enters, Scry 1.
+Whenever Mechanical Brother dies, create a 1/1 colorless Construct Brother artifact creature token. => Whenever this creature or another Brother creature enters, scry 1.
+Whenever this creature dies, create a 1/1 colorless Construct Brother artifact creature token.
+
+Hiring War Refugees
+rules_text: Create a 1/1 red Goblin token for each land in your graveyard.
+Buyback {2} [i](You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i] => Create a 1/1 red Goblin token for each land in your graveyard.
+Buyback {3} [i](You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)[/i]
+
+Gonoko's Fury
+type: Instant => Sorcery
+rules_text: As an additional cost to play Gonoko's Fury, you may sacrifice a land.
+Gonoko's Fury deals X damage to any target, where X is one plus the number of lands in your graveyard. => Kicker— Sacrifice a land
+Gonoko's Fury deals X damage to any target, where X is the number of lands in your graveyard.
+
+Enraged Baloth
+rules_text: Trample
+As long as Enraged Baloth is attacking, damage can't be prevented. => Trample
+As long as this creature is attacking, damage can't be prevented.
+
+Emissary of Fear
+rules_text: Painlink, Heritage [i](Damage dealt to this creature also causes you to lose that much life. When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i] => Painlink, heritage [i](Damage dealt to this creature also causes you to lose that much life. When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]
+
+Haven of Rogues
+rules_text: Defender, Reach
+Sacrifice a creature: Gain life equal to its toughness. => Defender, reach
+Sacrifice a creature: Gain life equal to its toughness.
+
+Sealing the Fate
+rules_text: Choose one:
+ - Target creature gains +1/+1 and lifelink until end of turn.
+ - Target creature gains indestructible until end of turn. => Choose one
+ - Target creature gains +1/+1 and lifelink until end of turn.
+ - Target creature gains indestructible until end of turn.
+
+Thyrroene, Mother of All
+rules_text: Vigilance, Flying, Lifelink, First strike, Trample.
+{T}, Sacrifice Thyrroene, Mother of All: Search your library for up to four Brother creatures and put them onto the battlefield. => First strike, flying, lifelink, trample, vigilance.
+{T}, Sacrifice Thyrroene, Mother of All: Search your library for up to four Brother creatures and put them onto the battlefield.
+
+Great Orator
+pt: 1/1 => 1/2
+
+Recuiter of the Homeless
+rules_text: When Recuiter of the Homeless enters the battlefield, create X 1/1 white Soldier creature tokens, where X is the number of lands in your graveyard. => When this creature enters, create X 1/1 white Soldier creature tokens, where X is the number of lands in your graveyard.
+
+Ronom Unicorn
+rules_text: Sacrifice Ronom Unicorn: Destroy target enchantment. => Sacrifice this creature: Destroy target enchantment.
+
+Propulsed Whale
+rules_text: Flying
+When Propulsed Whale enters the battlefield, return a creature you control to its owner's hand. => Flying
+When this creature enters, return a creature you control to its owner's hand.
+
+Corrupted Missionary
+rules_text: When [i]Corrupted[/i] Missionary enters the battlefield, target creature get -1/-1 until end of turn and its controller loses one life. => When [/i][i]Corrupted[/i][i] Missionary enters the battlefield, target creature gets -1/-1 until end of turn and its controller loses one life.
+
+Adept of Growth
+rules_text: Haste, Heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i] => Haste, heritage [i](When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)[/i]
+
+Goblin Landlord
+rules_text: Whenever you sacrifice a land, put a +1/+1 counter on this creature and create two treasure tokens. => Whenever you sacrifice a land, put a +1/+1 counter on this creature and create a treasure token.
+
+Geirdyn Mercenary
+rules_text: Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]
+Flying
+When Geirdyn Skyrider enters the battlefield, if you paid the kicker cost, create two 1/1 red Goblin creature tokens. => Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]
+Flying
+When this creature enters, if you paid the kicker cost, create two 1/1 red Goblin creature tokens.
+
+Shaman of Rholt
+rules_text: {T}, sacrifice Shaman of Rholt: Destroy target enchantment. => {T}, Sacrifice Shaman of Rholt: Destroy target enchantment.
+
+Wurm of Penaloda
+rules_text: Trample
+When Wurm of Penaloda enters the battlefield, gain 8 life. => Trample
+When this creature enters, gain 8 life.
+
+Bumbeldop Family
+rules_text: At the beginning of your end step, put a +1/+1 counter on Bumbeldop Family.
+When Bumbeldop Family dies, create a 1/1 green Ooze token for each +1/+1 counter on it.
+[i]Burp![/i] => At the beginning of your end step, put a +1/+1 counter on this creature.
+When this creature dies, create a 1/1 green Ooze token for each +1/+1 counter on it.
+[i]Burp![/i]
+
+Spear of Geneke
+rules_text: Equipped creature get +1/+1, has flying and “When this creature deals combat damage to a player, scry 2”.
+Equip {2} => Equipped creature get +1/+1 and has flying.
+When this creature deals combat damage to a player, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+Equip {2}
+
+Staff of Gunuku
+rules_text: Equipped creature get +1/+1, has trample and “Whenever this creature deals combat damage to a player, create a 1/1 green Butterfly creature token”.
+Equip {2} => Equipped creature get +1/+1 and has trample.
+Whenever equipped creature deals combat damage to a player, populate. [i](Create a token that's a copy of a creature token you control.)[/i]
+Equip {2}
+
+Hisseyia, Avatar of Purity
+rules_text: Flying, Vigilance
+At the beginning of your end step, gain X life and target opponent mills X cards, where X is the number of creatures you control. => Flying, vigilance
+At the beginning of your end step, gain X life and target opponent mills X cards, where X is the number of creatures you control.
+
+Velioth, Avatar of Growth
+rules_text: Trample
+Other creatures you control get +1/+1 and have trample.
+Whenever a creature you control leaves the battlefield, put a 2/2 green Fungus creature token. => Trample
+Other creatures you control get +1/+1 and have trample.
+Whenever a creature you control leaves the battlefield, create a 2/2 green and red Fungus creature token.
+
+Cathedral of Valdor
+rules_text: When Cathedral of Valdor enters the battlefield, Scry 1.
+{T}: Add {W} or {U}. Cathedral of Valdor deals 1 damage to you. => When Cathedral of Valdor enters the battlefield, scry 1.
+{T}: Add {W} or {U}. Cathedral of Valdor deals 1 damage to you.
+
+Fortress of Geirdyn
+rules_text: When Fortress of Geirdyn enters the battlefield, Scry 1.
+{T}: Add {R} or {W}. Fortress of Geirdyn deals 1 damage to you. => When Fortress of Geirdyn enters the battlefield, scry 1.
+{T}: Add {R} or {W}. Fortress of Geirdyn deals 1 damage to you.
+
+Grotto of Penaloda
+rules_text: When Grotto of Penaloda enters the battlefield, Scry 1.
+{T}: Add {R} or {G}. Grotto of Penaloda deals 1 damage to you. => When Grotto of Penaloda enters the battlefield, scry 1.
+{T}: Add {R} or {G}. Grotto of Penaloda deals 1 damage to you.
+
+Palace of Rholt
+rules_text: When Palace of Rholt enters the battlefield, Scry 1.
+{T}: Add {B} or {G}. Palace of Rholt deals 1 damage to you. => When Palace of Rholt enters the battlefield, scry 1.
+{T}: Add {B} or {G}. Palace of Rholt deals 1 damage to you.
+
+Mausoleum of Udach
+rules_text: When Mausoleum of Udach enters the battlefield, Scry 1.
+{T}: Add {U} or {B}. Mausoleum of Udach deals 1 damage to you. => When Mausoleum of Udach enters the battlefield, scry 1.
+{T}: Add {U} or {B}. Mausoleum of Udach deals 1 damage to you.
+
+Priest of Purity
+rules_text: {W}, {T}: Gain 2 life.
+{U}, {T}: Target player mills three cards. => {W}, {T}: Gain 2 life.
+{U}, {T}: Target player mills two cards.
+
+Geirdyn Overlords
+rules_text: Flying, Double strike, Trample
+You may sacrifice any number of lands when you cast this spell. This spell costs {2} less to cast for each land sacrificed this way. => Flying, double strike, trample
+You may sacrifice any number of lands when you cast this spell. This spell costs {2} less to cast for each land sacrificed this way.
+
+Assashain, Homeless Outsider
+rules_text: Vigilance
+Other creatures you control get +1/+1.
+When Assashain, Homeless Outsider enters the battlefield, create a 3/3 green Beast creature token with trample. => Vigilance
+Other creatures you control get +1/+1.
+When this creature enters, create a 3/3 green Beast creature token with trample.
+
+Escape Reality
+rules_text: Choose one:
+- Return all creatures to their owner's hand
+- Draw four cards => Choose one:
+- Return all creatures to their owner's hand
+- Draw three cards
+
+Hilena, Voice of the Legions
+rules_text: Flying, Vigilance
+When this creature attacks, put a +1/+1 counter on up to two other target creatures you control. => Flying, vigilance
+When this creature attacks, put a +1/+1 counter on up to two other target creatures you control.
+
+Oath of the Saints
+rules_text: Kicker {1}{U}, Buyback {1}{G}{G}
+Prevent all combat damage target creature would deal this turn. If you paid the kicker cost, target player mills as many cards as the toughness of that creature. => Kicker {1}{U}, buyback {1}{G}{G}
+Prevent all combat damage target creature would deal this turn. If you paid the kicker cost, target player mills as many cards as the toughness of that creature.
+
+Oath of the Whisperers
+rules_text: Kicker {1}{B}, Buyback {1}{G}{G}
+Return target nonland permanent to its owner's hand. If you paid the kicker cost, target opponent discards a card. => Kicker {1}{B}, buyback {1}{G}{G}
+Return target nonland permanent to its owner's hand. If you paid the kicker cost, target opponent discards a card.
+
+Oath of the Damned
+rules_text: Kicker {1}{U}, Buyback {1}{R}{R}
+Target player sacrifices a creature. If you paid the kicker cost, whenever a creature you control deals combat damage to a player this turn, draw a card. => Kicker {1}{U}, buyback {1}{R}{R}
+Target player sacrifices a creature. If you paid the kicker cost, whenever a creature you control deals combat damage to a player this turn, loot.
+
+Oath of the Beloved
+rules_text: Kicker {1}{R}, Buyback {1}{U}{U}
+Target creature get +3/+3 until end of turn. If you paid the kicker cost, Oath of the Beloved deals 2 damage to any target. => Kicker {1}{R}, buyback {1}{U}{U}
+Target creature get +3/+3 until end of turn. If you paid the kicker cost, Oath of the Beloved deals 2 damage to any target.
+
+Oath of the Veterans
+rules_text: Kicker {1}{W}, Buyback {1}{B}{B}
+Create a 1/1 red Goblin creature token with haste. If you paid the kicker cost, creatures you control get +1/+1 until end of turn. => Kicker {1}{W}, buyback {1}{B}{B}
+Create a 1/1 red Goblin creature token with haste. If you paid the kicker cost, creatures you control get +1/+1 until end of turn.
+
+Oath of the Conquerors
+rules_text: Kicker {1}{R}, Buyback {1}{U}{U}
+Put a +1/+1 counter on up to two target creatures. If you paid the kicker cost, destroy target artifact. => Kicker {1}{R}, buyback {1}{U}{U}
+Put a +1/+1 counter on up to two target creatures. If you paid the kicker cost, destroy target artifact.
+
+Oath of the Believers
+rules_text: Kicker {1}{W}, Buyback {1}{B}{B}
+Scry 2, then draw a card. If you paid the kicker cost, destroy target enchantment. => Kicker {1}{W}, buyback {1}{B}{B}
+Scry 2, then draw a card. If you paid the kicker cost, destroy target enchantment.
+
+Oath of the Forsakens
+rules_text: Kicker {1}{G}, Buyback {1}{R}{R}
+Sacrifice a creature. If you sacrifice a creature this way, draw two cards. If you paid the kicker cost, return target creature from your graveyard to your hand and gain 2 life. => Kicker {1}{G}, buyback {1}{R}{R}
+Sacrifice a creature. If you sacrifice a creature this way, draw two cards. If you paid the kicker cost, return target creature from your graveyard to your hand and gain 2 life.
+
+Oath of the Lonely
+rules_text: Kicker {1}{B}, Buyback {1}{W}{W}
+Put two +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with trample that is still a land. If you paid the kicker cost, double the number of counters on target permanent. => Kicker {1}{B}, buyback {1}{W}{W}
+Put two +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with trample that is still a land. If you paid the kicker cost, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Oath of the Vengeful
+rules_text: Kicker {1}{G}, Buyback {1}{W}{W}
+Damage can't be prevented this turn. Whenever a creature blocks this turn, it deals one damage to its controller. If you paid the kicker cost, Oath of the Vengeful deals 2 damages to all creatures. => Kicker {1}{G}, buyback {1}{W}{W}
+Damage can't be prevented this turn. Whenever a creature blocks this turn, it deals one damage to its controller. If you paid the kicker cost, Oath of the Vengeful deals 2 damages to all creatures with flying.
+
+Srod, Offspring of Growth
+rules_text: Hexproof, Trample
+Srod, Offspring of Growth can't be blocked by more than two creatures. => Hexproof, Trample
+This creature can't be blocked by more than two creatures.
+
+Guided Purification
+rules_text: Exile target non-land permanent, then Scry 1. => Exile target nonland permanent, then scry 1.
+
+Psychic Touch
+rules_text: Target creature gains Deathtouch until end of turn It fights another creature you don't control. => Target creature you control gains Deathtouch until end of turn. It fights another creature you don't control.
+
+Herald of the Armada
+rules_text: Flying, Protection from Black
+Whenever this creature attacks, you may have target creature you control gain flying until end of turn. => Flying, Protection from Black
+Whenever this creature attacks, you may have target creature you control gains flying until end of turn.
+
+Armada Scout
+rules_text: Flying
+Whenever this creature deals combat damage to a player, draw a card, then discard a card. => Flying
+Whenever this creature deals combat damage to a player, loot 1. [i](Draw one card, then discard that many card(s)[/i].)
+
+Aerial Bulwark
+rules_text: Defender, Flying
+Other creatures you control with defender gain +0/+1. => Defender, flying
+Other creatures you control with defender gain +0/+1.
+
+Gale Ambusher
+rules_text: Flash, Flying => Flash, flying
+
+Landlord's Chest
+rules_text: Whenever Landlord's Chest enters or you sacrifice a land, create a treasure Token.
+{T}, sacrifice Landlord's Chest: Add one mana of any color. => Whenever Landlord's Chest enters, create two Treasure tokens.
+Whenever you sacrifice a land, create a Treasure token.
+{T}, sacrifice Landlord's Chest: Add one mana of any color.
+
+Angel of the Big Titties
+rules_text: Flying, Vigilance
+Whenever this creature deals combat damage to a player, if you control less lands than an opponent, you may search your library for a plains card and put it into you hand, then shuffle. => Flying, vigilance
+Whenever this creature deals combat damage to a player, if you control less lands than an opponent, you may search your library for a plains card and put it into you hand, then shuffle.
+
+Archon of the Unbroken Charge
+rules_text: Flying, Protection from black
+Whenever this creature attacks, untap all other creatures you control. => Flying, protection from black
+Whenever this creature attacks, untap all other creatures you control.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Incomplete Funeral added.

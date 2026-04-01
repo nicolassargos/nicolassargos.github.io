@@ -6,7 +6,7 @@
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Demon",
 			"collector_number": "77",
-			"oracle_text": "Flying, Painlink (Damage dealt to this creature also causes you to lose that much life.)",
+			"oracle_text": "Flying, painlink (Damage dealt to this creature also causes you to lose that much life.)",
 			"power": "4",
 			"toughness": "3",
 			"image_uris": {
@@ -32,7 +32,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Beast",
 			"collector_number": "57",
-			"oracle_text": "Flying, Painlink (Damage dealt to this creature also causes you to lose that much life.)\nWhen Manticore of Udah dies, draw a card, then discard a card.",
+			"oracle_text": "Flying, painlink (Damage dealt to this creature also causes you to lose that much life.)\nWhen Manticore of Udah dies, draw a card, then discard a card.",
 			"power": "3",
 			"toughness": "2",
 			"image_uris": {
@@ -71,7 +71,7 @@
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment",
 			"collector_number": "218",
-			"oracle_text": "Zombie creatures you control get +1/+1.\nSacrifice Zombie Apocalypse: Creatures you control cannot be blocked until end of turn.",
+			"oracle_text": "Zombie creatures you control get +1/+1.\nSacrifice Viphiozes' Last Gambit: Creatures you control cannot be blocked until end of turn.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/5.png"
 			}
@@ -301,7 +301,7 @@
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Beast",
 			"collector_number": "34",
-			"oracle_text": "Flying, Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
+			"oracle_text": "Flying, heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"power": "1",
 			"toughness": "4",
 			"image_uris": {
@@ -314,7 +314,7 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Beast",
 			"collector_number": "9",
-			"oracle_text": "Defender\nSacrifice Defender of Valdor: Prevent all combat damage that would be dealt this turn.",
+			"oracle_text": "Defender\nSacrifice this creature: Prevent all combat damage that would be dealt this turn.",
 			"power": "1",
 			"toughness": "4",
 			"image_uris": {
@@ -327,7 +327,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"collector_number": "28",
-			"oracle_text": "Create two 1/1 white soldier tokens.\nBuyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)",
+			"oracle_text": "Create two 1/1 white Soldier tokens.\nBuyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/27.png"
 			}
@@ -360,7 +360,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Zombie",
 			"collector_number": "45",
-			"oracle_text": "Return another creature you control to its owner's hand: Elusive Corpse can't be blocked until end of turn. Activate this ability as a sorcery and only once each turn.",
+			"oracle_text": "Return another creature you control to its owner's hand: This creature can't be blocked until end of turn. Activate this ability as a sorcery and only once each turn.",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -386,7 +386,7 @@
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
 			"collector_number": "243",
-			"oracle_text": "Equipped creature get +1/+1, has first strike and \u201cWhenever equipped creature deals damage to a player, that player mills that many cards\u201d.\nEquip {3}",
+			"oracle_text": "Equipped creature get +1/+1 and has first strike.\nWhenever equipped creature deals damage to a player, that player mills that many cards.\nEquip {3}",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/32.png"
 			}
@@ -421,7 +421,7 @@
 			"mana_cost": "{U}",
 			"type": "Creature — Zombie Spirit",
 			"collector_number": "44",
-			"oracle_text": "Flying\nWhen Discord's Spirit dies, draw a card.",
+			"oracle_text": "Flying\nWhen this creature dies, draw a card.",
 			"power": "1",
 			"toughness": "1",
 			"image_uris": {
@@ -469,7 +469,7 @@
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Wraith",
 			"collector_number": "110",
-			"oracle_text": "Flying, Painlink (Damage dealt to this creature also causes you to lose that much life.)",
+			"oracle_text": "Flying, painlink (Damage dealt to this creature also causes you to lose that much life.)",
 			"power": "2",
 			"toughness": "3",
 			"image_uris": {
@@ -493,7 +493,7 @@
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Zombie",
 			"collector_number": "94",
-			"oracle_text": "Deathtouch, Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
+			"oracle_text": "Deathtouch, heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"power": "4",
 			"toughness": "4",
 			"image_uris": {
@@ -540,7 +540,7 @@
 		{
 			"name": "Gonoko, The Fourth Brother",
 			"rarity": "rare",
-			"mana_cost": "{R}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Brother",
 			"collector_number": "130",
 			"oracle_text": "Haste\nEach other brother get +1/+1 and gain haste.\nWhenever you control five Brother creatures, you win the game.",
@@ -553,7 +553,7 @@
 		{
 			"name": "Gunuku, The Fifth Brother",
 			"rarity": "rare",
-			"mana_cost": "{G}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Brother",
 			"collector_number": "164",
 			"oracle_text": "Trample\nEach other brother get +1/+1 and gain trample.\nWhenever you control five Brother creatures, you win the game.",
@@ -582,7 +582,7 @@
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Spirit Giant",
 			"collector_number": "90",
-			"oracle_text": "When Enslaved Reveler enters the battlefield, gain 3 life and target opponent discards a card.",
+			"oracle_text": "When this creature enters, gain 3 life and target opponent discards a card.",
 			"power": "3",
 			"toughness": "7",
 			"image_uris": {
@@ -665,7 +665,7 @@
 			"mana_cost": "{3}{W/U}",
 			"type": "Creature — Wall",
 			"collector_number": "233",
-			"oracle_text": "Defender, Lifelink\nWhenever you gain life, each player mills one card.",
+			"oracle_text": "Defender, lifelink\nWhenever you gain life, each player mills one card.",
 			"power": "1",
 			"toughness": "4",
 			"image_uris": {
@@ -711,7 +711,7 @@
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Shade Knight",
 			"collector_number": "96",
-			"oracle_text": "Menace, Protection from white\nWhenever Ihsan, Corrupted Knight enters the battlefield, you may destroy target Angel, Knight or Paladin.",
+			"oracle_text": "Menace, protection from white\nWhenever Ihsan, Corrupted Knight enters the battlefield, you may destroy target Angel, Knight or Paladin.",
 			"power": "4",
 			"toughness": "4",
 			"image_uris": {
@@ -737,7 +737,7 @@
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct Brother",
 			"collector_number": "238",
-			"oracle_text": "Whenever this creature or another Brother creature enters, Scry 1.\nWhenever Mechanical Brother dies, create a 1/1 colorless Construct Brother artifact creature token.",
+			"oracle_text": "Whenever this creature or another Brother creature enters, scry 1.\nWhenever this creature dies, create a 1/1 colorless Construct Brother artifact creature token.",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -761,7 +761,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "135",
-			"oracle_text": "Create a 1/1 red Goblin token for each land in your graveyard.\nBuyback {2} (You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)",
+			"oracle_text": "Create a 1/1 red Goblin token for each land in your graveyard.\nBuyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/63.png"
 			}
@@ -792,9 +792,9 @@
 			"name": "Gonoko's Fury",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "131",
-			"oracle_text": "As an additional cost to play Gonoko's Fury, you may sacrifice a land.\nGonoko's Fury deals X damage to any target, where X is one plus the number of lands in your graveyard.",
+			"oracle_text": "Kicker\u2014 Sacrifice a land\nGonoko's Fury deals X damage to any target, where X is the number of lands in your graveyard.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/66.png"
 			}
@@ -827,7 +827,7 @@
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "195",
-			"oracle_text": "Trample\nAs long as Enraged Baloth is attacking, damage can't be prevented.",
+			"oracle_text": "Trample\nAs long as this creature is attacking, damage can't be prevented.",
 			"power": "4",
 			"toughness": "4",
 			"image_uris": {
@@ -866,7 +866,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie",
 			"collector_number": "89",
-			"oracle_text": "Painlink, Heritage (Damage dealt to this creature also causes you to lose that much life. When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
+			"oracle_text": "Painlink, heritage (Damage dealt to this creature also causes you to lose that much life. When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"power": "3",
 			"toughness": "1",
 			"image_uris": {
@@ -905,7 +905,7 @@
 			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Creature — Plant Zombie",
 			"collector_number": "222",
-			"oracle_text": "Defender, Reach\nSacrifice a creature: Gain life equal to its toughness.",
+			"oracle_text": "Defender, reach\nSacrifice a creature: Gain life equal to its toughness.",
 			"power": "0",
 			"toughness": "4",
 			"image_uris": {
@@ -929,7 +929,7 @@
 			"mana_cost": "{B/G}",
 			"type": "Instant",
 			"collector_number": "227",
-			"oracle_text": "Choose one:\n - Target creature gains +1/+1 and lifelink until end of turn.\n - Target creature gains indestructible until end of turn.",
+			"oracle_text": "Choose one\n - Target creature gains +1/+1 and lifelink until end of turn.\n - Target creature gains indestructible until end of turn.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/77.png"
 			}
@@ -1067,7 +1067,7 @@
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Human",
 			"collector_number": "212",
-			"oracle_text": "Vigilance, Flying, Lifelink, First strike, Trample.\n{T}, Sacrifice Thyrroene, Mother of All: Search your library for up to four Brother creatures and put them onto the battlefield.",
+			"oracle_text": "First strike, flying, lifelink, trample, vigilance.\n{T}, Sacrifice Thyrroene, Mother of All: Search your library for up to four Brother creatures and put them onto the battlefield.",
 			"power": "4",
 			"toughness": "4",
 			"image_uris": {
@@ -1095,7 +1095,7 @@
 			"collector_number": "13",
 			"oracle_text": "Creature tokens you control get +1/+1.",
 			"power": "1",
-			"toughness": "1",
+			"toughness": "2",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/91.png"
 			}
@@ -1106,7 +1106,7 @@
 			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Creature — Human",
 			"collector_number": "226",
-			"oracle_text": "When Recuiter of the Homeless enters the battlefield, create X 1/1 white Soldier creature tokens, where X is the number of lands in your graveyard.",
+			"oracle_text": "When this creature enters, create X 1/1 white Soldier creature tokens, where X is the number of lands in your graveyard.",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -1119,7 +1119,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Unicorn",
 			"collector_number": "29",
-			"oracle_text": "Sacrifice Ronom Unicorn: Destroy target enchantment.",
+			"oracle_text": "Sacrifice this creature: Destroy target enchantment.",
 			"power": "3",
 			"toughness": "1",
 			"image_uris": {
@@ -1223,7 +1223,7 @@
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Whale",
 			"collector_number": "63",
-			"oracle_text": "Flying\nWhen Propulsed Whale enters the battlefield, return a creature you control to its owner's hand.",
+			"oracle_text": "Flying\nWhen this creature enters, return a creature you control to its owner's hand.",
 			"power": "4",
 			"toughness": "4",
 			"image_uris": {
@@ -1249,7 +1249,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie Goblin",
 			"collector_number": "84",
-			"oracle_text": "When Corrupted Missionary enters the battlefield, target creature get -1/-1 until end of turn and its controller loses one life.",
+			"oracle_text": "When Corrupted Missionary enters the battlefield, target creature gets -1/-1 until end of turn and its controller loses one life.",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -1405,7 +1405,7 @@
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Beast",
 			"collector_number": "116",
-			"oracle_text": "Haste, Heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
+			"oracle_text": "Haste, heritage (When this spell is countered or this creature dies, reveal the top cards of your library until you reveal a card of the same type and lesser mana value. You may cast that card without paying its mana cost. Put all other cards revealed this way on the bottom of your library in a random order.)",
 			"power": "4",
 			"toughness": "2",
 			"image_uris": {
@@ -1418,7 +1418,7 @@
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Goblin",
 			"collector_number": "129",
-			"oracle_text": "Whenever you sacrifice a land, put a +1/+1 counter on this creature and create two treasure tokens.",
+			"oracle_text": "Whenever you sacrifice a land, put a +1/+1 counter on this creature and create a treasure token.",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -1431,7 +1431,7 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "127",
-			"oracle_text": "Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)\nFlying\nWhen Geirdyn Skyrider enters the battlefield, if you paid the kicker cost, create two 1/1 red Goblin creature tokens.",
+			"oracle_text": "Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)\nFlying\nWhen this creature enters, if you paid the kicker cost, create two 1/1 red Goblin creature tokens.",
 			"power": "2",
 			"toughness": "3",
 			"image_uris": {
@@ -1457,7 +1457,7 @@
 			"mana_cost": "{G}",
 			"type": "Creature — Beast Shaman",
 			"collector_number": "182",
-			"oracle_text": "{T}, sacrifice Shaman of Rholt: Destroy target enchantment.",
+			"oracle_text": "{T}, Sacrifice Shaman of Rholt: Destroy target enchantment.",
 			"power": "1",
 			"toughness": "1",
 			"image_uris": {
@@ -1509,7 +1509,7 @@
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Creature — Wurm",
 			"collector_number": "190",
-			"oracle_text": "Trample\nWhen Wurm of Penaloda enters the battlefield, gain 8 life.",
+			"oracle_text": "Trample\nWhen this creature enters, gain 8 life.",
 			"power": "8",
 			"toughness": "8",
 			"image_uris": {
@@ -1535,7 +1535,7 @@
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "156",
-			"oracle_text": "At the beginning of your end step, put a +1/+1 counter on Bumbeldop Family.\nWhen Bumbeldop Family dies, create a 1/1 green Ooze token for each +1/+1 counter on it.\nBurp!",
+			"oracle_text": "At the beginning of your end step, put a +1/+1 counter on this creature.\nWhen this creature dies, create a 1/1 green Ooze token for each +1/+1 counter on it.\nBurp!",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -1561,7 +1561,7 @@
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
 			"collector_number": "241",
-			"oracle_text": "Equipped creature get +1/+1, has flying and \u201cWhen this creature deals combat damage to a player, scry 2\u201d.\nEquip {2}",
+			"oracle_text": "Equipped creature get +1/+1 and has flying.\nWhen this creature deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nEquip {2}",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/127.png"
 			}
@@ -1594,7 +1594,7 @@
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
 			"collector_number": "242",
-			"oracle_text": "Equipped creature get +1/+1, has trample and \u201cWhenever this creature deals combat damage to a player, create a 1/1 green Butterfly creature token\u201d.\nEquip {2}",
+			"oracle_text": "Equipped creature get +1/+1 and has trample.\nWhenever equipped creature deals combat damage to a player, populate. (Create a token that's a copy of a creature token you control.)\nEquip {2}",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/130.png"
 			}
@@ -1605,7 +1605,7 @@
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — Incarnation",
 			"collector_number": "199",
-			"oracle_text": "Flying, Vigilance\nAt the beginning of your end step, gain X life and target opponent mills X cards, where X is the number of creatures you control.",
+			"oracle_text": "Flying, vigilance\nAt the beginning of your end step, gain X life and target opponent mills X cards, where X is the number of creatures you control.",
 			"power": "4",
 			"toughness": "6",
 			"image_uris": {
@@ -1657,7 +1657,7 @@
 			"mana_cost": "{5}{R}{G}",
 			"type": "Legendary Creature — Incarnation",
 			"collector_number": "216",
-			"oracle_text": "Trample\nOther creatures you control get +1/+1 and have trample.\nWhenever a creature you control leaves the battlefield, put a 2/2 green Fungus creature token.",
+			"oracle_text": "Trample\nOther creatures you control get +1/+1 and have trample.\nWhenever a creature you control leaves the battlefield, create a 2/2 green and red Fungus creature token.",
 			"power": "7",
 			"toughness": "7",
 			"image_uris": {
@@ -1804,7 +1804,7 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "244",
-			"oracle_text": "When Cathedral of Valdor enters the battlefield, Scry 1.\n{T}: Add {W} or {U}. Cathedral of Valdor deals 1 damage to you.",
+			"oracle_text": "When Cathedral of Valdor enters the battlefield, scry 1.\n{T}: Add {W} or {U}. Cathedral of Valdor deals 1 damage to you.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/148.png"
 			}
@@ -1815,7 +1815,7 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "245",
-			"oracle_text": "When Fortress of Geirdyn enters the battlefield, Scry 1.\n{T}: Add {R} or {W}. Fortress of Geirdyn deals 1 damage to you.",
+			"oracle_text": "When Fortress of Geirdyn enters the battlefield, scry 1.\n{T}: Add {R} or {W}. Fortress of Geirdyn deals 1 damage to you.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/149.png"
 			}
@@ -1826,7 +1826,7 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "246",
-			"oracle_text": "When Grotto of Penaloda enters the battlefield, Scry 1.\n{T}: Add {R} or {G}. Grotto of Penaloda deals 1 damage to you.",
+			"oracle_text": "When Grotto of Penaloda enters the battlefield, scry 1.\n{T}: Add {R} or {G}. Grotto of Penaloda deals 1 damage to you.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/150.png"
 			}
@@ -1837,7 +1837,7 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "250",
-			"oracle_text": "When Palace of Rholt enters the battlefield, Scry 1.\n{T}: Add {B} or {G}. Palace of Rholt deals 1 damage to you.",
+			"oracle_text": "When Palace of Rholt enters the battlefield, scry 1.\n{T}: Add {B} or {G}. Palace of Rholt deals 1 damage to you.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/151.png"
 			}
@@ -1848,7 +1848,7 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "248",
-			"oracle_text": "When Mausoleum of Udach enters the battlefield, Scry 1.\n{T}: Add {U} or {B}. Mausoleum of Udach deals 1 damage to you.",
+			"oracle_text": "When Mausoleum of Udach enters the battlefield, scry 1.\n{T}: Add {U} or {B}. Mausoleum of Udach deals 1 damage to you.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/152.png"
 			}
@@ -1882,7 +1882,7 @@
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "210",
-			"oracle_text": "{W}, {T}: Gain 2 life.\n{U}, {T}: Target player mills three cards.",
+			"oracle_text": "{W}, {T}: Gain 2 life.\n{U}, {T}: Target player mills two cards.",
 			"power": "2",
 			"toughness": "2",
 			"image_uris": {
@@ -1947,7 +1947,7 @@
 			"mana_cost": "{8}{R}{R}{R}",
 			"type": "Creature — Dragon",
 			"collector_number": "128",
-			"oracle_text": "Flying, Double strike, Trample\nYou may sacrifice any number of lands when you cast this spell. This spell costs {2} less to cast for each land sacrificed this way.",
+			"oracle_text": "Flying, double strike, trample\nYou may sacrifice any number of lands when you cast this spell. This spell costs {2} less to cast for each land sacrificed this way.",
 			"power": "6",
 			"toughness": "6",
 			"image_uris": {
@@ -1971,7 +1971,7 @@
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Human Paladin",
 			"collector_number": "193",
-			"oracle_text": "Vigilance\nOther creatures you control get +1/+1.\nWhen Assashain, Homeless Outsider enters the battlefield, create a 3/3 green Beast creature token with trample.",
+			"oracle_text": "Vigilance\nOther creatures you control get +1/+1.\nWhen this creature enters, create a 3/3 green Beast creature token with trample.",
 			"power": "3",
 			"toughness": "3",
 			"image_uris": {
@@ -2089,7 +2089,7 @@
 			"mana_cost": "{2}{U}{U}{U}",
 			"type": "Instant",
 			"collector_number": "47",
-			"oracle_text": "Choose one:\n- Return all creatures to their owner's hand\n- Draw four cards",
+			"oracle_text": "Choose one:\n- Return all creatures to their owner's hand\n- Draw three cards",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/172.png"
 			}
@@ -2100,7 +2100,7 @@
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Angel",
 			"collector_number": "16",
-			"oracle_text": "Flying, Vigilance\nWhen this creature attacks, put a +1/+1 counter on up to two other target creatures you control.",
+			"oracle_text": "Flying, vigilance\nWhen this creature attacks, put a +1/+1 counter on up to two other target creatures you control.",
 			"power": "4",
 			"toughness": "4",
 			"image_uris": {
@@ -2113,7 +2113,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "19",
-			"oracle_text": "Kicker {1}{U}, Buyback {1}{G}{G}\nPrevent all combat damage target creature would deal this turn. If you paid the kicker cost, target player mills as many cards as the toughness of that creature.",
+			"oracle_text": "Kicker {1}{U}, buyback {1}{G}{G}\nPrevent all combat damage target creature would deal this turn. If you paid the kicker cost, target player mills as many cards as the toughness of that creature.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/174.png"
 			}
@@ -2124,7 +2124,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "59",
-			"oracle_text": "Kicker {1}{B}, Buyback {1}{G}{G}\nReturn target nonland permanent to its owner's hand. If you paid the kicker cost, target opponent discards a card.",
+			"oracle_text": "Kicker {1}{B}, buyback {1}{G}{G}\nReturn target nonland permanent to its owner's hand. If you paid the kicker cost, target opponent discards a card.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/175.png"
 			}
@@ -2135,7 +2135,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "104",
-			"oracle_text": "Kicker {1}{U}, Buyback {1}{R}{R}\nTarget player sacrifices a creature. If you paid the kicker cost, whenever a creature you control deals combat damage to a player this turn, draw a card.",
+			"oracle_text": "Kicker {1}{U}, buyback {1}{R}{R}\nTarget player sacrifices a creature. If you paid the kicker cost, whenever a creature you control deals combat damage to a player this turn, loot.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/176.png"
 			}
@@ -2146,7 +2146,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "173",
-			"oracle_text": "Kicker {1}{R}, Buyback {1}{U}{U}\nTarget creature get +3/+3 until end of turn. If you paid the kicker cost, Oath of the Beloved deals 2 damage to any target.",
+			"oracle_text": "Kicker {1}{R}, buyback {1}{U}{U}\nTarget creature get +3/+3 until end of turn. If you paid the kicker cost, Oath of the Beloved deals 2 damage to any target.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/177.png"
 			}
@@ -2157,7 +2157,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "141",
-			"oracle_text": "Kicker {1}{W}, Buyback {1}{B}{B}\nCreate a 1/1 red Goblin creature token with haste. If you paid the kicker cost, creatures you control get +1/+1 until end of turn.",
+			"oracle_text": "Kicker {1}{W}, buyback {1}{B}{B}\nCreate a 1/1 red Goblin creature token with haste. If you paid the kicker cost, creatures you control get +1/+1 until end of turn.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/178.png"
 			}
@@ -2168,7 +2168,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "18",
-			"oracle_text": "Kicker {1}{R}, Buyback {1}{U}{U}\nPut a +1/+1 counter on up to two target creatures. If you paid the kicker cost, destroy target artifact.",
+			"oracle_text": "Kicker {1}{R}, buyback {1}{U}{U}\nPut a +1/+1 counter on up to two target creatures. If you paid the kicker cost, destroy target artifact.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/179.png"
 			}
@@ -2179,7 +2179,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "58",
-			"oracle_text": "Kicker {1}{W}, Buyback {1}{B}{B}\nScry 2, then draw a card. If you paid the kicker cost, destroy target enchantment.",
+			"oracle_text": "Kicker {1}{W}, buyback {1}{B}{B}\nScry 2, then draw a card. If you paid the kicker cost, destroy target enchantment.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/180.png"
 			}
@@ -2190,7 +2190,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "105",
-			"oracle_text": "Kicker {1}{G}, Buyback {1}{R}{R}\nSacrifice a creature. If you sacrifice a creature this way, draw two cards. If you paid the kicker cost, return target creature from your graveyard to your hand and gain 2 life.",
+			"oracle_text": "Kicker {1}{G}, buyback {1}{R}{R}\nSacrifice a creature. If you sacrifice a creature this way, draw two cards. If you paid the kicker cost, return target creature from your graveyard to your hand and gain 2 life.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/181.png"
 			}
@@ -2201,7 +2201,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "174",
-			"oracle_text": "Kicker {1}{B}, Buyback {1}{W}{W}\nPut two +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with trample that is still a land. If you paid the kicker cost, double the number of counters on target permanent.",
+			"oracle_text": "Kicker {1}{B}, buyback {1}{W}{W}\nPut two +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with trample that is still a land. If you paid the kicker cost, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/182.png"
 			}
@@ -2212,7 +2212,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "140",
-			"oracle_text": "Kicker {1}{G}, Buyback {1}{W}{W}\nDamage can't be prevented this turn. Whenever a creature blocks this turn, it deals one damage to its controller. If you paid the kicker cost, Oath of the Vengeful deals 2 damages to all creatures.",
+			"oracle_text": "Kicker {1}{G}, buyback {1}{W}{W}\nDamage can't be prevented this turn. Whenever a creature blocks this turn, it deals one damage to its controller. If you paid the kicker cost, Oath of the Vengeful deals 2 damages to all creatures with flying.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/183.png"
 			}
@@ -2236,7 +2236,7 @@
 			"mana_cost": "{R/G}{R/G}{R/G}{R/G}{R/G}",
 			"type": "Legendary Creature — Ape Giant",
 			"collector_number": "230",
-			"oracle_text": "Hexproof, Trample\nSrod, Offspring of Growth can't be blocked by more than two creatures.",
+			"oracle_text": "Hexproof, Trample\nThis creature can't be blocked by more than two creatures.",
 			"power": "8",
 			"toughness": "8",
 			"image_uris": {
@@ -2511,7 +2511,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "179",
-			"oracle_text": "Target creature gains Deathtouch until end of turn It fights another creature you don't control.",
+			"oracle_text": "Target creature you control gains Deathtouch until end of turn. It fights another creature you don't control.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/208.png"
 			}
@@ -2612,7 +2612,7 @@
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Angel",
 			"collector_number": "15",
-			"oracle_text": "Flying, Protection from Black\nWhenever this creature attacks, you may have target creature you control gain flying until end of turn.",
+			"oracle_text": "Flying, Protection from Black\nWhenever this creature attacks, you may have target creature you control gains flying until end of turn.",
 			"power": "1",
 			"toughness": "3",
 			"image_uris": {
@@ -2638,7 +2638,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird",
 			"collector_number": "41",
-			"oracle_text": "Flying\nWhenever this creature deals combat damage to a player, draw a card, then discard a card.",
+			"oracle_text": "Flying\nWhenever this creature deals combat damage to a player, loot 1. (Draw one card, then discard that many card(s).)",
 			"power": "1",
 			"toughness": "1",
 			"image_uris": {
@@ -2832,7 +2832,7 @@
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Wall",
 			"collector_number": "1",
-			"oracle_text": "Defender, Flying\nOther creatures you control with defender gain +0/+1.",
+			"oracle_text": "Defender, flying\nOther creatures you control with defender gain +0/+1.",
 			"power": "0",
 			"toughness": "6",
 			"image_uris": {
@@ -2891,7 +2891,7 @@
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Elemental",
 			"collector_number": "51",
-			"oracle_text": "Flash, Flying",
+			"oracle_text": "Flash, flying",
 			"power": "3",
 			"toughness": "3",
 			"image_uris": {
@@ -3002,7 +3002,7 @@
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Artifact — Treasure",
 			"collector_number": "258",
-			"oracle_text": "Whenever Landlord's Chest enters or you sacrifice a land, create a Treasure token.\n{T}, sacrifice Landlord's Chest: Add one mana of any color.",
+			"oracle_text": "Whenever Landlord's Chest enters, create two Treasure tokens.\nWhenever you sacrifice a land, create a Treasure token.\n{T}, sacrifice Landlord's Chest: Add one mana of any color.",
 			"image_uris": {
 				"en": "https://nicolassargos.github.io/sets/DAD-files/img/249.png"
 			}
@@ -3026,7 +3026,7 @@
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Angel",
 			"collector_number": "255",
-			"oracle_text": "Flying, Vigilance\nWhenever this creature deals combat damage to a player, if you control less lands than an opponent, you may search your library for a plains card and put it into you hand, then shuffle.",
+			"oracle_text": "Flying, vigilance\nWhenever this creature deals combat damage to a player, if you control less lands than an opponent, you may search your library for a plains card and put it into you hand, then shuffle.",
 			"power": "3",
 			"toughness": "4",
 			"image_uris": {
@@ -3076,7 +3076,7 @@
 			"mana_cost": "{3}{W}{W}{W}",
 			"type": "Creature — Archon",
 			"collector_number": "2",
-			"oracle_text": "Flying, Protection from black\nWhenever this creature attacks, untap all other creatures you control.",
+			"oracle_text": "Flying, protection from black\nWhenever this creature attacks, untap all other creatures you control.",
 			"power": "5",
 			"toughness": "5",
 			"image_uris": {
